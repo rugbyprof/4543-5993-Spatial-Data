@@ -1,0 +1,142 @@
+id: 02C
+title: Scale, Resolution, and Detail
+part: Part_02
+module: Raw_Spatial_Data
+sequence: 3
+
+type: lesson
+format: notebook
+
+estimated_time: 75-90 minutes
+
+prerequisites:
+  - 02A-When_Coordinates_Arent_Enough
+  - 02B-Distance_Depends_on_Assumptions
+
+learning_objectives:
+  - Explain the difference between scale, resolution, and detail
+  - Describe how scale affects what spatial data can represent
+  - Explain why detail changes as scale changes
+  - Identify when simplification improves clarity
+  - Recognize common failure modes caused by scale misuse
+  - Reason about spatial data fitness for purpose
+
+key_concepts:
+  - scale
+  - resolution
+  - detail
+  - abstraction
+  - generalization
+  - extent
+  - bounding box
+  - spatial context
+
+skills_applied:
+  - interpreting coordinate-based data
+  - reasoning about spatial abstraction
+  - identifying modeling assumptions
+  - connecting data representation to purpose
+  - critical spatial thinking
+
+deliverables:
+  - Completed notebook.ipynb
+  - Written responses to reflection prompts
+
+assessment:
+  formative:
+    - in-notebook reflection questions
+    - conceptual reasoning prompts
+  summative:
+    - quiz questions derived from reflection and failure modes
+
+files:
+  notebook: notebook.ipynb
+  readme: README.md
+  instructor_notes: .profinfo.md
+  background:
+    - background_notes/overview.md
+    - background_notes/glossary.md
+    - background_notes/exam_prompts.md
+
+policies:
+  collaboration: discussion allowed, work must be individual
+  ai_usage: permitted for explanation and debugging, not for direct answers
+  late_work: see course syllabus
+
+notes:
+  - This lesson intentionally avoids projections and CRS
+  - Focus is on conceptual understanding, not tooling
+  - Designed to normalize simplification and abstraction
+
+
+id: 02D
+title: Editing and Simplifying Spatial Data
+part: Part_02
+module: Raw_Spatial_Data
+sequence: 4
+
+type: lesson
+format: notebook
+
+estimated_time: 75-90 minutes
+
+prerequisites:
+  - 02A-When_Coordinates_Arent_Enough
+  - 02B-Distance_Depends_on_Assumptions
+  - 02C-Scale_Resolution_and_Detail
+
+learning_objectives:
+  - Explain why raw spatial data is rarely usable as-is
+  - Describe simplification as a form of abstraction
+  - Identify risks when editing points, lines, and polygons
+  - Recognize common spatial editing failure modes
+  - Explain why visual validation is essential
+  - Articulate ethical considerations when editing spatial data
+
+key_concepts:
+  - spatial editing
+  - simplification
+  - abstraction
+  - generalization
+  - visual validation
+  - geometry integrity
+  - modeling intent
+
+skills_applied:
+  - reasoning about data modification
+  - identifying spatial data risks
+  - validating data visually
+  - connecting edits to purpose and scale
+  - critical evaluation of spatial representations
+
+deliverables:
+  - Completed notebook.ipynb
+  - Written responses to reflection prompts
+  - Corrected spatial data artifacts (when applicable)
+
+assessment:
+  formative:
+    - in-notebook reflection questions
+    - visual inspection prompts
+  summative:
+    - quiz questions derived from failure modes and ethics
+    - conceptual explanations of editing decisions
+
+files:
+  notebook: notebook.ipynb
+  readme: README.md
+  instructor_notes: .profinfo.md
+  background:
+    - background_notes/overview.md
+    - background_notes/glossary.md
+    - background_notes/exam_prompts.md
+
+policies:
+  collaboration: discussion allowed, submitted work must be individual
+  ai_usage: permitted for explanation and debugging, not for direct answers
+  late_work: see course syllabus
+
+notes:
+  - Emphasizes intentional editing over blind modification
+  - Focuses on conceptual understanding before tooling
+  - Reinforces responsibility and ethics in spatial data handling

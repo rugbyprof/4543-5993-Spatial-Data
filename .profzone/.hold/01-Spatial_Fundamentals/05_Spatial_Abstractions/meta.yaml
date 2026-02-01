@@ -1,0 +1,24 @@
+title: "Spatial Abstractions"
+module: "Spatial Fundamentals"
+order: 5
+estimated_time: "45–60 minutes"
+learning_objectives:
+  - Define spatial abstraction and explain its necessity
+  - Compare vector and raster abstraction models conceptually
+  - Identify tradeoffs introduced by abstraction choices
+  - Recognize abstraction-related sources of spatial error
+prerequisites:
+  - Completion of Location & Position
+  - Completion of Distance & Direction
+  - Completion of Scale & Resolution
+  - Completion of Extent & Bounding Boxes
+deliverables:
+  - Completed notebook with all cells executed
+assessment:
+  - Completion
+  - Conceptual understanding (quiz later)
+tags:
+  - abstraction
+  - vector
+  - raster
+  - spatial fundamentals

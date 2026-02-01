@@ -1,0 +1,22 @@
+title: "Extent & Bounding Boxes"
+module: "Spatial Fundamentals"
+order: 4
+estimated_time: "45–60 minutes"
+learning_objectives:
+  - Define spatial extent and bounding boxes
+  - Compute bounding boxes from spatial data
+  - Explain why extent matters in spatial analysis
+  - Identify common extent-related mistakes
+prerequisites:
+  - Completion of Location & Position
+  - Completion of Distance & Direction
+  - Completion of Scale & Resolution
+deliverables:
+  - Completed notebook with all cells executed
+assessment:
+  - Completion
+  - Conceptual understanding (quiz later)
+tags:
+  - extent
+  - bounding box
+  - spatial fundamentals

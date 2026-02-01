@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection"
+  "features": [
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.8719, -98.5263]
+      },
+      "properties": {
+        "name": "Coffee Shop"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.8725 -98.5281]
+      },
+      "properties": {
+        "name": "School"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.5302, 33.8731]
+      },
+      "properties": {
+        "name": "Bookstore"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [-98.5263, 33.8719],
+            [-98.5281, 33.8725],
+            [-98.5302, 33.8731]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Route from Coffee to Bookstore"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-98.5310, 33.8710],
+            [-98.5310, 33.8740],
+            [-98.5250, 33.8740]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bounding Box"
+      }
+    }
+
+  ]
+}

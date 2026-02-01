@@ -1,0 +1,21 @@
+title: "Distance & Direction"
+module: "Spatial Fundamentals"
+order: 2
+estimated_time: "45–60 minutes"
+learning_objectives:
+  - Understand distance as a modeling choice
+  - Compare Euclidean and Manhattan distance metrics
+  - Explain why different distance measures exist
+  - Interpret direction using coordinate differences
+prerequisites:
+  - Completion of Location & Position
+  - Basic Python tuples and functions
+deliverables:
+  - Completed notebook with all cells executed
+assessment:
+  - Completion
+  - Conceptual understanding (quiz later)
+tags:
+  - distance
+  - direction
+  - spatial fundamentals

@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bolin Hall",
+        "marker-color": "#FF0000",
+        "marker-size": "large",
+        "marker-symbol": "soccer",
+        "fill": "#C392ff",
+        "fill-width": 1,
+        "fill-opacity": 0.25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.51947, 33.87372]
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bookstore",
+        "marker-color": "#00ff00",
+        "marker-symbol": "library",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "coordinates": [-98.52054301247594, 33.873957083293334],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coffee shop",
+        "marker-color": "#a0a0a0",
+        "marker-size": "large",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "coordinates": [-98.51805044396598, 33.87010225735909],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bounding box",
+        "fill": "#ff00ff",
+        "fill-opacity": 0.2,
+        "stroke": "#0000ff"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [-98.52054301247594, 33.873957083293334],
+            [-98.52054301247594, 33.87010225735909],
+            [-98.51805044396598, 33.87010225735909],
+            [-98.51805044396598, 33.873957083293334],
+            [-98.52054301247594, 33.873957083293334]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 3
+    }
+  ]
+}
+
+

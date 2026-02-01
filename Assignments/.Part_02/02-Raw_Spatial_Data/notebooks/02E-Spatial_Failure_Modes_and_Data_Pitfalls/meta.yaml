@@ -1,0 +1,31 @@
+id: 02E
+title: Spatial Failure Modes and Data Pitfalls
+part: Part_02
+module: Raw_Spatial_Data
+sequence: 5
+
+type: lesson
+format: notebook
+
+estimated_time: 60-75 minutes
+
+prerequisites:
+  - 02A-When_Coordinates_Aren't_Enough
+  - 02B-Distance_Depends_on_Assumptions
+  - 02C-Scale_Resolution_and_Detail
+  - 02D-Editing_and_Simplifying_Spatial_Data
+
+learning_objectives:
+  - Identify common spatial failure modes
+  - Explain why spatial errors are often silent
+  - Recognize plausible but incorrect outputs
+  - Apply skepticism and validation strategies
+
+key_concepts:
+  - silent failure
+  - spatial skepticism
+  - validation
+  - plausible error
+
+deliverables:
+  - Completed notebook.ipynb

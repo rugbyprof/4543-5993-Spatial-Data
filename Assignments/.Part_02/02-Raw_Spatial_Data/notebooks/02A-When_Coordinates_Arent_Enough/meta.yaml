@@ -1,0 +1,67 @@
+title: "02A — When Coordinates Aren’t Enough"
+module: "Project 02 — Raw Spatial Data"
+part: "Part_02"
+order: 1
+type: "conceptual + coding"
+status: "draft"
+
+estimated_time:
+  reading: "35–45 minutes"
+  coding: "40–60 minutes"
+  total: "1.5–2 hours"
+
+prerequisites:
+  - "01-Hello_GeoJSON"
+  - "Part_01 Python fundamentals (lists, tuples, dictionaries)"
+  - "Basic file I/O and JSON parsing"
+
+learning_objectives:
+  - "Explain why a coordinate pair alone is incomplete"
+  - "Identify missing context in spatial data"
+  - "Detect common coordinate-related failure modes"
+  - "Explain why latitude and longitude are not symmetric"
+  - "Validate coordinates before spatial analysis"
+
+key_concepts:
+  - "Coordinates vs location"
+  - "Reference systems as agreements"
+  - "Longitude and latitude ranges"
+  - "Silent spatial failure"
+  - "Context and assumptions in spatial data"
+
+python_skills_reused:
+  - "Lists and tuples"
+  - "Dictionary access and nesting"
+  - "Loops and conditionals"
+  - "File I/O with JSON"
+  - "Basic validation logic"
+
+deliverables:
+  - "Completed Jupyter notebook"
+  - "Written responses to introspective questions"
+  - "Coordinate validation code cells"
+
+assessment_alignment:
+  quizzes:
+    - "Why does location require a reference?"
+    - "What information is missing from an (x, y) pair?"
+    - "Identify invalid longitude/latitude values"
+  exams:
+    - "Explain why coordinate errors often go unnoticed"
+    - "Describe a silent spatial failure and its consequences"
+    - "Explain why coordinates are not meaningful without context"
+
+common_mistakes_to_watch_for:
+  - "Assuming coordinates imply units"
+  - "Swapping longitude and latitude"
+  - "Trusting visual output without validation"
+  - "Treating numbers as inherently meaningful"
+
+forward_connections:
+  - "02B — Distance Depends on Assumptions"
+  - "Later discussion of projections and CRS"
+
+notes:
+  - "No distance calculations introduced here"
+  - "No projections or EPSG codes"
+  - "Focus is on meaning, not measurement"

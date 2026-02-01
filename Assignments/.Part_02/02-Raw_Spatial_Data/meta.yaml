@@ -1,0 +1,34 @@
+assignment_id: 02-Raw_Spatial_Data
+title: Raw Spatial Data
+course: Spatial Data & Mapping
+part: Part_02
+type: project
+graded: true
+estimated_time: 2.5–3 weeks
+
+prerequisites:
+  - 01-Hello_GeoJSON
+  - Part_01 Python Onramp
+
+description: >
+  This project introduces students to raw spatial data through
+  direct inspection, editing, and validation of spatial files.
+  Emphasis is placed on structure, assumptions, and spatial reasoning
+  rather than GIS software or advanced analysis.
+
+learning_outcomes:
+  - Read and validate raw spatial data formats
+  - Identify points, paths, and spatial extents
+  - Explain why spatial data requires reference and context
+  - Recognize when distance, location, or extent assumptions fail
+  - Use visualization as a validation tool, not a source of truth
+
+deliverables:
+  - Completed notebooks (01a–01f)
+  - GitHub repository or submission folder
+  - Reflection responses embedded in notebooks
+
+notes:
+  - This project intentionally avoids projections and CRS theory
+  - Approximate reasoning is acceptable and encouraged
+  - Formal spatial analysis is introduced in later projects

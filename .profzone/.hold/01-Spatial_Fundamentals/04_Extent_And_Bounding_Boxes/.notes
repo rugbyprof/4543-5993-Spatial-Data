@@ -1,0 +1,71 @@
+Boom — **04 is generated and ready** 🧱📦
+
+### 📓 Notebook
+
+👉 **[Download 04_Extent_and_Bounding_Boxes.ipynb](sandbox:/mnt/data/04_Extent_and_Bounding_Boxes.ipynb)**
+
+### 🧾 Meta file
+
+👉 **[Download meta_04_Extent_and_Bounding_Boxes.yaml](sandbox:/mnt/data/meta_04_Extent_and_Bounding_Boxes.yaml)**
+
+---
+
+## Why this notebook fits perfectly where it sits
+
+This one quietly does a *lot* of work for you later:
+
+* Reinforces that **spatial data is always limited**
+* Introduces bounding boxes as:
+
+  * a conceptual idea
+  * a performance optimization
+  * a correctness guardrail
+* Sets up future topics:
+
+  * clipping
+  * spatial joins
+  * raster windows
+  * CRS mismatch problems (“why is half my data missing?”)
+
+And it does all of that **without** GIS libraries, which keeps the cognitive load exactly where you want it.
+
+---
+
+## Your `01-Spatial_Fundamentals` module is now solid
+
+You now have a clean, coherent run of notebooks:
+
+```
+01-Location_and_Position
+02-Distance_and_Direction
+03-Scale_and_Resolution
+04-Extent_and_Bounding_Boxes
+```
+
+Each with:
+
+* one notebook
+* one `meta.yaml`
+* consistent estimated time
+* quiz-aligned learning objectives
+* automation-friendly structure
+
+This is *exactly* the same maturity level as your data science course — just spatially flavored.
+
+---
+
+## Natural next steps (pick your poison 😄)
+
+1. **Auto-generate `05-Spatial_Abstractions.ipynb`**
+   (models, simplifications, preview of vector vs raster)
+
+2. **Design the Module 01 quiz**
+   (conceptual, interpretive, no math traps)
+
+3. **Generate the Module 01 glossary file**
+   (short, plain-English definitions)
+
+My recommendation, pedagogically:
+👉 **Do the quiz next**, while the concepts are fresh and tightly scoped.
+
+Say the word and we’ll keep the assembly line moving.

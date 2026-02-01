@@ -1,0 +1,67 @@
+title: "02b — Distance Depends on Assumptions"
+module: "Project 02 — Raw Spatial Data"
+part: "Part_02"
+order: 2
+type: "conceptual + coding"
+status: "draft"
+
+estimated_time:
+  reading: "30–40 minutes"
+  coding: "45–60 minutes"
+  total: "1.5–2 hours"
+
+prerequisites:
+  - "02a — When Coordinates Aren’t Enough"
+  - "Part_01 Python fundamentals (loops, conditionals, functions)"
+  - "Basic familiarity with tuples and lists"
+
+learning_objectives:
+  - "Explain why distance is a model, not a fact"
+  - "Compare straight-line, path-based, and Manhattan distance"
+  - "Identify assumptions embedded in different distance models"
+  - "Explain why degrees are not units of distance"
+  - "Justify a distance model based on real-world context"
+
+key_concepts:
+  - "Euclidean distance"
+  - "Path-based distance"
+  - "Manhattan distance"
+  - "Distance as a modeling choice"
+  - "Degrees vs distance"
+  - "Silent failure in spatial calculations"
+
+python_skills_reused:
+  - "Arithmetic operations"
+  - "Loops and accumulators"
+  - "Conditionals"
+  - "Functions"
+  - "Lists and tuples"
+
+deliverables:
+  - "Completed Jupyter notebook"
+  - "Short written responses to introspective questions"
+  - "Code cells demonstrating multiple distance models"
+
+assessment_alignment:
+  quizzes:
+    - "Conceptual questions on distance assumptions"
+    - "Identify appropriate distance models for scenarios"
+  exams:
+    - "Explain why two distance calculations can both be correct"
+    - "Compare Euclidean and Manhattan distance in context"
+    - "Describe when straight-line distance is misleading"
+
+common_mistakes_to_watch_for:
+  - "Treating degrees as meters or miles"
+  - "Assuming straight-line distance is always correct"
+  - "Ignoring movement constraints"
+  - "Over-trusting numerical output"
+
+forward_connections:
+  - "02c — Scale, Resolution, and Detail"
+  - "Later discussion of projections and geodesic distance"
+
+notes:
+  - "No projections or CRS introduced here"
+  - "Focus is on assumptions, not precision"
+  - "All Python used should be familiar from Part_01"

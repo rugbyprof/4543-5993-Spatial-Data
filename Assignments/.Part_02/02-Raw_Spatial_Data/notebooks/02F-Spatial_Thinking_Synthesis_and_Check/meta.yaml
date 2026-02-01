@@ -1,0 +1,31 @@
+id: 02F
+title: Spatial Thinking Synthesis and Check
+part: Part_02
+module: Raw_Spatial_Data
+sequence: 6
+
+type: lesson
+format: notebook
+
+estimated_time: 45-60 minutes
+
+prerequisites:
+  - 02A-When_Coordinates_Arent_Enough
+  - 02B-Distance_Depends_on_Assumptions
+  - 02C-Scale_Resolution_and_Detail
+  - 02D-Editing_and_Simplifying_Spatial_Data
+  - 02E-Spatial_Failure_Modes
+
+learning_objectives:
+  - Synthesize core spatial concepts
+  - Explain spatial reasoning without tools
+  - Critically evaluate spatial outputs
+
+key_concepts:
+  - spatial thinking
+  - synthesis
+  - validation
+  - assumptions
+
+deliverables:
+  - Completed notebook.ipynb

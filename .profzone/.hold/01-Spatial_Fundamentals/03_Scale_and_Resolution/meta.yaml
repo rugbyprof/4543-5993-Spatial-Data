@@ -1,0 +1,21 @@
+title: "Scale & Resolution"
+module: "Spatial Fundamentals"
+order: 3
+estimated_time: "45–60 minutes"
+learning_objectives:
+  - Distinguish between scale and resolution
+  - Explain how resolution affects spatial analysis
+  - Recognize tradeoffs between detail and performance
+  - Identify common misconceptions about scale and resolution
+prerequisites:
+  - Completion of Location & Position
+  - Completion of Distance & Direction
+deliverables:
+  - Completed notebook with all cells executed
+assessment:
+  - Completion
+  - Conceptual understanding (quiz later)
+tags:
+  - scale
+  - resolution
+  - spatial fundamentals

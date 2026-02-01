@@ -1,0 +1,6765 @@
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86471",
+        "mass": 2.49,
+        "year": 1986,
+        "id": 29977,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#ddc300",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86470",
+        "mass": 0.82,
+        "year": 1986,
+        "id": 29976,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#a245c3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86472",
+        "mass": 1.83,
+        "year": 1986,
+        "id": 29978,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#45adf5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86474",
+        "mass": 3.02,
+        "year": 1986,
+        "id": 29980,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#aeef56",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86473",
+        "mass": 2.06,
+        "year": 1986,
+        "id": 29979,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#6f64e0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86475",
+        "mass": 1.49,
+        "year": 1986,
+        "id": 29981,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#c1c5e4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86476",
+        "mass": 2.05,
+        "year": 1986,
+        "id": 29982,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#911089",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86477",
+        "mass": 1.54,
+        "year": 1986,
+        "id": 29983,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#78462a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86479",
+        "mass": 0.95,
+        "year": 1986,
+        "id": 29985,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#b94cfa",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86478",
+        "mass": 1.06,
+        "year": 1986,
+        "id": 29984,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#c436df",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86480",
+        "mass": 0.89,
+        "year": 1986,
+        "id": 29986,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#1bb898",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86481",
+        "mass": 3.11,
+        "year": 1986,
+        "id": 29987,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#4903fa",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86482",
+        "mass": 2.52,
+        "year": 1986,
+        "id": 29988,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#3c45e8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86483",
+        "mass": 1.94,
+        "year": 1986,
+        "id": 29989,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#3ddc76",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86484",
+        "mass": 2.37,
+        "year": 1986,
+        "id": 29990,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#1db8dc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86485",
+        "mass": 1.45,
+        "year": 1986,
+        "id": 29991,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#10a719",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86487",
+        "mass": 1.59,
+        "year": 1986,
+        "id": 29993,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#53cf4e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86486",
+        "mass": 2.01,
+        "year": 1986,
+        "id": 29992,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#6a198c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86488",
+        "mass": 1.5,
+        "year": 1986,
+        "id": 29994,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#97a61e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86489",
+        "mass": 1.41,
+        "year": 1986,
+        "id": 29995,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#6a9805",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86490",
+        "mass": 1.08,
+        "year": 1986,
+        "id": 29996,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e524b8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86491",
+        "mass": 2.55,
+        "year": 1986,
+        "id": 29997,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#13fcf0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86492",
+        "mass": 3.43,
+        "year": 1986,
+        "id": 29998,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#431dd9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86494",
+        "mass": 2.02,
+        "year": 1986,
+        "id": 30000,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#ab8027",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86493",
+        "mass": 2.18,
+        "year": 1986,
+        "id": 29999,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e62182",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86495",
+        "mass": 2.57,
+        "year": 1986,
+        "id": 30001,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#511599",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86497",
+        "mass": 2.17,
+        "year": 1986,
+        "id": 30003,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f2d148",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86496",
+        "mass": 1.74,
+        "year": 1986,
+        "id": 30002,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#fb7866",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86498",
+        "mass": 1.53,
+        "year": 1986,
+        "id": 30004,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f1464f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86499",
+        "mass": 1.52,
+        "year": 1986,
+        "id": 30005,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#d23222",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86500",
+        "mass": 1.25,
+        "year": 1986,
+        "id": 30006,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#a92827",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86501",
+        "mass": 3.52,
+        "year": 1986,
+        "id": 30007,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e0ba9e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86502",
+        "mass": 2.45,
+        "year": 1986,
+        "id": 30008,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#5e9dac",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86503",
+        "mass": 2.29,
+        "year": 1986,
+        "id": 30009,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#a25bb2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86504",
+        "mass": 2.41,
+        "year": 1986,
+        "id": 30010,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#8f2605",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86505",
+        "mass": 1.27,
+        "year": 1986,
+        "id": 30011,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#5f1a9e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86506",
+        "mass": 2.06,
+        "year": 1986,
+        "id": 30012,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#919f5b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86508",
+        "mass": 0.64,
+        "year": 1986,
+        "id": 30014,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f481a7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86507",
+        "mass": 0.71,
+        "year": 1986,
+        "id": 30013,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#81076a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86509",
+        "mass": 0.51,
+        "year": 1986,
+        "id": 30015,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#255714",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86510",
+        "mass": 0.65,
+        "year": 1986,
+        "id": 30016,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#ec701f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86512",
+        "mass": 1.18,
+        "year": 1986,
+        "id": 30018,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#7798a6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86511",
+        "mass": 2.32,
+        "year": 1986,
+        "id": 30017,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#62f0b2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86514",
+        "mass": 2.45,
+        "year": 1986,
+        "id": 30020,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#810968",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86513",
+        "mass": 1.92,
+        "year": 1986,
+        "id": 30019,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#982175",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86515",
+        "mass": 1.38,
+        "year": 1986,
+        "id": 30021,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#6507d8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86516",
+        "mass": 0.33,
+        "year": 1986,
+        "id": 30022,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e22784",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86518",
+        "mass": 1.72,
+        "year": 1986,
+        "id": 30024,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f68817",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86519",
+        "mass": 1.96,
+        "year": 1986,
+        "id": 30025,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#c24b62",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86517",
+        "mass": 1.48,
+        "year": 1986,
+        "id": 30023,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#2eeb54",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86520",
+        "mass": 2,
+        "year": 1986,
+        "id": 30026,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#611ce4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86521",
+        "mass": 2.65,
+        "year": 1986,
+        "id": 30027,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f67633",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86522",
+        "mass": 2.99,
+        "year": 1986,
+        "id": 30028,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#7ca95b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86523",
+        "mass": 1.24,
+        "year": 1986,
+        "id": 30029,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#91fb8d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86524",
+        "mass": 0.96,
+        "year": 1986,
+        "id": 30030,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#1751b8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86525",
+        "mass": 2.01,
+        "year": 1986,
+        "id": 30031,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e6edd2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86526",
+        "mass": 1.74,
+        "year": 1986,
+        "id": 30032,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#2868c2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86527",
+        "mass": 2.48,
+        "year": 1986,
+        "id": 30033,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#eebc0b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86528",
+        "mass": 2.34,
+        "year": 1986,
+        "id": 30034,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#4e4795",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86529",
+        "mass": 0.94,
+        "year": 1986,
+        "id": 30035,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#928ff1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86531",
+        "mass": 2.45,
+        "year": 1986,
+        "id": 30037,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#c6ffe2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86533",
+        "mass": 1.73,
+        "year": 1986,
+        "id": 30039,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#091b5f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86532",
+        "mass": 1.82,
+        "year": 1986,
+        "id": 30038,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#cf8e7d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86530",
+        "mass": 1.11,
+        "year": 1986,
+        "id": 30036,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#cbe058",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86534",
+        "mass": 2.15,
+        "year": 1986,
+        "id": 30040,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#c33f2f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86535",
+        "mass": 1.17,
+        "year": 1986,
+        "id": 30041,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#195d0b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86536",
+        "mass": 1.99,
+        "year": 1986,
+        "id": 30042,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#fcd153",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86537",
+        "mass": 2.03,
+        "year": 1986,
+        "id": 30043,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#283c93",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86538",
+        "mass": 1.42,
+        "year": 1986,
+        "id": 30044,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f96a78",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86540",
+        "mass": 2.12,
+        "year": 1986,
+        "id": 30046,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#8123e8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86539",
+        "mass": 1.36,
+        "year": 1986,
+        "id": 30045,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#876738",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86542",
+        "mass": 2.1,
+        "year": 1986,
+        "id": 30048,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#d651aa",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86541",
+        "mass": 2.64,
+        "year": 1986,
+        "id": 30047,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e83f37",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86544",
+        "mass": 1.57,
+        "year": 1986,
+        "id": 30050,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#055b66",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86543",
+        "mass": 1.11,
+        "year": 1986,
+        "id": 30049,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#577f77",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86545",
+        "mass": 1.96,
+        "year": 1986,
+        "id": 30051,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#4294cb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86546",
+        "mass": 0.42,
+        "year": 1986,
+        "id": 30052,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#47ef02",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86547",
+        "mass": 2.12,
+        "year": 1986,
+        "id": 30053,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#bf623f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86548",
+        "mass": 1.74,
+        "year": 1986,
+        "id": 30054,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#16e67d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86550",
+        "mass": 1.27,
+        "year": 1986,
+        "id": 30056,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#1d641d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86549",
+        "mass": 1.45,
+        "year": 1986,
+        "id": 30055,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e7e4e4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86551",
+        "mass": 1.16,
+        "year": 1986,
+        "id": 30057,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#334020",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86552",
+        "mass": 0.85,
+        "year": 1986,
+        "id": 30058,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#3c3ac5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86553",
+        "mass": 2.34,
+        "year": 1986,
+        "id": 30059,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#957ee7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86556",
+        "mass": 1.1,
+        "year": 1986,
+        "id": 30062,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#581615",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86554",
+        "mass": 1.35,
+        "year": 1986,
+        "id": 30060,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#44734d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86555",
+        "mass": 0.64,
+        "year": 1986,
+        "id": 30061,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#83a0ba",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86557",
+        "mass": 0.66,
+        "year": 1986,
+        "id": 30063,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f5b86e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86558",
+        "mass": 1.23,
+        "year": 1986,
+        "id": 30064,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e9119f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86559",
+        "mass": 1,
+        "year": 1986,
+        "id": 30065,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#fc23c1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86560",
+        "mass": 1.32,
+        "year": 1986,
+        "id": 30066,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#198631",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86561",
+        "mass": 2.06,
+        "year": 1986,
+        "id": 30067,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#3b328e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86562",
+        "mass": 1.68,
+        "year": 1986,
+        "id": 30068,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#502d70",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86563",
+        "mass": 1.21,
+        "year": 1986,
+        "id": 30069,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#eff089",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86565",
+        "mass": 1.25,
+        "year": 1986,
+        "id": 30071,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#4f3935",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86564",
+        "mass": 0.64,
+        "year": 1986,
+        "id": 30070,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#d56e93",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86566",
+        "mass": 0.8,
+        "year": 1986,
+        "id": 30072,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#52c3ac",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86567",
+        "mass": 2.03,
+        "year": 1986,
+        "id": 30073,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#6538c9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86568",
+        "mass": 1.12,
+        "year": 1986,
+        "id": 30074,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#3849ef",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86569",
+        "mass": 0.98,
+        "year": 1986,
+        "id": 30075,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#ea04fc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86571",
+        "mass": 1,
+        "year": 1986,
+        "id": 30077,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#c7e058",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86570",
+        "mass": 0.76,
+        "year": 1986,
+        "id": 30076,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#b09a61",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86572",
+        "mass": 2.62,
+        "year": 1986,
+        "id": 30078,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#4c307e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86573",
+        "mass": 1.79,
+        "year": 1986,
+        "id": 30079,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#ec2380",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86574",
+        "mass": 1.66,
+        "year": 1986,
+        "id": 30080,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#80607a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86576",
+        "mass": 2.06,
+        "year": 1986,
+        "id": 30082,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#9786ea",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86575",
+        "mass": 2.03,
+        "year": 1986,
+        "id": 30081,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#58fa2b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86577",
+        "mass": 1.25,
+        "year": 1986,
+        "id": 30083,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#4c5bae",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86579",
+        "mass": 1,
+        "year": 1986,
+        "id": 30085,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#da31f7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86578",
+        "mass": 1.21,
+        "year": 1986,
+        "id": 30084,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#95edc1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86582",
+        "mass": 1.78,
+        "year": 1986,
+        "id": 30088,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#d0200a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86581",
+        "mass": 1.17,
+        "year": 1986,
+        "id": 30087,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#274e5f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86580",
+        "mass": 1.09,
+        "year": 1986,
+        "id": 30086,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#991f41",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86583",
+        "mass": 1.93,
+        "year": 1986,
+        "id": 30089,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#3aa6bc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86585",
+        "mass": 1.59,
+        "year": 1986,
+        "id": 30091,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#640ffd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86584",
+        "mass": 1.5,
+        "year": 1986,
+        "id": 30090,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e96c84",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86586",
+        "mass": 1.91,
+        "year": 1986,
+        "id": 30092,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#7d01e7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86587",
+        "mass": 1.33,
+        "year": 1986,
+        "id": 30093,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#93cff0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86588",
+        "mass": 0.93,
+        "year": 1986,
+        "id": 30094,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#cb8bca",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86590",
+        "mass": 0.66,
+        "year": 1986,
+        "id": 30096,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#b825d1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86589",
+        "mass": 1.33,
+        "year": 1986,
+        "id": 30095,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#62b2dd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86591",
+        "mass": 1.87,
+        "year": 1986,
+        "id": 30097,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#4cf795",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86592",
+        "mass": 2.67,
+        "year": 1986,
+        "id": 30098,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#5804ee",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86593",
+        "mass": 2.76,
+        "year": 1986,
+        "id": 30099,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#55bdb4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86594",
+        "mass": 2.29,
+        "year": 1986,
+        "id": 30100,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#a10162",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86596",
+        "mass": 1.84,
+        "year": 1986,
+        "id": 30102,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#eef84b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86595",
+        "mass": 3.41,
+        "year": 1986,
+        "id": 30101,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e6ba28",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86597",
+        "mass": 3.12,
+        "year": 1986,
+        "id": 30103,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#d4bcc7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86598",
+        "mass": 2.09,
+        "year": 1986,
+        "id": 30104,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f5869f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86600",
+        "mass": 1.49,
+        "year": 1986,
+        "id": 30106,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#5b6114",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86599",
+        "mass": 1.48,
+        "year": 1986,
+        "id": 30105,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#aad6c8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86602",
+        "mass": 2.04,
+        "year": 1986,
+        "id": 30108,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#2c6161",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86601",
+        "mass": 1.44,
+        "year": 1986,
+        "id": 30107,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#b5b854",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86603",
+        "mass": 1.45,
+        "year": 1986,
+        "id": 30109,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#ceb8b1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86604",
+        "mass": 1.64,
+        "year": 1986,
+        "id": 30110,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#6b8402",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86606",
+        "mass": 0.7,
+        "year": 1986,
+        "id": 30112,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#6cfca9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86605",
+        "mass": 1.61,
+        "year": 1986,
+        "id": 30111,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#3df7fd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86607",
+        "mass": 1.33,
+        "year": 1986,
+        "id": 30113,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#c2e280",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86608",
+        "mass": 1.22,
+        "year": 1986,
+        "id": 30114,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#52ff3b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86611",
+        "mass": 0.97,
+        "year": 1986,
+        "id": 30117,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#312048",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86609",
+        "mass": 1.27,
+        "year": 1986,
+        "id": 30115,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#c7e0ab",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86610",
+        "mass": 1.01,
+        "year": 1986,
+        "id": 30116,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#c448f9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86613",
+        "mass": 1.24,
+        "year": 1986,
+        "id": 30119,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#ef4e82",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86614",
+        "mass": 0.99,
+        "year": 1986,
+        "id": 30120,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e4812d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86612",
+        "mass": 0.8,
+        "year": 1986,
+        "id": 30118,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#4f0d26",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86615",
+        "mass": 1.03,
+        "year": 1986,
+        "id": 30121,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#320da5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86616",
+        "mass": 0.77,
+        "year": 1986,
+        "id": 30122,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#177ec2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86619",
+        "mass": 0.82,
+        "year": 1986,
+        "id": 30125,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#ff3093",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86618",
+        "mass": 1.17,
+        "year": 1986,
+        "id": 30124,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#59b7a4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86617",
+        "mass": 0.77,
+        "year": 1986,
+        "id": 30123,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f22f2a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86621",
+        "mass": 0.85,
+        "year": 1986,
+        "id": 30127,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e8ef7a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86620",
+        "mass": 1.01,
+        "year": 1986,
+        "id": 30126,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#3e91d1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86623",
+        "mass": 0.9,
+        "year": 1986,
+        "id": 30129,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#a9a3c1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86622",
+        "mass": 0.84,
+        "year": 1986,
+        "id": 30128,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#1a3fea",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86625",
+        "mass": 0.85,
+        "year": 1986,
+        "id": 30131,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f983b8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86626",
+        "mass": 0.68,
+        "year": 1986,
+        "id": 30132,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#1ce7cd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86624",
+        "mass": 0.87,
+        "year": 1986,
+        "id": 30130,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#1d51c3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86627",
+        "mass": 0.93,
+        "year": 1986,
+        "id": 30133,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#3ea0aa",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86628",
+        "mass": 0.75,
+        "year": 1986,
+        "id": 30134,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#1e0e1e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86629",
+        "mass": 0.65,
+        "year": 1986,
+        "id": 30135,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f7f1b6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86630",
+        "mass": 27.56,
+        "year": 1986,
+        "id": 30136,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#ab04d1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86631",
+        "mass": 33.94,
+        "year": 1986,
+        "id": 30137,
+        "fall": "Found",
+        "recclass": "L3.8",
+        "marker-color": "#33e2ea",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86632",
+        "mass": 96.59,
+        "year": 1986,
+        "id": 30138,
+        "fall": "Found",
+        "recclass": "L3.6",
+        "marker-color": "#1807ea",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86634",
+        "mass": 27.94,
+        "year": 1986,
+        "id": 30140,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#038546",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86633",
+        "mass": 3.96,
+        "year": 1986,
+        "id": 30139,
+        "fall": "Found",
+        "recclass": "C4",
+        "marker-color": "#142b45",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86636",
+        "mass": 82.9,
+        "year": 1986,
+        "id": 30142,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#f19ff9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86635",
+        "mass": 121.6,
+        "year": 1986,
+        "id": 30141,
+        "fall": "Found",
+        "recclass": "H6",
+        "marker-color": "#b52afc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86638",
+        "mass": 130.8,
+        "year": 1986,
+        "id": 30144,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#9bd5b0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86637",
+        "mass": 297.52,
+        "year": 1986,
+        "id": 30143,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f0f4d5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86640",
+        "mass": 3.46,
+        "year": 1986,
+        "id": 30146,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#37f4a8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86639",
+        "mass": 13.67,
+        "year": 1986,
+        "id": 30145,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#fbd971",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86686",
+        "mass": 26.99,
+        "year": 1986,
+        "id": 30192,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#d2bfe3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86687",
+        "mass": 0.97,
+        "year": 1986,
+        "id": 30193,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#f80ae2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86688",
+        "mass": 0.66,
+        "year": 1986,
+        "id": 30194,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#48b560",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86689",
+        "mass": 263.51,
+        "year": 1986,
+        "id": 30195,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#83da25",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86690",
+        "mass": 9.5,
+        "year": 1986,
+        "id": 30196,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#60b962",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86691",
+        "mass": 104.13,
+        "year": 1986,
+        "id": 30197,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#732ec0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86692",
+        "mass": 19.78,
+        "year": 1986,
+        "id": 30198,
+        "fall": "Found",
+        "recclass": "LL6",
+        "marker-color": "#3e5b36",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86693",
+        "mass": 16.17,
+        "year": 1986,
+        "id": 30199,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#59a412",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86694",
+        "mass": 4.91,
+        "year": 1986,
+        "id": 30200,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#1a856d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86695",
+        "mass": 59.59,
+        "year": 1986,
+        "id": 30201,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#4073b1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86696",
+        "mass": 12.34,
+        "year": 1986,
+        "id": 30202,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#48a090",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86697",
+        "mass": 6.35,
+        "year": 1986,
+        "id": 30203,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#b0c23d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86698",
+        "mass": 6.12,
+        "year": 1986,
+        "id": 30204,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#5361d1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86699",
+        "mass": 6.5,
+        "year": 1986,
+        "id": 30205,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#47cf77",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86700",
+        "mass": 6.56,
+        "year": 1986,
+        "id": 30206,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#ce62a0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86701",
+        "mass": 4.46,
+        "year": 1986,
+        "id": 30207,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#2c8e41",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86702",
+        "mass": 3.2,
+        "year": 1986,
+        "id": 30208,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#78a8dd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86703",
+        "mass": 1.69,
+        "year": 1986,
+        "id": 30209,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#8b97f4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86704",
+        "mass": 1.49,
+        "year": 1986,
+        "id": 30210,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#ec6da7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86705",
+        "mass": 202.69,
+        "year": 1986,
+        "id": 30211,
+        "fall": "Found",
+        "recclass": "L3.9",
+        "marker-color": "#8615cc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86706",
+        "mass": 42.03,
+        "year": 1986,
+        "id": 30212,
+        "fall": "Found",
+        "recclass": "L3.8",
+        "marker-color": "#f7b9a2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86708",
+        "mass": 118.12,
+        "year": 1986,
+        "id": 30214,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#ebb95b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86707",
+        "mass": 10.51,
+        "year": 1986,
+        "id": 30213,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#b3d48c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86710",
+        "mass": 20.2,
+        "year": 1986,
+        "id": 30216,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#064cc2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86709",
+        "mass": 3.08,
+        "year": 1986,
+        "id": 30215,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#7bb485",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86711",
+        "mass": 37.05,
+        "year": 1986,
+        "id": 30217,
+        "fall": "Found",
+        "recclass": "LL3.4",
+        "marker-color": "#f359db",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86712",
+        "mass": 723.55,
+        "year": 1986,
+        "id": 30218,
+        "fall": "Found",
+        "recclass": "L3.5",
+        "marker-color": "#758a68",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86713",
+        "mass": 18.37,
+        "year": 1986,
+        "id": 30219,
+        "fall": "Found",
+        "recclass": "LL6",
+        "marker-color": "#1af7ed",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86714",
+        "mass": 11.38,
+        "year": 1986,
+        "id": 30220,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#bd2afe",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86715",
+        "mass": 31.75,
+        "year": 1986,
+        "id": 30221,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#20b7c2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86716",
+        "mass": 1.61,
+        "year": 1986,
+        "id": 30222,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#523550",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86717",
+        "mass": 14.73,
+        "year": 1986,
+        "id": 30223,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#f0d0f7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86718",
+        "mass": 95.55,
+        "year": 1986,
+        "id": 30224,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#fb2a23",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86719",
+        "mass": 68.64,
+        "year": 1986,
+        "id": 30225,
+        "fall": "Found",
+        "recclass": "L4",
+        "marker-color": "#6f558b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86720",
+        "mass": 858.71,
+        "year": 1986,
+        "id": 30226,
+        "fall": "Found",
+        "recclass": "C2-ung",
+        "marker-color": "#815ce7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86721",
+        "mass": 1.74,
+        "year": 1986,
+        "id": 30227,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#08a5fd",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86722",
+        "mass": 79.04,
+        "year": 1986,
+        "id": 30228,
+        "fall": "Found",
+        "recclass": "LL6",
+        "marker-color": "#6b7ae0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86723",
+        "mass": 2.57,
+        "year": 1986,
+        "id": 30229,
+        "fall": "Found",
+        "recclass": "LL6",
+        "marker-color": "#f48ca7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86724",
+        "mass": 1.54,
+        "year": 1986,
+        "id": 30230,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#694440",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86725",
+        "mass": 3.97,
+        "year": 1986,
+        "id": 30231,
+        "fall": "Found",
+        "recclass": "LL6",
+        "marker-color": "#a9ea04",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86726",
+        "mass": 8.71,
+        "year": 1986,
+        "id": 30232,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#444bcf",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86727",
+        "mass": 1.43,
+        "year": 1986,
+        "id": 30233,
+        "fall": "Found",
+        "recclass": "LL6",
+        "marker-color": "#4fd5e0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86728",
+        "mass": 2.56,
+        "year": 1986,
+        "id": 30234,
+        "fall": "Found",
+        "recclass": "LL6",
+        "marker-color": "#059c6d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86729",
+        "mass": 11.14,
+        "year": 1986,
+        "id": 30235,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#ed4dd4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86730",
+        "mass": 6.54,
+        "year": 1986,
+        "id": 30236,
+        "fall": "Found",
+        "recclass": "LL6",
+        "marker-color": "#ee4048",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86731",
+        "mass": 4.43,
+        "year": 1986,
+        "id": 30237,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#23fa3f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86732",
+        "mass": 4.63,
+        "year": 1986,
+        "id": 30238,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#2287a3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86733",
+        "mass": 3.07,
+        "year": 1986,
+        "id": 30239,
+        "fall": "Found",
+        "recclass": "LL6",
+        "marker-color": "#d2b6d8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86734",
+        "mass": 4.13,
+        "year": 1986,
+        "id": 30240,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#070949",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86736",
+        "mass": 3.09,
+        "year": 1986,
+        "id": 30242,
+        "fall": "Found",
+        "recclass": "CM2",
+        "marker-color": "#1a5e41",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86735",
+        "mass": 1.82,
+        "year": 1986,
+        "id": 30241,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#7bae25",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86737",
+        "mass": 2.81,
+        "year": 1986,
+        "id": 30243,
+        "fall": "Found",
+        "recclass": "CI1",
+        "marker-color": "#8c972f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86739",
+        "mass": 3.42,
+        "year": 1986,
+        "id": 30245,
+        "fall": "Found",
+        "recclass": "LL6",
+        "marker-color": "#3d6560",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86738",
+        "mass": 1.75,
+        "year": 1986,
+        "id": 30244,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#f545cf",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86740",
+        "mass": 1.94,
+        "year": 1986,
+        "id": 30246,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#d22bbc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86741",
+        "mass": 5.89,
+        "year": 1986,
+        "id": 30247,
+        "fall": "Found",
+        "recclass": "LL6",
+        "marker-color": "#48ae70",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86742",
+        "mass": 66.91,
+        "year": 1986,
+        "id": 30248,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#b89fcc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86744",
+        "mass": 1.58,
+        "year": 1986,
+        "id": 30250,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#37264a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86743",
+        "mass": 13.5,
+        "year": 1986,
+        "id": 30249,
+        "fall": "Found",
+        "recclass": "L4/5",
+        "marker-color": "#eeafb3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86745",
+        "mass": 11.8,
+        "year": 1986,
+        "id": 30251,
+        "fall": "Found",
+        "recclass": "L/LL",
+        "marker-color": "#7b2efc",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86746",
+        "mass": 6.37,
+        "year": 1986,
+        "id": 30252,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#7d65be",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86747",
+        "mass": 3.63,
+        "year": 1986,
+        "id": 30253,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#d62378",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86748",
+        "mass": 595.24,
+        "year": 1986,
+        "id": 30254,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#e5dc6f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86749",
+        "mass": 21.24,
+        "year": 1986,
+        "id": 30255,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#fcda8f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86750",
+        "mass": 3.99,
+        "year": 1986,
+        "id": 30256,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#8d06ca",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86751",
+        "mass": 197.26,
+        "year": 1986,
+        "id": 30257,
+        "fall": "Found",
+        "recclass": "CV3",
+        "marker-color": "#2e6043",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86752",
+        "mass": 10.27,
+        "year": 1986,
+        "id": 30258,
+        "fall": "Found",
+        "recclass": "CV3",
+        "marker-color": "#cb9186",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86753",
+        "mass": 7.51,
+        "year": 1986,
+        "id": 30259,
+        "fall": "Found",
+        "recclass": "L4",
+        "marker-color": "#01d499",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86754",
+        "mass": 136.31,
+        "year": 1986,
+        "id": 30260,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#8be01a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86755",
+        "mass": 11.04,
+        "year": 1986,
+        "id": 30261,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#3fc712",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86756",
+        "mass": 26.93,
+        "year": 1986,
+        "id": 30262,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#26683e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86758",
+        "mass": 3.45,
+        "year": 1986,
+        "id": 30264,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#10c495",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86759",
+        "mass": 9.21,
+        "year": 1986,
+        "id": 30265,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#822c00",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86760",
+        "mass": 7.17,
+        "year": 1986,
+        "id": 30266,
+        "fall": "Found",
+        "recclass": "EH-imp melt",
+        "marker-color": "#cd30e4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86761",
+        "mass": 5.57,
+        "year": 1986,
+        "id": 30267,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#de0277",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86762",
+        "mass": 27.34,
+        "year": 1986,
+        "id": 30268,
+        "fall": "Found",
+        "recclass": "Eucrite-pmict",
+        "marker-color": "#e84a3e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86763",
+        "mass": 10.42,
+        "year": 1986,
+        "id": 30269,
+        "fall": "Found",
+        "recclass": "Eucrite-cm",
+        "marker-color": "#872b2f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86767",
+        "mass": 2.86,
+        "year": 1986,
+        "id": 30273,
+        "fall": "Found",
+        "recclass": "C",
+        "marker-color": "#81bbee",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86770",
+        "mass": 94.89,
+        "year": 1986,
+        "id": 30276,
+        "fall": "Found",
+        "recclass": "C",
+        "marker-color": "#35c6a9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86771",
+        "mass": 38.31,
+        "year": 1986,
+        "id": 30277,
+        "fall": "Found",
+        "recclass": "C",
+        "marker-color": "#d98141",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86773",
+        "mass": 28.35,
+        "year": 1986,
+        "id": 30279,
+        "fall": "Found",
+        "recclass": "C",
+        "marker-color": "#481ac0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86772",
+        "mass": 81,
+        "year": 1986,
+        "id": 30278,
+        "fall": "Found",
+        "recclass": "C",
+        "marker-color": "#9dd538",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86776",
+        "mass": 396.76,
+        "year": 1986,
+        "id": 30282,
+        "fall": "Found",
+        "recclass": "LL4",
+        "marker-color": "#6a105d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86777",
+        "mass": 80.48,
+        "year": 1986,
+        "id": 30283,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#5031e1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86779",
+        "mass": 15.92,
+        "year": 1986,
+        "id": 30285,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#5995d5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86787",
+        "mass": 4771,
+        "year": 1986,
+        "id": 30293,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#52bc85",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86795",
+        "mass": 9.07,
+        "year": 1986,
+        "id": 30301,
+        "fall": "Found",
+        "recclass": "Howardite",
+        "marker-color": "#34a158",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86789",
+        "mass": 340.36,
+        "year": 1986,
+        "id": 30295,
+        "fall": "Found",
+        "recclass": "C2-ung",
+        "marker-color": "#8c3b6c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86796",
+        "mass": 6140,
+        "year": 1986,
+        "id": 30302,
+        "fall": "Found",
+        "recclass": "H6",
+        "marker-color": "#36c855",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86808",
+        "mass": 16.44,
+        "year": 1986,
+        "id": 30314,
+        "fall": "Found",
+        "recclass": "Diogenite",
+        "marker-color": "#85ab45",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 86810",
+        "mass": 55.44,
+        "year": 1986,
+        "id": 30316,
+        "fall": "Found",
+        "recclass": "Diogenite",
+        "marker-color": "#570705",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9202",
+        "mass": 3,
+        "year": 1992,
+        "id": 30322,
+        "fall": "Found",
+        "recclass": "Diogenite",
+        "marker-color": "#33458b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9401",
+        "mass": 42.97,
+        "year": 1994,
+        "id": 30324,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#e68b96",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9402",
+        "mass": 13.89,
+        "year": 1994,
+        "id": 30325,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#0e6200",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9403",
+        "mass": 263.13,
+        "year": 1994,
+        "id": 30326,
+        "fall": "Found",
+        "recclass": "H6",
+        "marker-color": "#c071f4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9404",
+        "mass": 6.75,
+        "year": 1994,
+        "id": 30327,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#ab5f4d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9406",
+        "mass": 2.55,
+        "year": 1994,
+        "id": 30329,
+        "fall": "Found",
+        "recclass": "H6",
+        "marker-color": "#767e25",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9405",
+        "mass": 4.83,
+        "year": 1994,
+        "id": 30328,
+        "fall": "Found",
+        "recclass": "H/L4",
+        "marker-color": "#fb5368",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9407",
+        "mass": 9.16,
+        "year": 1994,
+        "id": 30330,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#d50c7e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9408",
+        "mass": 6.99,
+        "year": 1994,
+        "id": 30331,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#b6d4e1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9409",
+        "mass": 2.89,
+        "year": 1994,
+        "id": 30332,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#58da9a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9411",
+        "mass": 1.84,
+        "year": 1994,
+        "id": 30334,
+        "fall": "Found",
+        "recclass": "OC",
+        "marker-color": "#b888f1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9410",
+        "mass": 1.53,
+        "year": 1994,
+        "id": 30333,
+        "fall": "Found",
+        "recclass": "OC",
+        "marker-color": "#50cd9d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9412",
+        "mass": 1.83,
+        "year": 1994,
+        "id": 30335,
+        "fall": "Found",
+        "recclass": "OC",
+        "marker-color": "#660f43",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9413",
+        "mass": 0.84,
+        "year": 1994,
+        "id": 30336,
+        "fall": "Found",
+        "recclass": "OC",
+        "marker-color": "#cb6e51",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9414",
+        "mass": 2.94,
+        "year": 1994,
+        "id": 30337,
+        "fall": "Found",
+        "recclass": "OC",
+        "marker-color": "#9c354f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9415",
+        "mass": 0.75,
+        "year": 1994,
+        "id": 30338,
+        "fall": "Found",
+        "recclass": "OC",
+        "marker-color": "#69ad68",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 9416",
+        "mass": 2.9,
+        "year": 1994,
+        "id": 30339,
+        "fall": "Found",
+        "recclass": "OC",
+        "marker-color": "#da0818",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 980318",
+        "mass": 166.81,
+        "year": 1998,
+        "id": 30340,
+        "fall": "Found",
+        "recclass": "Eucrite-cm",
+        "marker-color": "#bd408a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 980459",
+        "mass": 82.46,
+        "year": 1998,
+        "id": 30341,
+        "fall": "Found",
+        "recclass": "Martian (shergottite)",
+        "marker-color": "#da42ef",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.24265,
+          -72.09802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 981031",
+        "mass": 185.8,
+        "year": 1998,
+        "id": 30342,
+        "fall": "Found",
+        "recclass": "Lunar (anorth)",
+        "marker-color": "#2e46f5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40194,
+          -71.54694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 981651",
+        "mass": 235.88,
+        "year": 1998,
+        "id": 30343,
+        "fall": "Found",
+        "recclass": "Eucrite",
+        "marker-color": "#9f2006",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66667,
+          -71.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamato 983885",
+        "mass": 289.71,
+        "year": 1999,
+        "id": 30344,
+        "fall": "Found",
+        "recclass": "Lunar (anorth)",
+        "marker-color": "#33c87a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.00517,
+          -71.56283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yandama",
+        "mass": 5800,
+        "year": 1914,
+        "id": 30347,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#2c1fb1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.03333,
+          -29.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yanhuitlan",
+        "mass": 421000,
+        "year": 1825,
+        "id": 30349,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#d7b821",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.35,
+          17.53333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yardea",
+        "mass": 3290,
+        "year": 1875,
+        "id": 30351,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#975957",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.55,
+          -32.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarle Lakes 001",
+        "mass": 913,
+        "year": 1990,
+        "id": 30353,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#0e3f65",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.46667,
+          -30.31667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yaringie Hill",
+        "mass": 5750,
+        "year": 2006,
+        "id": 48950,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#bb3ae8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.64985,
+          -32.08287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarle Lakes 002",
+        "mass": 500,
+        "year": 1991,
+        "id": 30354,
+        "fall": "Found",
+        "recclass": "H4/5",
+        "marker-color": "#390d4d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.3745,
+          -30.36417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarle Lakes 003",
+        "mass": 14,
+        "year": 1993,
+        "id": 30355,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#63ac48",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.35833,
+          -30.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarle Lakes 004",
+        "mass": 4.6,
+        "year": 2009,
+        "id": 52945,
+        "fall": "Found",
+        "recclass": "CK4",
+        "marker-color": "#353853",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.46667,
+          -30.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarri",
+        "mass": 1500,
+        "year": 1908,
+        "id": 30356,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#41a43e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.21667,
+          -29.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarroweyah",
+        "mass": 9600,
+        "year": 1903,
+        "id": 30357,
+        "fall": "Found",
+        "recclass": "Iron, IIAB",
+        "marker-color": "#d19db9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58333,
+          -35.98333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yayjinna",
+        "mass": 262.5,
+        "year": 1965,
+        "id": 30359,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#23d34d",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.175,
+          -32.03333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ybbsitz",
+        "mass": 15000,
+        "year": 1977,
+        "id": 30360,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#37f574",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.89,
+          47.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yelland 001",
+        "mass": 4.5,
+        "year": 2011,
+        "id": 54765,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#9462ca",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.42715,
+          39.55801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yelland Dry Lake",
+        "mass": 76000,
+        "year": 2007,
+        "id": 52641,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#f0f394",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.40783,
+          39.35067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yenberrie",
+        "mass": 132000,
+        "year": 1918,
+        "id": 30361,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#160da8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.01667,
+          -14.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yingde",
+        "mass": 3000000,
+        "year": 1964,
+        "id": 30363,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#1bc349",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.4,
+          24.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yilmia",
+        "mass": 40000,
+        "year": 1969,
+        "id": 30362,
+        "fall": "Found",
+        "recclass": "EL6",
+        "marker-color": "#62ce68",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53333,
+          -31.19167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yongning",
+        "mass": 60000,
+        "year": 1971,
+        "id": 30365,
+        "fall": "Found",
+        "recclass": "Iron, IAB-ung",
+        "marker-color": "#0b2cad",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.33333,
+          22.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yocemento",
+        "mass": 5920,
+        "year": 1966,
+        "id": 30364,
+        "fall": "Found",
+        "recclass": "L4",
+        "marker-color": "#80c4bb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.43333,
+          38.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "York (iron)",
+        "mass": 835,
+        "year": 1878,
+        "id": 30367,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#ec2e59",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5,
+          40.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "York (stone)",
+        "mass": 1440,
+        "year": 1928,
+        "id": 30368,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#bfbac7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6,
+          40.86667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yorktown (Texas)",
+        "mass": 3500,
+        "year": 1957,
+        "id": 30371,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#badbbe",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.40278,
+          28.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Youanmi",
+        "mass": 118400,
+        "year": 1917,
+        "id": 30373,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#bbfdd5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.75,
+          -29.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Youndegin",
+        "mass": 3800000,
+        "year": 1884,
+        "id": 30374,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#712ec8",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.71667,
+          -32.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Youxi",
+        "mass": 218000,
+        "year": 2006,
+        "id": 55793,
+        "fall": "Found",
+        "recclass": "Mesosiderite-C",
+        "marker-color": "#85e192",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.01,
+          26.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ysleta",
+        "mass": 140700,
+        "year": 1914,
+        "id": 30375,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#d9068f",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.18333,
+          31.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yucca 016",
+        "mass": 25.9,
+        "year": 2011,
+        "id": 57158,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#d8a1c6",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.27763,
+          34.82658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yucca 015",
+        "mass": 3,
+        "year": 2011,
+        "id": 57175,
+        "fall": "Found",
+        "recclass": "H-metal",
+        "marker-color": "#8550a9",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2761,
+          34.8197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yucca 017",
+        "mass": 200,
+        "year": 2011,
+        "id": 57159,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#6bdf18",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.27735,
+          34.81923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yudoma",
+        "mass": 7600,
+        "year": 1946,
+        "id": 30376,
+        "fall": "Found",
+        "recclass": "Iron, IVA",
+        "marker-color": "#d1b48c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0,
+          60.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zacatecas (1792)",
+        "mass": 1000000,
+        "year": 1792,
+        "id": 30381,
+        "fall": "Found",
+        "recclass": "Iron, ungrouped",
+        "marker-color": "#808404",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.56667,
+          22.81667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zaffra",
+        "mass": 3000,
+        "year": 1919,
+        "id": 30383,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#941894",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.75,
+          35.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zagora",
+        "mass": 50000,
+        "year": 1987,
+        "id": 30387,
+        "fall": "Found",
+        "recclass": "Iron, IAB-ung",
+        "marker-color": "#b8b651",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85,
+          30.36667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zag (b)",
+        "mass": 300,
+        "year": 1999,
+        "id": 30385,
+        "fall": "Found",
+        "recclass": "Winonaite",
+        "marker-color": "#cef0eb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.33333,
+          27.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zapaliname",
+        "mass": 85000,
+        "year": 1998,
+        "id": 30392,
+        "fall": "Found",
+        "recclass": "Iron, IAB-MG",
+        "marker-color": "#036d9c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.75,
+          25.00944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zak\u0142odzie",
+        "mass": 8680,
+        "year": 1998,
+        "id": 30390,
+        "fall": "Found",
+        "recclass": "Enst achon-ung",
+        "marker-color": "#f3f3a3",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.86611,
+          50.76278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zapata County",
+        "mass": "",
+        "year": 1930,
+        "id": 30393,
+        "fall": "Found",
+        "recclass": "Iron",
+        "marker-color": "#6cf01e",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0,
+          27.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zapotitl\u00e1n Salinas",
+        "mass": 27.7,
+        "year": 1984,
+        "id": 30394,
+        "fall": "Found",
+        "recclass": "L4",
+        "marker-color": "#72214c",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5,
+          18.33333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zegdou",
+        "mass": 6700,
+        "year": 1998,
+        "id": 30398,
+        "fall": "Found",
+        "recclass": "H3",
+        "marker-color": "#1d5fc2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          29.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zaragoza",
+        "mass": 162000,
+        "year": "",
+        "id": 48916,
+        "fall": "Found",
+        "recclass": "Iron, IVA-an",
+        "marker-color": "#cb593a",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86667,
+          41.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zelfana",
+        "mass": 1058,
+        "year": 2002,
+        "id": 31353,
+        "fall": "Found",
+        "recclass": "L5",
+        "marker-color": "#5a984b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.63333,
+          32.15833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zerga",
+        "mass": 76,
+        "year": 1973,
+        "id": 30402,
+        "fall": "Found",
+        "recclass": "LL6",
+        "marker-color": "#a0f3a5",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.68333,
+          20.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zenda",
+        "mass": 3700,
+        "year": 1955,
+        "id": 30400,
+        "fall": "Found",
+        "recclass": "Iron, IAB complex",
+        "marker-color": "#6d15ad",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48944,
+          42.51333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zerhamra",
+        "mass": 630000,
+        "year": 1967,
+        "id": 30403,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB-an",
+        "marker-color": "#12ee55",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.645,
+          29.85861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zerkaly",
+        "mass": 16000,
+        "year": 1956,
+        "id": 31354,
+        "fall": "Found",
+        "recclass": "H5",
+        "marker-color": "#735325",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.96667,
+          52.13333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhigansk",
+        "mass": 900000,
+        "year": 1966,
+        "id": 30405,
+        "fall": "Found",
+        "recclass": "Iron, IIIAB",
+        "marker-color": "#998ca7",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.3,
+          68.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhongxiang",
+        "mass": 100000,
+        "year": 1981,
+        "id": 30406,
+        "fall": "Found",
+        "recclass": "Iron",
+        "marker-color": "#b4dbb0",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.5,
+          31.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhaoping",
+        "mass": 2000000,
+        "year": 1983,
+        "id": 54609,
+        "fall": "Found",
+        "recclass": "Iron, IAB complex",
+        "marker-color": "#4e21e1",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.18333,
+          24.23333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zillah 001",
+        "mass": 1475,
+        "year": 1990,
+        "id": 31355,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#8bdfba",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0185,
+          29.037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zillah 002",
+        "mass": 172,
+        "year": 1990,
+        "id": 31356,
+        "fall": "Found",
+        "recclass": "Eucrite",
+        "marker-color": "#546d1b",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0185,
+          29.037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zinder",
+        "mass": 46,
+        "year": 1999,
+        "id": 30409,
+        "fall": "Found",
+        "recclass": "Pallasite, ungrouped",
+        "marker-color": "#518cdb",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.96667,
+          13.78333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zlin",
+        "mass": 3.3,
+        "year": 1939,
+        "id": 30410,
+        "fall": "Found",
+        "recclass": "H4",
+        "marker-color": "#1056c2",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.66667,
+          49.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zulu Queen",
+        "mass": 200,
+        "year": 1976,
+        "id": 30414,
+        "fall": "Found",
+        "recclass": "L3.7",
+        "marker-color": "#fb5c41",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.68333,
+          33.98333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zubkovsky",
+        "mass": 2167,
+        "year": 2003,
+        "id": 31357,
+        "fall": "Found",
+        "recclass": "L6",
+        "marker-color": "#c68bd4",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.5046,
+          49.78917
+        ]
+      }
+    }
+  ]
+}

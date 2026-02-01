@@ -1,0 +1,21 @@
+title: "Location & Position"
+module: "Spatial Fundamentals"
+order: 1
+estimated_time: "45–60 minutes"
+learning_objectives:
+  - Understand what “location” means in data terms
+  - Distinguish absolute vs relative location
+  - Represent locations programmatically
+  - Recognize that coordinates are conventions, not truth
+prerequisites:
+  - Basic Python syntax
+  - Comfort with tuples and dictionaries
+deliverables:
+  - Completed notebook with all cells executed
+assessment:
+  - Completion
+  - Conceptual understanding (quiz later)
+tags:
+  - spatial thinking
+  - coordinates
+  - fundamentals

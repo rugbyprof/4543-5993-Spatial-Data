@@ -1,0 +1,39 @@
+id: 02D
+title: Editing and Simplifying Spatial Data
+part: Part_02
+module: Raw_Spatial_Data
+sequence: 4
+
+type: lesson
+format: notebook
+
+estimated_time: 60 minutes
+
+prerequisites:
+  - 02A-When_Coordinates_Arent_Enough
+  - 02B-Distance_Depends_on_Assumptions
+  - 02C-Scale_Resolution_and_Detail
+
+learning_objectives:
+  - Explain why spatial data is always edited
+  - Describe the effects of simplification
+  - Identify misleading spatial edits
+  - Reason about abstraction and intent
+
+key_concepts:
+  - simplification
+  - abstraction
+  - editing
+  - intent
+  - detail loss
+
+deliverables:
+  - Completed notebook.ipynb
+
+
+  I would like help understanding your big picture as it pertains to projects. I was good at first, but 
+  now I can't see the forest for the trees. So, I could either sit here and go over everything with a fine 
+  tooth comb (which I will do soon), or ask you to summarize. You've mentioned the GeoJson break and fix lab 
+  for a few of the notebooks, where I assumed it was used in 01-HelloGeojson. So as we progress from 02A <-> 02F, 
+  what coding problems do you see for each one, where hopefully they culminate into a larger project using all the 
+  knowledge from each of the 02X notebooks? Thank you for your help.
