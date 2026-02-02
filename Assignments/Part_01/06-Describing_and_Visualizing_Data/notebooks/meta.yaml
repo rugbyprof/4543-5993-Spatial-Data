@@ -1,0 +1,12 @@
+title: 06-Describing_and_Visualizing_Data
+course: 4543-5993-Spatial-Data
+type: assignment
+due: 2026-02-22 23:59
+points: '0'
+notebooks:
+- 01-Types_of_Data.ipynb
+- 02-Summary_Statistics.ipynb
+- 03-Matplotlib_Basics.ipynb
+- 04-Seaborn_Basics.ipynb
+- 05-Visualization_MiniLab.ipynb
+created_from: auto

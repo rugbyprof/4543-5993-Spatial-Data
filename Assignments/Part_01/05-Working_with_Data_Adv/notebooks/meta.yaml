@@ -1,0 +1,16 @@
+title: 05-Working_with_Data_Adv
+course: 4543-5993-Spatial-Data
+type: assignment
+due: 2026-02-22 23:59
+points: '0'
+notebooks:
+- 01-lists_dicts_and_tuples.ipynb
+- 02-pandas_series_and_dataframes.ipynb
+- 03-loading_and_exploring_data.ipynb
+- 04-indexing_and_selection.ipynb
+- 05-basic_cleaning.ipynb
+- 06-column_operations.ipynb
+- 07-sorting_and_filtering.ipynb
+- 08-pandas_wrangle_lab.ipynb
+- 09-Survey_Cleaning_Assignment.ipynb
+created_from: auto

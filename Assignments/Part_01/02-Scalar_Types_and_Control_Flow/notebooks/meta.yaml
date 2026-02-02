@@ -1,0 +1,9 @@
+title: 02-Scalar_Types_and_Control_Flow
+course: 4543-5993-Spatial-Data
+type: assignment
+due: 2026-02-15 23:59
+points: '0'
+notebooks:
+- 01-Scalar_Types.ipynb
+- 02-Control_Flow.ipynb
+created_from: auto

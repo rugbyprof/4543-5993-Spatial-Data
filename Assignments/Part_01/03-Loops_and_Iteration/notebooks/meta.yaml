@@ -1,0 +1,10 @@
+title: 03-Loops_and_Iteration
+course: 4543-5993-Spatial-Data
+type: assignment
+due: 2026-02-15 23:59
+points: '0'
+notebooks:
+- 01-For_Loops.ipynb
+- 02-While_Loops.ipynb
+- 03-File_Loops_and_With.ipynb
+created_from: auto

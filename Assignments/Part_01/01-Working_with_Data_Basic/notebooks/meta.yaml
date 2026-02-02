@@ -1,0 +1,11 @@
+title: 01-Working_with_Data_Basic
+course: 4543-5993-Spatial-Data
+type: assignment
+due: 2026-02-15 23:59
+points: '0'
+notebooks:
+- 01-Lists.ipynb
+- 02-Tuples.ipynb
+- 03-Data_Types_and_Arithmetic.ipynb
+- 03-Dictionaries.ipynb
+created_from: auto

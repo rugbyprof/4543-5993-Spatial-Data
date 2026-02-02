@@ -1,0 +1,16 @@
+title: 04-Foundations
+course: 4543-5993-Spatial-Data
+type: assignment
+due: 2026-02-22 23:59
+points: '0'
+notebooks:
+- 01-magic_commands.ipynb
+- 02-markdown_and_formatting.ipynb
+- 03-working_with_files_and_paths.ipynb
+- 04-data_input_output.ipynb
+- 05-plotting_basics.ipynb
+- 06-jupyter_shortcuts_and_productivity.ipynb
+- 07-using_help_and_docs.ipynb
+- 08-timing_and_performance.ipynb
+- Foundations_Quiz.ipynb
+created_from: auto
