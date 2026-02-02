@@ -14,17 +14,17 @@ One thing about working in CodeSpaces is that we need to ensure that any changes
 
 ### 3️⃣ Run the File
 
-- Before we commit our changes, lets run the file. 
+- Before we commit our changes, lets run the file.
 - Go to the terminal and type `ll` (double L) and hit enter.
-- You should see the same thing that is in the file explorer to the left. 
-- Do you see your `hello.py` file? 
+- You should see the same thing that is in the file explorer to the left.
+- Do you see your `hello.py` file?
 - If so, type this command: `python hello.py` and hit enter.
 - You should see "hello world" printed out.
 
 ### 4️⃣ Committing Changes
 
-- After you added the `hello.py` file. You should see a blue 1 over the source control icon (looks like a 3 node graph). 
-- Click on that icon and it will give you a different view that has a button that say's commit, and a txt box to comment on what your committing. 
+- After you added the `hello.py` file. You should see a blue 1 over the source control icon (looks like a 3 node graph).
+- Click on that icon and it will give you a different view that has a button that say's commit, and a txt box to comment on what your committing.
 - In the txt box type "Added hello.py"
 - Then click commit.
 - Click "Always" on the box that pops up.

@@ -1,4 +1,4 @@
-# Week 07 - Describing and Visualizing Data
+# module 06 - Describing and Visualizing Data
 
 ## 📖 Overview
 

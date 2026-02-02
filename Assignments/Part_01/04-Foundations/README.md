@@ -1,4 +1,4 @@
-# 🏗️ Foundations
+# 🏗️ Module 04: Foundations
 
 This folder contains the **Foundations** notebooks for the Programming for Data Science course.  
 These lessons move beyond basic Python and introduce Jupyter, data handling, plotting, and performance awareness.
@@ -35,7 +35,7 @@ These lessons move beyond basic Python and introduce Jupyter, data handling, plo
 
 ## 🚀 Workflow Reminder
 
-1. **Fork or Clone** this repo as assignments get added. 
+1. **Fork or Clone** this repo as assignments get added.
 2. Copy assignments to your own repo. **Be careful NOT to overwrite your completed folder!**
 3. Push your changes to github.
 4. Work in Google CoLabs and save changes into your `completed` folder.

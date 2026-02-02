@@ -1,4 +1,4 @@
-# 🧰 Module 07 – Working with Data
+# 🧰 Module 05 – Working with Data
 
 This module introduces core Python and Pandas tools for manipulating, cleaning, and inspecting datasets. It's the messy middle of any data science project—and now you're equipped to handle it like a pro.
 
@@ -15,7 +15,6 @@ By the end of this module, you should be able to:
 - Add, remove, and modify columns in a DataFrame
 - Filter and sort data using multiple strategies
 - Prepare a dataset for visualization or modeling
-
 
 ## 🗂 Notebook Overview
 
