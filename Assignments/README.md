@@ -2,9 +2,9 @@
 
 | Status | Course                 | Assignment                              | Due Date         | Points | Folder                                                                                                        |
 | ------ | ---------------------- | --------------------------------------- | ---------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
-| 🟢     | 4543-5993-Spatial-Data | 01-Working_with_Data_Basic              | 2026-02-15 23:59 | 0      | [Assignments/Part_01/01-Worki...](Assignments/Part_01/01-Working_with_Data_Basic/notebooks/README.md)         |
-| 🟢     | 4543-5993-Spatial-Data | 01-Working_with_Data_Basic Quiz         | 2026-02-15 23:59 | 0      | [Assignments/Part_01/01-Worki...](Assignments/Part_01/01-Working_with_Data_Basic/README.md)                   |
-| 🟢     | 4543-5993-Spatial-Data | 02-Scalar_Types_and_Control_Flow        | 2026-02-15 23:59 | 0      | [Assignments/Part_01/02-Scala...](Assignments/Part_01/02-Scalar_Types_and_Control_Flow/notebooks/README.md)   |
+| 🟢     | 4543-5993-Spatial-Data | 01-Working_with_Data_Basic              | 2026-02-15 23:59 | 0      | [Assignments/Part_01/01-Worki...](/Assignments/Part_01/01-Working_with_Data_Basic/notebooks/README.md)        |
+| 🟢     | 4543-5993-Spatial-Data | 01-Working_with_Data_Basic Quiz         | 2026-02-15 23:59 | 0      | [Assignments/Part_01/01-Worki...](/Assignments/Part_01/01-Working_with_Data_Basic/README.md)                  |
+| 🟢     | 4543-5993-Spatial-Data | 02-Scalar_Types_and_Control_Flow        | 2026-02-15 23:59 | 0      | [Assignments/Part_01/02-Scala...](/Assignments/Part_01/02-Scalar_Types_and_Control_Flow/notebooks/README.md)  |
 | 🟢     | 4543-5993-Spatial-Data | 02-Scalar_Types_and_Control_Flow Quiz   | 2026-02-15 23:59 | 0      | [Assignments/Part_01/02-Scala...](Assignments/Part_01/02-Scalar_Types_and_Control_Flow/README.md)             |
 | 🟢     | 4543-5993-Spatial-Data | 03-Loops_and_Iteration                  | 2026-02-15 23:59 | 0      | [Assignments/Part_01/03-Loops...](Assignments/Part_01/03-Loops_and_Iteration/notebooks/README.md)             |
 | 🟢     | 4543-5993-Spatial-Data | 03-Loops_and_Iteration Quiz             | 2026-02-15 23:59 | 0      | [Assignments/Part_01/03-Loops...](Assignments/Part_01/03-Loops_and_Iteration/README.md)                       |
