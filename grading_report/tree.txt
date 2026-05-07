@@ -1,0 +1,3098 @@
+.
+├── Assignments
+│   ├── 00-Onboarding
+│   │   ├── Lessons
+│   │   │   ├── 01-Workflow
+│   │   │   │   ├── 01-Workflow.md
+│   │   │   │   ├── _autogen.md
+│   │   │   │   ├── _header.md
+│   │   │   │   ├── meta.yaml
+│   │   │   │   └── README.md
+│   │   │   ├── 02-Github-Repo
+│   │   │   │   ├── 01-Github-Repo.md
+│   │   │   │   ├── _autogen.md
+│   │   │   │   ├── _header.md
+│   │   │   │   ├── meta.yaml
+│   │   │   │   └── README.md
+│   │   │   ├── 03-CodeSpaces
+│   │   │   │   ├── 01-CodeSpaces.md
+│   │   │   │   ├── _autogen.md
+│   │   │   │   ├── _header.md
+│   │   │   │   ├── meta.yaml
+│   │   │   │   └── README.md
+│   │   │   ├── 04-Committing-Changes
+│   │   │   │   ├── 01-Committing-Changes.md
+│   │   │   │   ├── _autogen.md
+│   │   │   │   ├── _header.md
+│   │   │   │   ├── meta.yaml
+│   │   │   │   └── README.md
+│   │   │   └── 05-Getting-Assignments
+│   │   │       ├── 01-Getting_Assignments.md
+│   │   │       ├── _autogen.md
+│   │   │       ├── _header.md
+│   │   │       ├── meta.yaml
+│   │   │       └── README.md
+│   │   ├── Resources
+│   │   │   ├── data
+│   │   │   │   ├── broken_world.json
+│   │   │   │   └── campus_world.geojson
+│   │   │   ├── checklist.md
+│   │   │   ├── codespace_intro.ipynb
+│   │   │   ├── Helper_Videos.md
+│   │   │   └── meta.yaml
+│   │   ├── _autogen.md
+│   │   ├── _header.md
+│   │   └── README.md
+│   ├── 01-Python_Foundations
+│   │   ├── 01-Working_with_Data_Basic
+│   │   │   ├── Assessments
+│   │   │   │   ├── 01-worksheet.md
+│   │   │   │   ├── 02a-mini_quiz.ipynb
+│   │   │   │   ├── 02b-mini_quiz.md
+│   │   │   │   ├── _autogen.md
+│   │   │   │   ├── _header.md
+│   │   │   │   ├── meta.yaml
+│   │   │   │   └── README.md
+│   │   │   ├── Lessons
+│   │   │   │   ├── 01-Lists
+│   │   │   │   │   ├── 01-Lists.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 02-Tuples
+│   │   │   │   │   ├── 02-Tuples.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 03-Data_Types_and_Arithmetic
+│   │   │   │   │   ├── 03-Data_Types_and_Arithmetic.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   └── 03-Dictionaries
+│   │   │   │       ├── 03-Dictionaries.ipynb
+│   │   │   │       ├── _autogen.md
+│   │   │   │       ├── _header.md
+│   │   │   │       ├── meta.yaml
+│   │   │   │       └── README.md
+│   │   │   ├── Resources
+│   │   │   │   └── 00-glossary.md
+│   │   │   ├── _autogen.md
+│   │   │   └── _header.md
+│   │   ├── 02-Scalar_Types_and_Control_Flow
+│   │   │   ├── 01-Scalar_Types
+│   │   │   │   ├── 01-Scalar_Types.ipynb
+│   │   │   │   ├── _autogen.md
+│   │   │   │   ├── _header.md
+│   │   │   │   ├── meta.yaml
+│   │   │   │   └── README.md
+│   │   │   ├── Assessments
+│   │   │   │   ├── _autogen.md
+│   │   │   │   ├── _header.md
+│   │   │   │   ├── meta.yaml
+│   │   │   │   ├── mini_quiz.ipynb
+│   │   │   │   ├── mini_quiz.md
+│   │   │   │   ├── README.md
+│   │   │   │   └── worksheet.md
+│   │   │   ├── Lessons
+│   │   │   │   ├── 02-Control_Flow
+│   │   │   │   │   ├── 02-Control_Flow.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   └── meta.yaml
+│   │   │   ├── Resources
+│   │   │   │   ├── glossary.md
+│   │   │   │   └── glossary.pdf
+│   │   │   ├── _autogen.md
+│   │   │   ├── _header.md
+│   │   │   └── README.md
+│   │   ├── 03-Loops_and_Iteration
+│   │   │   ├── Assessments
+│   │   │   │   ├── _autogen.md
+│   │   │   │   ├── _header.md
+│   │   │   │   ├── meta.yaml
+│   │   │   │   ├── mini_quiz.ipynb
+│   │   │   │   ├── mini_quiz.md
+│   │   │   │   └── README.md
+│   │   │   ├── Lessons
+│   │   │   │   ├── 01-For_Loops
+│   │   │   │   │   ├── 01-For_Loops.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 02-While_loops
+│   │   │   │   │   ├── 02-While_Loops.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   └── 03-File_Loops_and_With
+│   │   │   │       ├── 03-File_Loops_and_With.ipynb
+│   │   │   │       ├── _autogen.md
+│   │   │   │       ├── _header.md
+│   │   │   │       ├── meta.yaml
+│   │   │   │       └── README.md
+│   │   │   └── Resources
+│   │   │       ├── _autogen.md
+│   │   │       ├── _header.md
+│   │   │       ├── glossary.md
+│   │   │       ├── glossary.pdf
+│   │   │       ├── README.md
+│   │   │       └── worksheet.md
+│   │   ├── 04-Foundations
+│   │   │   ├── Assessments
+│   │   │   │   ├── 01-Foundations_Quiz.ipynb
+│   │   │   │   ├── 02-mini_quiz.ipynb
+│   │   │   │   ├── _autogen.md
+│   │   │   │   ├── _header.md
+│   │   │   │   ├── meta.yaml
+│   │   │   │   └── README.md
+│   │   │   ├── Lessons
+│   │   │   │   ├── 01-Magic_Commands
+│   │   │   │   │   ├── 01-magic_commands.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 02-Markdown_and_Formatting
+│   │   │   │   │   ├── 02-Markdown_and_Formatting.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 03-Work_With_Files
+│   │   │   │   │   ├── 03-Work_With_Files.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 04-Data_Input_Output
+│   │   │   │   │   ├── 04-Data_Input_Output.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 05-Plotting_Basics
+│   │   │   │   │   ├── 05-Plotting_Basics.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 06-Jupyter_Shortcuts_and_Productivity
+│   │   │   │   │   ├── 06-Jupyter_Shortcuts_and_Productivity.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 07-Using_Help_and_Docs
+│   │   │   │   │   ├── 07-Using_Help_and_Docs.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   └── 08-Timing_and_Performance
+│   │   │   │       ├── 08-Timing_and_Performance.ipynb
+│   │   │   │       ├── _autogen.md
+│   │   │   │       ├── _header.md
+│   │   │   │       ├── meta.yaml
+│   │   │   │       └── README.md
+│   │   │   ├── Resources
+│   │   │   │   ├── glossary.md
+│   │   │   │   └── glossary.pdf
+│   │   │   ├── _autogen.md
+│   │   │   ├── _header.md
+│   │   │   └── README.md
+│   │   ├── 05-Working_with_Data_Adv
+│   │   │   ├── Assessments
+│   │   │   │   ├── meta.yaml
+│   │   │   │   └── mini_quiz.ipynb
+│   │   │   ├── data
+│   │   │   │   ├── pokemon.csv
+│   │   │   │   ├── state_abbr.json
+│   │   │   │   ├── survey.csv
+│   │   │   │   ├── titanic.csv
+│   │   │   │   └── ufo.csv
+│   │   │   ├── Lessons
+│   │   │   │   ├── 01-Lists_Dicts_and_Tuples
+│   │   │   │   │   ├── 01-Lists_Dicts_and_Tuples.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 02-Pandas_Series_and_Dataframes
+│   │   │   │   │   ├── 02-Pandas_Series_and_Dataframes.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 03-Loading_and_Exploring_Eata
+│   │   │   │   │   ├── 03-Loading_and_Exploring_Eata.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 04-Indexing_and_Selection
+│   │   │   │   │   ├── 04-Indexing_and_Selection.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 05-Basic_Cleaning
+│   │   │   │   │   ├── 05-Basic_Cleaning.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 06-Column_Operations
+│   │   │   │   │   ├── 06-Column_Operations.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 07-Sorting_and_Filtering
+│   │   │   │   │   ├── 07-Sorting_and_Filtering.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 08-Pandas_Wrangle_Lab
+│   │   │   │   │   ├── 08-Pandas_Wrangle_Lab.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 09-Survey_Cleaning_Assignment
+│   │   │   │   │   ├── 09-Survey_Cleaning_Assignment.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── _autogen.md
+│   │   │   │   ├── _header.md
+│   │   │   │   ├── meta.yaml
+│   │   │   │   └── README.md
+│   │   │   └── Resources
+│   │   │       ├── _autogen.md
+│   │   │       ├── _header.md
+│   │   │       ├── glossary.md
+│   │   │       ├── glossary.pdf
+│   │   │       └── README.md
+│   │   ├── 06-Describing_and_Visualizing_Data
+│   │   │   ├── Assessments
+│   │   │   │   ├── meta.yaml
+│   │   │   │   └── mini_quiz.ipynb
+│   │   │   ├── Lessons
+│   │   │   │   ├── 01-Types_of_Data
+│   │   │   │   │   ├── 01-Types_of_Data.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 02-Summary_Statistics
+│   │   │   │   │   ├── 02-Summary_Statistics.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 03-Matplotlib_Basics
+│   │   │   │   │   ├── 03-Matplotlib_Basics.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── 04-Seaborn_Basics
+│   │   │   │   │   ├── 04-Seaborn_Basics.ipynb
+│   │   │   │   │   ├── _autogen.md
+│   │   │   │   │   ├── _header.md
+│   │   │   │   │   ├── meta.yaml
+│   │   │   │   │   └── README.md
+│   │   │   │   └── 05-Visualization_MiniLab
+│   │   │   │       ├── 05-Visualization_MiniLab.ipynb
+│   │   │   │       ├── _autogen.md
+│   │   │   │       ├── _header.md
+│   │   │   │       ├── meta.yaml
+│   │   │   │       └── README.md
+│   │   │   ├── notebooks
+│   │   │   │   ├── _autogen.md
+│   │   │   │   ├── _header.md
+│   │   │   │   ├── meta.yaml
+│   │   │   │   └── README.md
+│   │   │   └── Resources
+│   │   │       ├── _autogen.md
+│   │   │       ├── _header.md
+│   │   │       ├── glossary.md
+│   │   │       ├── glossary.pdf
+│   │   │       └── README.md
+│   │   ├── _autogen.md
+│   │   ├── _header.md
+│   │   └── README.md
+│   ├── 02-Missile_Geometry_101
+│   │   ├── _micro_lessons
+│   │   │   ├── 00-Working_Directory.ipynb
+│   │   │   ├── 01-Data_Elsewhere.ipynb
+│   │   │   ├── 02-Viewing_Geojson.ipynb
+│   │   │   ├── 03-Style_W_Logic.ipynb
+│   │   │   ├── 04-Distance.ipynb
+│   │   │   ├── 05-Geo_and_Json_overview.ipynb
+│   │   │   ├── 06-Distances.ipynb
+│   │   │   ├── 07-InteractiveMaps.ipynb
+│   │   │   ├── 08-InstallingLocalLib.ipynb
+│   │   │   ├── 09-YourOwnLibrary.ipynb
+│   │   │   └── README.md
+│   │   ├── data
+│   │   │   ├── country-by-datatype
+│   │   │   │   ├── country-by-landlocked.json
+│   │   │   │   ├── country-by-life-expectancy.json
+│   │   │   │   ├── country-by-population-density.json
+│   │   │   │   ├── country-by-population.json
+│   │   │   │   └── country-by-yearly-average-temperature.json
+│   │   │   ├── threats
+│   │   │   │   └── threats.json
+│   │   │   ├── world_borders
+│   │   │   │   ├── world_borders.cpg
+│   │   │   │   ├── world_borders.dbf
+│   │   │   │   ├── world_borders.geojson
+│   │   │   │   ├── world_borders.kmz
+│   │   │   │   ├── world_borders.prj
+│   │   │   │   ├── world_borders.shp
+│   │   │   │   ├── world_borders.shx
+│   │   │   │   └── world_borders.xml
+│   │   │   ├── WorldCitiesGeo
+│   │   │   │   ├── Africa-Abidjan.geojson
+│   │   │   │   ├── Africa-Accra.geojson
+│   │   │   │   ├── Africa-Addis_Ababa.geojson
+│   │   │   │   ├── Africa-Algiers.geojson
+│   │   │   │   ├── Africa-Asmara.geojson
+│   │   │   │   ├── Africa-Bamako.geojson
+│   │   │   │   ├── Africa-Bangui.geojson
+│   │   │   │   ├── Africa-Banjul.geojson
+│   │   │   │   ├── Africa-Bissau.geojson
+│   │   │   │   ├── Africa-Blantyre.geojson
+│   │   │   │   ├── Africa-Brazzaville.geojson
+│   │   │   │   ├── Africa-Bujumbura.geojson
+│   │   │   │   ├── Africa-Cairo.geojson
+│   │   │   │   ├── Africa-Casablanca.geojson
+│   │   │   │   ├── Africa-Ceuta.geojson
+│   │   │   │   ├── Africa-Conakry.geojson
+│   │   │   │   ├── Africa-Dakar.geojson
+│   │   │   │   ├── Africa-Dar_es_Salaam.geojson
+│   │   │   │   ├── Africa-Djibouti.geojson
+│   │   │   │   ├── Africa-Douala.geojson
+│   │   │   │   ├── Africa-El_Aaiun.geojson
+│   │   │   │   ├── Africa-Freetown.geojson
+│   │   │   │   ├── Africa-Gaborone.geojson
+│   │   │   │   ├── Africa-Harare.geojson
+│   │   │   │   ├── Africa-Johannesburg.geojson
+│   │   │   │   ├── Africa-Juba.geojson
+│   │   │   │   ├── Africa-Kampala.geojson
+│   │   │   │   ├── Africa-Khartoum.geojson
+│   │   │   │   ├── Africa-Kigali.geojson
+│   │   │   │   ├── Africa-Kinshasa.geojson
+│   │   │   │   ├── Africa-Lagos.geojson
+│   │   │   │   ├── Africa-Libreville.geojson
+│   │   │   │   ├── Africa-Lome.geojson
+│   │   │   │   ├── Africa-Luanda.geojson
+│   │   │   │   ├── Africa-Lubumbashi.geojson
+│   │   │   │   ├── Africa-Lusaka.geojson
+│   │   │   │   ├── Africa-Malabo.geojson
+│   │   │   │   ├── Africa-Maputo.geojson
+│   │   │   │   ├── Africa-Maseru.geojson
+│   │   │   │   ├── Africa-Mbabane.geojson
+│   │   │   │   ├── Africa-Mogadishu.geojson
+│   │   │   │   ├── Africa-Monrovia.geojson
+│   │   │   │   ├── Africa-Nairobi.geojson
+│   │   │   │   ├── Africa-Ndjamena.geojson
+│   │   │   │   ├── Africa-Niamey.geojson
+│   │   │   │   ├── Africa-Nouakchott.geojson
+│   │   │   │   ├── Africa-Ouagadougou.geojson
+│   │   │   │   ├── Africa-Porto-Novo.geojson
+│   │   │   │   ├── Africa-Sao_Tome.geojson
+│   │   │   │   ├── Africa-Tripoli.geojson
+│   │   │   │   ├── Africa-Tunis.geojson
+│   │   │   │   ├── Africa-Windhoek.geojson
+│   │   │   │   ├── America-Adak.geojson
+│   │   │   │   ├── America-Anchorage.geojson
+│   │   │   │   ├── America-Anguilla.geojson
+│   │   │   │   ├── America-Antigua.geojson
+│   │   │   │   ├── America-Araguaina.geojson
+│   │   │   │   ├── America-Argentina-Buenos_Aires.geojson
+│   │   │   │   ├── America-Argentina-Catamarca.geojson
+│   │   │   │   ├── America-Argentina-Cordoba.geojson
+│   │   │   │   ├── America-Argentina-Jujuy.geojson
+│   │   │   │   ├── America-Argentina-La_Rioja.geojson
+│   │   │   │   ├── America-Argentina-Mendoza.geojson
+│   │   │   │   ├── America-Argentina-Rio_Gallegos.geojson
+│   │   │   │   ├── America-Argentina-Salta.geojson
+│   │   │   │   ├── America-Argentina-San_Juan.geojson
+│   │   │   │   ├── America-Argentina-San_Luis.geojson
+│   │   │   │   ├── America-Argentina-Tucuman.geojson
+│   │   │   │   ├── America-Argentina-Ushuaia.geojson
+│   │   │   │   ├── America-Aruba.geojson
+│   │   │   │   ├── America-Asuncion.geojson
+│   │   │   │   ├── America-Atikokan.geojson
+│   │   │   │   ├── America-Bahia.geojson
+│   │   │   │   ├── America-Bahia_Banderas.geojson
+│   │   │   │   ├── America-Barbados.geojson
+│   │   │   │   ├── America-Belem.geojson
+│   │   │   │   ├── America-Belize.geojson
+│   │   │   │   ├── America-Blanc-Sablon.geojson
+│   │   │   │   ├── America-Boa_Vista.geojson
+│   │   │   │   ├── America-Bogota.geojson
+│   │   │   │   ├── America-Boise.geojson
+│   │   │   │   ├── America-Cambridge_Bay.geojson
+│   │   │   │   ├── America-Campo_Grande.geojson
+│   │   │   │   ├── America-Cancun.geojson
+│   │   │   │   ├── America-Caracas.geojson
+│   │   │   │   ├── America-Cayenne.geojson
+│   │   │   │   ├── America-Cayman.geojson
+│   │   │   │   ├── America-Chicago.geojson
+│   │   │   │   ├── America-Chihuahua.geojson
+│   │   │   │   ├── America-Costa_Rica.geojson
+│   │   │   │   ├── America-Creston.geojson
+│   │   │   │   ├── America-Cuiaba.geojson
+│   │   │   │   ├── America-Curacao.geojson
+│   │   │   │   ├── America-Dawson.geojson
+│   │   │   │   ├── America-Dawson_Creek.geojson
+│   │   │   │   ├── America-Denver.geojson
+│   │   │   │   ├── America-Detroit.geojson
+│   │   │   │   ├── America-Dominica.geojson
+│   │   │   │   ├── America-Edmonton.geojson
+│   │   │   │   ├── America-Eirunepe.geojson
+│   │   │   │   ├── America-El_Salvador.geojson
+│   │   │   │   ├── America-Fort_Nelson.geojson
+│   │   │   │   ├── America-Fortaleza.geojson
+│   │   │   │   ├── America-Glace_Bay.geojson
+│   │   │   │   ├── America-Godthab.geojson
+│   │   │   │   ├── America-Goose_Bay.geojson
+│   │   │   │   ├── America-Grand_Turk.geojson
+│   │   │   │   ├── America-Grenada.geojson
+│   │   │   │   ├── America-Guadeloupe.geojson
+│   │   │   │   ├── America-Guatemala.geojson
+│   │   │   │   ├── America-Guayaquil.geojson
+│   │   │   │   ├── America-Guyana.geojson
+│   │   │   │   ├── America-Halifax.geojson
+│   │   │   │   ├── America-Havana.geojson
+│   │   │   │   ├── America-Hermosillo.geojson
+│   │   │   │   ├── America-Indiana-Indianapolis.geojson
+│   │   │   │   ├── America-Indiana-Knox.geojson
+│   │   │   │   ├── America-Indiana-Marengo.geojson
+│   │   │   │   ├── America-Indiana-Petersburg.geojson
+│   │   │   │   ├── America-Indiana-Tell_City.geojson
+│   │   │   │   ├── America-Indiana-Vevay.geojson
+│   │   │   │   ├── America-Indiana-Vincennes.geojson
+│   │   │   │   ├── America-Indiana-Winamac.geojson
+│   │   │   │   ├── America-Inuvik.geojson
+│   │   │   │   ├── America-Iqaluit.geojson
+│   │   │   │   ├── America-Jamaica.geojson
+│   │   │   │   ├── America-Juneau.geojson
+│   │   │   │   ├── America-Kentucky-Louisville.geojson
+│   │   │   │   ├── America-Kentucky-Monticello.geojson
+│   │   │   │   ├── America-Kralendijk.geojson
+│   │   │   │   ├── America-La_Paz.geojson
+│   │   │   │   ├── America-Lima.geojson
+│   │   │   │   ├── America-Los_Angeles.geojson
+│   │   │   │   ├── America-Lower_Princes.geojson
+│   │   │   │   ├── America-Maceio.geojson
+│   │   │   │   ├── America-Managua.geojson
+│   │   │   │   ├── America-Manaus.geojson
+│   │   │   │   ├── America-Marigot.geojson
+│   │   │   │   ├── America-Martinique.geojson
+│   │   │   │   ├── America-Matamoros.geojson
+│   │   │   │   ├── America-Mazatlan.geojson
+│   │   │   │   ├── America-Menominee.geojson
+│   │   │   │   ├── America-Merida.geojson
+│   │   │   │   ├── America-Metlakatla.geojson
+│   │   │   │   ├── America-Mexico_City.geojson
+│   │   │   │   ├── America-Miquelon.geojson
+│   │   │   │   ├── America-Moncton.geojson
+│   │   │   │   ├── America-Monterrey.geojson
+│   │   │   │   ├── America-Montevideo.geojson
+│   │   │   │   ├── America-Montserrat.geojson
+│   │   │   │   ├── America-Nassau.geojson
+│   │   │   │   ├── America-New_York.geojson
+│   │   │   │   ├── America-Nome.geojson
+│   │   │   │   ├── America-Noronha.geojson
+│   │   │   │   ├── America-North_Dakota-Beulah.geojson
+│   │   │   │   ├── America-North_Dakota-Center.geojson
+│   │   │   │   ├── America-North_Dakota-New_Salem.geojson
+│   │   │   │   ├── America-Ojinaga.geojson
+│   │   │   │   ├── America-Panama.geojson
+│   │   │   │   ├── America-Pangnirtung.geojson
+│   │   │   │   ├── America-Paramaribo.geojson
+│   │   │   │   ├── America-Phoenix.geojson
+│   │   │   │   ├── America-Port-au-Prince.geojson
+│   │   │   │   ├── America-Port_of_Spain.geojson
+│   │   │   │   ├── America-Porto_Velho.geojson
+│   │   │   │   ├── America-Puerto_Rico.geojson
+│   │   │   │   ├── America-Rankin_Inlet.geojson
+│   │   │   │   ├── America-Recife.geojson
+│   │   │   │   ├── America-Regina.geojson
+│   │   │   │   ├── America-Rio_Branco.geojson
+│   │   │   │   ├── America-Santarem.geojson
+│   │   │   │   ├── America-Santiago.geojson
+│   │   │   │   ├── America-Santo_Domingo.geojson
+│   │   │   │   ├── America-Sao_Paulo.geojson
+│   │   │   │   ├── America-Sitka.geojson
+│   │   │   │   ├── America-St_Barthelemy.geojson
+│   │   │   │   ├── America-St_Johns.geojson
+│   │   │   │   ├── America-St_Kitts.geojson
+│   │   │   │   ├── America-St_Lucia.geojson
+│   │   │   │   ├── America-St_Thomas.geojson
+│   │   │   │   ├── America-St_Vincent.geojson
+│   │   │   │   ├── America-Swift_Current.geojson
+│   │   │   │   ├── America-Tegucigalpa.geojson
+│   │   │   │   ├── America-Thunder_Bay.geojson
+│   │   │   │   ├── America-Tijuana.geojson
+│   │   │   │   ├── America-Toronto.geojson
+│   │   │   │   ├── America-Tortola.geojson
+│   │   │   │   ├── America-Vancouver.geojson
+│   │   │   │   ├── America-Whitehorse.geojson
+│   │   │   │   ├── America-Winnipeg.geojson
+│   │   │   │   ├── America-Yellowknife.geojson
+│   │   │   │   ├── Antarctica-McMurdo.geojson
+│   │   │   │   ├── Arctic-Longyearbyen.geojson
+│   │   │   │   ├── Asia-Aden.geojson
+│   │   │   │   ├── Asia-Almaty.geojson
+│   │   │   │   ├── Asia-Amman.geojson
+│   │   │   │   ├── Asia-Anadyr.geojson
+│   │   │   │   ├── Asia-Aqtau.geojson
+│   │   │   │   ├── Asia-Aqtobe.geojson
+│   │   │   │   ├── Asia-Ashgabat.geojson
+│   │   │   │   ├── Asia-Baghdad.geojson
+│   │   │   │   ├── Asia-Bahrain.geojson
+│   │   │   │   ├── Asia-Baku.geojson
+│   │   │   │   ├── Asia-Bangkok.geojson
+│   │   │   │   ├── Asia-Barnaul.geojson
+│   │   │   │   ├── Asia-Beirut.geojson
+│   │   │   │   ├── Asia-Bishkek.geojson
+│   │   │   │   ├── Asia-Brunei.geojson
+│   │   │   │   ├── Asia-Chita.geojson
+│   │   │   │   ├── Asia-Choibalsan.geojson
+│   │   │   │   ├── Asia-Colombo.geojson
+│   │   │   │   ├── Asia-Damascus.geojson
+│   │   │   │   ├── Asia-Dhaka.geojson
+│   │   │   │   ├── Asia-Dili.geojson
+│   │   │   │   ├── Asia-Dubai.geojson
+│   │   │   │   ├── Asia-Dushanbe.geojson
+│   │   │   │   ├── Asia-Gaza.geojson
+│   │   │   │   ├── Asia-Hebron.geojson
+│   │   │   │   ├── Asia-Ho_Chi_Minh.geojson
+│   │   │   │   ├── Asia-Hong_Kong.geojson
+│   │   │   │   ├── Asia-Hovd.geojson
+│   │   │   │   ├── Asia-Irkutsk.geojson
+│   │   │   │   ├── Asia-Jakarta.geojson
+│   │   │   │   ├── Asia-Jayapura.geojson
+│   │   │   │   ├── Asia-Jerusalem.geojson
+│   │   │   │   ├── Asia-Kabul.geojson
+│   │   │   │   ├── Asia-Kamchatka.geojson
+│   │   │   │   ├── Asia-Karachi.geojson
+│   │   │   │   ├── Asia-Kathmandu.geojson
+│   │   │   │   ├── Asia-Kolkata.geojson
+│   │   │   │   ├── Asia-Krasnoyarsk.geojson
+│   │   │   │   ├── Asia-Kuala_Lumpur.geojson
+│   │   │   │   ├── Asia-Kuching.geojson
+│   │   │   │   ├── Asia-Kuwait.geojson
+│   │   │   │   ├── Asia-Macau.geojson
+│   │   │   │   ├── Asia-Magadan.geojson
+│   │   │   │   ├── Asia-Makassar.geojson
+│   │   │   │   ├── Asia-Manila.geojson
+│   │   │   │   ├── Asia-Muscat.geojson
+│   │   │   │   ├── Asia-Nicosia.geojson
+│   │   │   │   ├── Asia-Novokuznetsk.geojson
+│   │   │   │   ├── Asia-Novosibirsk.geojson
+│   │   │   │   ├── Asia-Omsk.geojson
+│   │   │   │   ├── Asia-Oral.geojson
+│   │   │   │   ├── Asia-Phnom_Penh.geojson
+│   │   │   │   ├── Asia-Pontianak.geojson
+│   │   │   │   ├── Asia-Pyongyang.geojson
+│   │   │   │   ├── Asia-Qatar.geojson
+│   │   │   │   ├── Asia-Qyzylorda.geojson
+│   │   │   │   ├── Asia-Rangoon.geojson
+│   │   │   │   ├── Asia-Riyadh.geojson
+│   │   │   │   ├── Asia-Sakhalin.geojson
+│   │   │   │   ├── Asia-Samarkand.geojson
+│   │   │   │   ├── Asia-Seoul.geojson
+│   │   │   │   ├── Asia-Shanghai.geojson
+│   │   │   │   ├── Asia-Singapore.geojson
+│   │   │   │   ├── Asia-Taipei.geojson
+│   │   │   │   ├── Asia-Tashkent.geojson
+│   │   │   │   ├── Asia-Tbilisi.geojson
+│   │   │   │   ├── Asia-Tehran.geojson
+│   │   │   │   ├── Asia-Thimphu.geojson
+│   │   │   │   ├── Asia-Tokyo.geojson
+│   │   │   │   ├── Asia-Tomsk.geojson
+│   │   │   │   ├── Asia-Ulaanbaatar.geojson
+│   │   │   │   ├── Asia-Urumqi.geojson
+│   │   │   │   ├── Asia-Vientiane.geojson
+│   │   │   │   ├── Asia-Vladivostok.geojson
+│   │   │   │   ├── Asia-Yakutsk.geojson
+│   │   │   │   ├── Asia-Yekaterinburg.geojson
+│   │   │   │   ├── Asia-Yerevan.geojson
+│   │   │   │   ├── Atlantic-Azores.geojson
+│   │   │   │   ├── Atlantic-Bermuda.geojson
+│   │   │   │   ├── Atlantic-Canary.geojson
+│   │   │   │   ├── Atlantic-Cape_Verde.geojson
+│   │   │   │   ├── Atlantic-Faroe.geojson
+│   │   │   │   ├── Atlantic-Madeira.geojson
+│   │   │   │   ├── Atlantic-Reykjavik.geojson
+│   │   │   │   ├── Atlantic-South_Georgia.geojson
+│   │   │   │   ├── Atlantic-St_Helena.geojson
+│   │   │   │   ├── Atlantic-Stanley.geojson
+│   │   │   │   ├── Australia-Adelaide.geojson
+│   │   │   │   ├── Australia-Brisbane.geojson
+│   │   │   │   ├── Australia-Broken_Hill.geojson
+│   │   │   │   ├── Australia-Currie.geojson
+│   │   │   │   ├── Australia-Darwin.geojson
+│   │   │   │   ├── Australia-Hobart.geojson
+│   │   │   │   ├── Australia-Melbourne.geojson
+│   │   │   │   ├── Australia-Perth.geojson
+│   │   │   │   ├── Australia-Sydney.geojson
+│   │   │   │   ├── Europe-Amsterdam.geojson
+│   │   │   │   ├── Europe-Andorra.geojson
+│   │   │   │   ├── Europe-Astrakhan.geojson
+│   │   │   │   ├── Europe-Athens.geojson
+│   │   │   │   ├── Europe-Belgrade.geojson
+│   │   │   │   ├── Europe-Berlin.geojson
+│   │   │   │   ├── Europe-Bratislava.geojson
+│   │   │   │   ├── Europe-Brussels.geojson
+│   │   │   │   ├── Europe-Bucharest.geojson
+│   │   │   │   ├── Europe-Budapest.geojson
+│   │   │   │   ├── Europe-Busingen.geojson
+│   │   │   │   ├── Europe-Chisinau.geojson
+│   │   │   │   ├── Europe-Copenhagen.geojson
+│   │   │   │   ├── Europe-Dublin.geojson
+│   │   │   │   ├── Europe-Gibraltar.geojson
+│   │   │   │   ├── Europe-Guernsey.geojson
+│   │   │   │   ├── Europe-Helsinki.geojson
+│   │   │   │   ├── Europe-Isle_of_Man.geojson
+│   │   │   │   ├── Europe-Istanbul.geojson
+│   │   │   │   ├── Europe-Jersey.geojson
+│   │   │   │   ├── Europe-Kaliningrad.geojson
+│   │   │   │   ├── Europe-Kiev.geojson
+│   │   │   │   ├── Europe-Kirov.geojson
+│   │   │   │   ├── Europe-Lisbon.geojson
+│   │   │   │   ├── Europe-Ljubljana.geojson
+│   │   │   │   ├── Europe-London.geojson
+│   │   │   │   ├── Europe-Luxembourg.geojson
+│   │   │   │   ├── Europe-Madrid.geojson
+│   │   │   │   ├── Europe-Malta.geojson
+│   │   │   │   ├── Europe-Mariehamn.geojson
+│   │   │   │   ├── Europe-Minsk.geojson
+│   │   │   │   ├── Europe-Monaco.geojson
+│   │   │   │   ├── Europe-Moscow.geojson
+│   │   │   │   ├── Europe-Oslo.geojson
+│   │   │   │   ├── Europe-Paris.geojson
+│   │   │   │   ├── Europe-Podgorica.geojson
+│   │   │   │   ├── Europe-Prague.geojson
+│   │   │   │   ├── Europe-Riga.geojson
+│   │   │   │   ├── Europe-Rome.geojson
+│   │   │   │   ├── Europe-Samara.geojson
+│   │   │   │   ├── Europe-San_Marino.geojson
+│   │   │   │   ├── Europe-Sarajevo.geojson
+│   │   │   │   ├── Europe-Simferopol.geojson
+│   │   │   │   ├── Europe-Skopje.geojson
+│   │   │   │   ├── Europe-Sofia.geojson
+│   │   │   │   ├── Europe-Stockholm.geojson
+│   │   │   │   ├── Europe-Tallinn.geojson
+│   │   │   │   ├── Europe-Tirane.geojson
+│   │   │   │   ├── Europe-Ulyanovsk.geojson
+│   │   │   │   ├── Europe-Uzhgorod.geojson
+│   │   │   │   ├── Europe-Vaduz.geojson
+│   │   │   │   ├── Europe-Vatican.geojson
+│   │   │   │   ├── Europe-Vienna.geojson
+│   │   │   │   ├── Europe-Vilnius.geojson
+│   │   │   │   ├── Europe-Volgograd.geojson
+│   │   │   │   ├── Europe-Warsaw.geojson
+│   │   │   │   ├── Europe-Zagreb.geojson
+│   │   │   │   ├── Europe-Zaporozhye.geojson
+│   │   │   │   ├── Europe-Zurich.geojson
+│   │   │   │   ├── Indian-Antananarivo.geojson
+│   │   │   │   ├── Indian-Christmas.geojson
+│   │   │   │   ├── Indian-Cocos.geojson
+│   │   │   │   ├── Indian-Comoro.geojson
+│   │   │   │   ├── Indian-Kerguelen.geojson
+│   │   │   │   ├── Indian-Mahe.geojson
+│   │   │   │   ├── Indian-Maldives.geojson
+│   │   │   │   ├── Indian-Mauritius.geojson
+│   │   │   │   ├── Indian-Mayotte.geojson
+│   │   │   │   ├── Indian-Reunion.geojson
+│   │   │   │   ├── Pacific-Apia.geojson
+│   │   │   │   ├── Pacific-Auckland.geojson
+│   │   │   │   ├── Pacific-Bougainville.geojson
+│   │   │   │   ├── Pacific-Chatham.geojson
+│   │   │   │   ├── Pacific-Chuuk.geojson
+│   │   │   │   ├── Pacific-Easter.geojson
+│   │   │   │   ├── Pacific-Efate.geojson
+│   │   │   │   ├── Pacific-Fakaofo.geojson
+│   │   │   │   ├── Pacific-Fiji.geojson
+│   │   │   │   ├── Pacific-Funafuti.geojson
+│   │   │   │   ├── Pacific-Galapagos.geojson
+│   │   │   │   ├── Pacific-Gambier.geojson
+│   │   │   │   ├── Pacific-Guadalcanal.geojson
+│   │   │   │   ├── Pacific-Guam.geojson
+│   │   │   │   ├── Pacific-Honolulu.geojson
+│   │   │   │   ├── Pacific-Kiritimati.geojson
+│   │   │   │   ├── Pacific-Kosrae.geojson
+│   │   │   │   ├── Pacific-Kwajalein.geojson
+│   │   │   │   ├── Pacific-Majuro.geojson
+│   │   │   │   ├── Pacific-Marquesas.geojson
+│   │   │   │   ├── Pacific-Nauru.geojson
+│   │   │   │   ├── Pacific-Niue.geojson
+│   │   │   │   ├── Pacific-Norfolk.geojson
+│   │   │   │   ├── Pacific-Noumea.geojson
+│   │   │   │   ├── Pacific-Pago_Pago.geojson
+│   │   │   │   ├── Pacific-Palau.geojson
+│   │   │   │   ├── Pacific-Pitcairn.geojson
+│   │   │   │   ├── Pacific-Pohnpei.geojson
+│   │   │   │   ├── Pacific-Port_Moresby.geojson
+│   │   │   │   ├── Pacific-Rarotonga.geojson
+│   │   │   │   ├── Pacific-Saipan.geojson
+│   │   │   │   ├── Pacific-Tahiti.geojson
+│   │   │   │   ├── Pacific-Tarawa.geojson
+│   │   │   │   ├── Pacific-Tongatapu.geojson
+│   │   │   │   └── Pacific-Wallis.geojson
+│   │   │   ├── add_prop_countries.py
+│   │   │   ├── clicked_points.json
+│   │   │   ├── countries.geojson
+│   │   │   ├── countries2.geojson
+│   │   │   ├── data_by_country.json
+│   │   │   ├── flag_icon.svg
+│   │   │   ├── gz_2010_us_040_00_5m.json
+│   │   │   ├── lineStrings.geojson
+│   │   │   ├── README.md
+│   │   │   ├── regions.geojson
+│   │   │   ├── world_borders.zip
+│   │   │   ├── world_cities_by_time-zone.json
+│   │   │   └── world_cities_fixed.json
+│   │   ├── src
+│   │   │   ├── wdo
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── geo.py
+│   │   │   │   ├── io_shapefile.py
+│   │   │   │   ├── simulate_threats.py
+│   │   │   │   └── viz_map.py
+│   │   │   └── wdo.egg-info
+│   │   │       ├── dependency_links.txt
+│   │   │       ├── PKG-INFO
+│   │   │       ├── SOURCES.txt
+│   │   │       └── top_level.txt
+│   │   ├── pyproject.toml
+│   │   ├── README.md
+│   │   ├── requirements-full.txt
+│   │   ├── requirements.txt
+│   │   ├── setup.ipynb
+│   │   ├── setup.sh
+│   │   └── wdo_field_manual.md
+│   ├── 02-Missile_Geometry_202
+│   │   ├── _micro_lessons
+│   │   │   ├── 00-Paths
+│   │   │   │   ├── 00-Working_Directory.ipynb
+│   │   │   │   ├── 01-Relative_vs_Absolute.ipynb
+│   │   │   │   ├── 02-Data_Elsewhere.ipynb
+│   │   │   │   ├── 03-Find_Project_Root.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 01-JSON_GeoJSON
+│   │   │   │   ├── data
+│   │   │   │   │   ├── latex_colors.json
+│   │   │   │   │   └── meteorites.geojson
+│   │   │   │   ├── 00-Reading_JSON.ipynb
+│   │   │   │   ├── 01-GeoJSON_Structure.ipynb
+│   │   │   │   ├── 02-Feature_Collections.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 02-Viewing_GeoJSON
+│   │   │   │   ├── data
+│   │   │   │   │   └── wichita_falls.geojson
+│   │   │   │   ├── 00-Geojson.io.ipynb
+│   │   │   │   ├── 01-iPyLeaflet_Intro.ipynb
+│   │   │   │   ├── 02-Add_GeoJSON.ipynb
+│   │   │   │   ├── 03-Map_Control.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 03-Attributes_Styling_Filtering
+│   │   │   │   ├── 00-Properties.ipynb
+│   │   │   │   ├── 01-Style_Functions.ipynb
+│   │   │   │   ├── 02-Filtering.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 04-Interactive_Maps
+│   │   │   │   ├── 00-Map_Events.ipynb
+│   │   │   │   ├── 01-Click_Interactions.ipynb
+│   │   │   │   ├── 02-Dynamic_Layers.ipynb
+│   │   │   │   ├── 03-User_Feedback.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 05-Coordinate_Geometry
+│   │   │   │   ├── 00-Coordinate_Ranges.ipynb
+│   │   │   │   ├── 01-Compute_BBox.ipynb
+│   │   │   │   ├── 02-Draw_BBox.ipynb
+│   │   │   │   ├── 03-Why_LatLon_Is_Weird.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 06-Distance
+│   │   │   │   ├── 00-Euclidean_Distance.ipynb
+│   │   │   │   ├── 01-Haversine_Distance.ipynb
+│   │   │   │   ├── 02-Compare_Methods.ipynb
+│   │   │   │   ├── 03-Distance_Applications.ipynb
+│   │   │   │   ├── 04-Performance_Batching.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 07-Bearing
+│   │   │   │   ├── data
+│   │   │   │   │   └── bearing_examples.json
+│   │   │   │   ├── 00-What_Is_Bearing.ipynb
+│   │   │   │   ├── 01-Compute_Bearing.ipynb
+│   │   │   │   ├── 02-Bearing_V_Direction.ipynb
+│   │   │   │   ├── 03-Bearing_Applications.ipynb
+│   │   │   │   ├── 04-Advanced_Bearing.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 08-Intercept_Pursuit_Module_Design
+│   │   │   │   ├── 00-Problem_Setup.ipynb
+│   │   │   │   ├── 01-Constant_Velocity_Intercept.ipynb
+│   │   │   │   ├── 02-Iterative_Pursuit.ipynb
+│   │   │   │   ├── 03-Visual_Simulation.ipynb
+│   │   │   │   ├── 04-Strategy_and_Limits.ipynb
+│   │   │   │   ├── 05-Advanced_Topics.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 09-Intersections
+│   │   │   │   ├── data
+│   │   │   │   │   └── paths.geojson
+│   │   │   │   ├── 00-Lines_as_Paths.ipynb
+│   │   │   │   ├── 01-Line_Segment_Intersection.ipynb
+│   │   │   │   ├── 02-Line_vs_Polygon_Basics.ipynb
+│   │   │   │   ├── 03-Detecting_Intersections.ipynb
+│   │   │   │   ├── 04-Highlighting_Intersected_Features.ipynb
+│   │   │   │   ├── 05-Applications_Missile_Paths.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 10-Buffers
+│   │   │   │   ├── 00_Buffer_Concepts.ipynb
+│   │   │   │   ├── 01_Buffering_Points.ipynb
+│   │   │   │   ├── 02-Buffering_Lines.ipynb
+│   │   │   │   ├── 03-Comparing_Buffer_Sizes.ipynb
+│   │   │   │   ├── 04-Buffer_Visualization_Strategies.ipynb
+│   │   │   │   ├── 05-CRS_Limitations.ipynb
+│   │   │   │   ├── 06-Applications_Impact_Zones.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 11-Point_In_Polygon
+│   │   │   │   ├── 00_Click_Capture.ipynb
+│   │   │   │   ├── 01_Point_Representation.ipynb
+│   │   │   │   ├── 02_Point_In_Polygon_Basics.ipynb
+│   │   │   │   ├── 03_Ray_Casting_Algorithm.ipynb
+│   │   │   │   ├── 04_Testing_Against_Multiple_Features.ipynb
+│   │   │   │   ├── 05_Region_Classification.ipynb
+│   │   │   │   ├── 06_Interactive_Click_Applications.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 12-Refactoring
+│   │   │   │   ├── 01-From-Notebook-to-Module.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 13-WDO_Library
+│   │   │   │   ├── 01-Installing-and-Using-WDO.ipynb
+│   │   │   │   └── README.md
+│   │   │   └── README.md
+│   │   ├── src
+│   │   │   ├── wdo
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── geo.py
+│   │   │   │   ├── io_shapefile.py
+│   │   │   │   ├── maps.py
+│   │   │   │   ├── simulate_threats.py
+│   │   │   │   ├── viz_map.py
+│   │   │   │   └── viz_map_ipyleaflet.py
+│   │   │   ├── wdo.egg-info
+│   │   │   │   ├── dependency_links.txt
+│   │   │   │   ├── PKG-INFO
+│   │   │   │   ├── SOURCES.txt
+│   │   │   │   └── top_level.txt
+│   │   │   └── workload_generator_v2.cpp
+│   │   ├── helloworld
+│   │   ├── pyproject.toml
+│   │   └── README.md
+│   ├── 03-Data_Manager
+│   │   ├── _micro_lessons
+│   │   │   ├── 00-Data_Exploration
+│   │   │   │   ├── 00-Loading_and_Inspecting.ipynb
+│   │   │   │   ├── 01-Measuring_the_Problem.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 01-Douglas_Peucker
+│   │   │   │   ├── 00-The_Algorithm.ipynb
+│   │   │   │   ├── 01-Implementation.ipynb
+│   │   │   │   ├── 02-Epsilon_and_Tradeoffs.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 02-LOD_Generation
+│   │   │   │   ├── 00-Designing_the_Pipeline.ipynb
+│   │   │   │   ├── 01-Writing_the_LOD_Files.ipynb
+│   │   │   │   ├── 02-Comparing_the_Levels.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 03-Bounding_Box_Culling
+│   │   │   │   ├── 00-Bounding_Boxes.ipynb
+│   │   │   │   ├── 01-Intersection_Test.ipynb
+│   │   │   │   ├── 02-Viewport_Culling.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 04-Spatial_Grid_Index
+│   │   │   │   ├── 00-The_Grid_Idea.ipynb
+│   │   │   │   ├── 01-Building_the_Index.ipynb
+│   │   │   │   ├── 02-Querying_and_Benchmarking.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 05-Zoom_Layer_Switching
+│   │   │   │   ├── 00-The_Decision_Function.ipynb
+│   │   │   │   ├── 01-Live_Layer_Switching.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 06-Putting_It_Together
+│   │   │   │   ├── 00-The_Viewer.ipynb
+│   │   │   │   ├── 01-What_We_Built.ipynb
+│   │   │   │   └── README.md
+│   │   │   ├── 07-The_Library_Version
+│   │   │   │   ├── 00-What_Are_Vector_Tiles.ipynb
+│   │   │   │   ├── 01-Using_Tippecanoe.ipynb
+│   │   │   │   ├── 02-The_Comparison.ipynb
+│   │   │   │   └── README.md
+│   │   │   └── README.md
+│   │   ├── data
+│   │   │   └── ne_10m_railroads.geojson
+│   │   └── README.md
+│   ├── 04-Worldle
+│   │   └── README.md
+│   ├── checklist.md
+│   └── README.md
+├── Resources
+│   ├── .Data
+│   │   ├── country-json
+│   │   │   ├── country-by-abbreviation.json
+│   │   │   ├── country-by-alphabet-letters.json
+│   │   │   ├── country-by-avg-male-height.json
+│   │   │   ├── country-by-barcode-prefix.json
+│   │   │   ├── country-by-calling-code.json
+│   │   │   ├── country-by-capital-city.json
+│   │   │   ├── country-by-cities.json
+│   │   │   ├── country-by-coastline.json
+│   │   │   ├── country-by-continent.json
+│   │   │   ├── country-by-currency-code.json
+│   │   │   ├── country-by-currency-name.json
+│   │   │   ├── country-by-domain-tld.json
+│   │   │   ├── country-by-driving-side.json
+│   │   │   ├── country-by-elevation.json
+│   │   │   ├── country-by-flag.json
+│   │   │   ├── country-by-geo-coordinates.json
+│   │   │   ├── country-by-government-type.json
+│   │   │   ├── country-by-IATA-code.json
+│   │   │   ├── country-by-independence-date.json
+│   │   │   ├── country-by-iso-numeric.json
+│   │   │   ├── country-by-landlocked.json
+│   │   │   ├── country-by-languages.json
+│   │   │   ├── country-by-life-expectancy.json
+│   │   │   ├── country-by-name.json
+│   │   │   ├── country-by-national-dish.json
+│   │   │   ├── country-by-national-symbol.json
+│   │   │   ├── country-by-population-density.json
+│   │   │   ├── country-by-population.json
+│   │   │   ├── country-by-region-in-world.json
+│   │   │   ├── country-by-religion.json
+│   │   │   ├── country-by-surface-area.json
+│   │   │   └── country-by-yearly-average-temperature.json
+│   │   ├── earthquakes
+│   │   │   ├── 1950_1.json
+│   │   │   ├── 1950_10.json
+│   │   │   ├── 1950_11.json
+│   │   │   ├── 1950_12.json
+│   │   │   ├── 1950_2.json
+│   │   │   ├── 1950_3.json
+│   │   │   ├── 1950_4.json
+│   │   │   ├── 1950_5.json
+│   │   │   ├── 1950_6.json
+│   │   │   ├── 1950_7.json
+│   │   │   ├── 1950_8.json
+│   │   │   ├── 1950_9.json
+│   │   │   ├── 1951_1.json
+│   │   │   ├── 1951_10.json
+│   │   │   ├── 1951_11.json
+│   │   │   ├── 1951_12.json
+│   │   │   ├── 1951_2.json
+│   │   │   ├── 1951_3.json
+│   │   │   ├── 1951_4.json
+│   │   │   ├── 1951_5.json
+│   │   │   ├── 1951_6.json
+│   │   │   ├── 1951_7.json
+│   │   │   ├── 1951_8.json
+│   │   │   ├── 1951_9.json
+│   │   │   ├── 1952_1.json
+│   │   │   ├── 1952_10.json
+│   │   │   ├── 1952_11.json
+│   │   │   ├── 1952_12.json
+│   │   │   ├── 1952_2.json
+│   │   │   ├── 1952_3.json
+│   │   │   ├── 1952_4.json
+│   │   │   ├── 1952_5.json
+│   │   │   ├── 1952_6.json
+│   │   │   ├── 1952_7.json
+│   │   │   ├── 1952_8.json
+│   │   │   ├── 1952_9.json
+│   │   │   ├── 1953_1.json
+│   │   │   ├── 1953_10.json
+│   │   │   ├── 1953_11.json
+│   │   │   ├── 1953_12.json
+│   │   │   ├── 1953_2.json
+│   │   │   ├── 1953_3.json
+│   │   │   ├── 1953_4.json
+│   │   │   ├── 1953_5.json
+│   │   │   ├── 1953_6.json
+│   │   │   ├── 1953_7.json
+│   │   │   ├── 1953_8.json
+│   │   │   ├── 1953_9.json
+│   │   │   ├── 1954_1.json
+│   │   │   ├── 1954_10.json
+│   │   │   ├── 1954_11.json
+│   │   │   ├── 1954_12.json
+│   │   │   ├── 1954_2.json
+│   │   │   ├── 1954_3.json
+│   │   │   ├── 1954_4.json
+│   │   │   ├── 1954_5.json
+│   │   │   ├── 1954_6.json
+│   │   │   ├── 1954_7.json
+│   │   │   ├── 1954_8.json
+│   │   │   ├── 1954_9.json
+│   │   │   ├── 1955_1.json
+│   │   │   ├── 1955_10.json
+│   │   │   ├── 1955_11.json
+│   │   │   ├── 1955_12.json
+│   │   │   ├── 1955_2.json
+│   │   │   ├── 1955_3.json
+│   │   │   ├── 1955_4.json
+│   │   │   ├── 1955_5.json
+│   │   │   ├── 1955_6.json
+│   │   │   ├── 1955_7.json
+│   │   │   ├── 1955_8.json
+│   │   │   ├── 1955_9.json
+│   │   │   ├── 1956_1.json
+│   │   │   ├── 1956_10.json
+│   │   │   ├── 1956_11.json
+│   │   │   ├── 1956_12.json
+│   │   │   ├── 1956_2.json
+│   │   │   ├── 1956_3.json
+│   │   │   ├── 1956_4.json
+│   │   │   ├── 1956_5.json
+│   │   │   ├── 1956_6.json
+│   │   │   ├── 1956_7.json
+│   │   │   ├── 1956_8.json
+│   │   │   ├── 1956_9.json
+│   │   │   ├── 1957_1.json
+│   │   │   ├── 1957_10.json
+│   │   │   ├── 1957_11.json
+│   │   │   ├── 1957_12.json
+│   │   │   ├── 1957_2.json
+│   │   │   ├── 1957_3.json
+│   │   │   ├── 1957_4.json
+│   │   │   ├── 1957_5.json
+│   │   │   ├── 1957_6.json
+│   │   │   ├── 1957_7.json
+│   │   │   ├── 1957_8.json
+│   │   │   ├── 1957_9.json
+│   │   │   ├── 1958_1.json
+│   │   │   ├── 1958_10.json
+│   │   │   ├── 1958_11.json
+│   │   │   ├── 1958_12.json
+│   │   │   ├── 1958_2.json
+│   │   │   ├── 1958_3.json
+│   │   │   ├── 1958_4.json
+│   │   │   ├── 1958_5.json
+│   │   │   ├── 1958_6.json
+│   │   │   ├── 1958_7.json
+│   │   │   ├── 1958_8.json
+│   │   │   ├── 1958_9.json
+│   │   │   ├── 1959_1.json
+│   │   │   ├── 1959_10.json
+│   │   │   ├── 1959_11.json
+│   │   │   ├── 1959_12.json
+│   │   │   ├── 1959_2.json
+│   │   │   ├── 1959_3.json
+│   │   │   ├── 1959_4.json
+│   │   │   ├── 1959_5.json
+│   │   │   ├── 1959_6.json
+│   │   │   ├── 1959_7.json
+│   │   │   ├── 1959_8.json
+│   │   │   ├── 1959_9.json
+│   │   │   ├── 1960_1.json
+│   │   │   ├── 1960_10.json
+│   │   │   ├── 1960_11.json
+│   │   │   ├── 1960_12.json
+│   │   │   ├── 1960_2.json
+│   │   │   ├── 1960_3.json
+│   │   │   ├── 1960_4.json
+│   │   │   ├── 1960_5.json
+│   │   │   ├── 1960_6.json
+│   │   │   ├── 1960_7.json
+│   │   │   ├── 1960_8.json
+│   │   │   ├── 1960_9.json
+│   │   │   ├── 1961_1.json
+│   │   │   ├── 1961_10.json
+│   │   │   ├── 1961_11.json
+│   │   │   ├── 1961_12.json
+│   │   │   ├── 1961_2.json
+│   │   │   ├── 1961_3.json
+│   │   │   ├── 1961_4.json
+│   │   │   ├── 1961_5.json
+│   │   │   ├── 1961_6.json
+│   │   │   ├── 1961_7.json
+│   │   │   ├── 1961_8.json
+│   │   │   ├── 1961_9.json
+│   │   │   ├── 1962_1.json
+│   │   │   ├── 1962_10.json
+│   │   │   ├── 1962_11.json
+│   │   │   ├── 1962_12.json
+│   │   │   ├── 1962_2.json
+│   │   │   ├── 1962_3.json
+│   │   │   ├── 1962_4.json
+│   │   │   ├── 1962_5.json
+│   │   │   ├── 1962_6.json
+│   │   │   ├── 1962_7.json
+│   │   │   ├── 1962_8.json
+│   │   │   ├── 1962_9.json
+│   │   │   ├── 1963_1.json
+│   │   │   ├── 1963_10.json
+│   │   │   ├── 1963_11.json
+│   │   │   ├── 1963_12.json
+│   │   │   ├── 1963_2.json
+│   │   │   ├── 1963_3.json
+│   │   │   ├── 1963_4.json
+│   │   │   ├── 1963_5.json
+│   │   │   ├── 1963_6.json
+│   │   │   ├── 1963_7.json
+│   │   │   ├── 1963_8.json
+│   │   │   ├── 1963_9.json
+│   │   │   ├── 1964_1.json
+│   │   │   ├── 1964_10.json
+│   │   │   ├── 1964_11.json
+│   │   │   ├── 1964_12.json
+│   │   │   ├── 1964_2.json
+│   │   │   ├── 1964_3.json
+│   │   │   ├── 1964_4.json
+│   │   │   ├── 1964_5.json
+│   │   │   ├── 1964_6.json
+│   │   │   ├── 1964_7.json
+│   │   │   ├── 1964_8.json
+│   │   │   ├── 1964_9.json
+│   │   │   ├── 1965_1.json
+│   │   │   ├── 1965_10.json
+│   │   │   ├── 1965_11.json
+│   │   │   ├── 1965_12.json
+│   │   │   ├── 1965_2.json
+│   │   │   ├── 1965_3.json
+│   │   │   ├── 1965_4.json
+│   │   │   ├── 1965_5.json
+│   │   │   ├── 1965_6.json
+│   │   │   ├── 1965_7.json
+│   │   │   ├── 1965_8.json
+│   │   │   ├── 1965_9.json
+│   │   │   ├── 1966_1.json
+│   │   │   ├── 1966_10.json
+│   │   │   ├── 1966_11.json
+│   │   │   ├── 1966_12.json
+│   │   │   ├── 1966_2.json
+│   │   │   ├── 1966_3.json
+│   │   │   ├── 1966_4.json
+│   │   │   ├── 1966_5.json
+│   │   │   ├── 1966_6.json
+│   │   │   ├── 1966_7.json
+│   │   │   ├── 1966_8.json
+│   │   │   ├── 1966_9.json
+│   │   │   ├── 1967_1.json
+│   │   │   ├── 1967_10.json
+│   │   │   ├── 1967_11.json
+│   │   │   ├── 1967_12.json
+│   │   │   ├── 1967_2.json
+│   │   │   ├── 1967_3.json
+│   │   │   ├── 1967_4.json
+│   │   │   ├── 1967_5.json
+│   │   │   ├── 1967_6.json
+│   │   │   ├── 1967_7.json
+│   │   │   ├── 1967_8.json
+│   │   │   ├── 1967_9.json
+│   │   │   ├── 1968_1.json
+│   │   │   ├── 1968_10.json
+│   │   │   ├── 1968_11.json
+│   │   │   ├── 1968_12.json
+│   │   │   ├── 1968_2.json
+│   │   │   ├── 1968_3.json
+│   │   │   ├── 1968_4.json
+│   │   │   ├── 1968_5.json
+│   │   │   ├── 1968_6.json
+│   │   │   ├── 1968_7.json
+│   │   │   ├── 1968_8.json
+│   │   │   ├── 1968_9.json
+│   │   │   ├── 1969_1.json
+│   │   │   ├── 1969_10.json
+│   │   │   ├── 1969_11.json
+│   │   │   ├── 1969_12.json
+│   │   │   ├── 1969_2.json
+│   │   │   ├── 1969_3.json
+│   │   │   ├── 1969_4.json
+│   │   │   ├── 1969_5.json
+│   │   │   ├── 1969_6.json
+│   │   │   ├── 1969_7.json
+│   │   │   ├── 1969_8.json
+│   │   │   ├── 1969_9.json
+│   │   │   ├── 1970_1.json
+│   │   │   ├── 1970_10.json
+│   │   │   ├── 1970_11.json
+│   │   │   ├── 1970_12.json
+│   │   │   ├── 1970_2.json
+│   │   │   ├── 1970_3.json
+│   │   │   ├── 1970_4.json
+│   │   │   ├── 1970_5.json
+│   │   │   ├── 1970_6.json
+│   │   │   ├── 1970_7.json
+│   │   │   ├── 1970_8.json
+│   │   │   ├── 1970_9.json
+│   │   │   ├── 1971_1.json
+│   │   │   ├── 1971_10.json
+│   │   │   ├── 1971_11.json
+│   │   │   ├── 1971_12.json
+│   │   │   ├── 1971_2.json
+│   │   │   ├── 1971_3.json
+│   │   │   ├── 1971_4.json
+│   │   │   ├── 1971_5.json
+│   │   │   ├── 1971_6.json
+│   │   │   ├── 1971_7.json
+│   │   │   ├── 1971_8.json
+│   │   │   ├── 1971_9.json
+│   │   │   ├── 1972_1.json
+│   │   │   ├── 1972_10.json
+│   │   │   ├── 1972_11.json
+│   │   │   ├── 1972_12.json
+│   │   │   ├── 1972_2.json
+│   │   │   ├── 1972_3.json
+│   │   │   ├── 1972_4.json
+│   │   │   ├── 1972_5.json
+│   │   │   ├── 1972_6.json
+│   │   │   ├── 1972_7.json
+│   │   │   ├── 1972_8.json
+│   │   │   ├── 1972_9.json
+│   │   │   ├── 1973_1.json
+│   │   │   ├── 1973_10.json
+│   │   │   ├── 1973_11.json
+│   │   │   ├── 1973_12.json
+│   │   │   ├── 1973_2.json
+│   │   │   ├── 1973_3.json
+│   │   │   ├── 1973_4.json
+│   │   │   ├── 1973_5.json
+│   │   │   ├── 1973_6.json
+│   │   │   ├── 1973_7.json
+│   │   │   ├── 1973_8.json
+│   │   │   ├── 1973_9.json
+│   │   │   ├── 1974_1.json
+│   │   │   ├── 1974_10.json
+│   │   │   ├── 1974_11.json
+│   │   │   ├── 1974_12.json
+│   │   │   ├── 1974_2.json
+│   │   │   ├── 1974_3.json
+│   │   │   ├── 1974_4.json
+│   │   │   ├── 1974_5.json
+│   │   │   ├── 1974_6.json
+│   │   │   ├── 1974_7.json
+│   │   │   ├── 1974_8.json
+│   │   │   ├── 1974_9.json
+│   │   │   ├── 1975_1.json
+│   │   │   ├── 1975_10.json
+│   │   │   ├── 1975_11.json
+│   │   │   ├── 1975_12.json
+│   │   │   ├── 1975_2.json
+│   │   │   ├── 1975_3.json
+│   │   │   ├── 1975_4.json
+│   │   │   ├── 1975_5.json
+│   │   │   ├── 1975_6.json
+│   │   │   ├── 1975_7.json
+│   │   │   ├── 1975_8.json
+│   │   │   ├── 1975_9.json
+│   │   │   ├── 1976_1.json
+│   │   │   ├── 1976_10.json
+│   │   │   ├── 1976_11.json
+│   │   │   ├── 1976_12.json
+│   │   │   ├── 1976_2.json
+│   │   │   ├── 1976_3.json
+│   │   │   ├── 1976_4.json
+│   │   │   ├── 1976_5.json
+│   │   │   ├── 1976_6.json
+│   │   │   ├── 1976_7.json
+│   │   │   ├── 1976_8.json
+│   │   │   ├── 1976_9.json
+│   │   │   ├── 1977_1.json
+│   │   │   ├── 1977_10.json
+│   │   │   ├── 1977_11.json
+│   │   │   ├── 1977_12.json
+│   │   │   ├── 1977_2.json
+│   │   │   ├── 1977_3.json
+│   │   │   ├── 1977_4.json
+│   │   │   ├── 1977_5.json
+│   │   │   ├── 1977_6.json
+│   │   │   ├── 1977_7.json
+│   │   │   ├── 1977_8.json
+│   │   │   ├── 1977_9.json
+│   │   │   ├── 1978_1.json
+│   │   │   ├── 1978_10.json
+│   │   │   ├── 1978_11.json
+│   │   │   ├── 1978_12.json
+│   │   │   ├── 1978_2.json
+│   │   │   ├── 1978_3.json
+│   │   │   ├── 1978_4.json
+│   │   │   ├── 1978_5.json
+│   │   │   ├── 1978_6.json
+│   │   │   ├── 1978_7.json
+│   │   │   ├── 1978_8.json
+│   │   │   ├── 1978_9.json
+│   │   │   ├── 1979_1.json
+│   │   │   ├── 1979_10.json
+│   │   │   ├── 1979_11.json
+│   │   │   ├── 1979_12.json
+│   │   │   ├── 1979_2.json
+│   │   │   ├── 1979_3.json
+│   │   │   ├── 1979_4.json
+│   │   │   ├── 1979_5.json
+│   │   │   ├── 1979_6.json
+│   │   │   ├── 1979_7.json
+│   │   │   ├── 1979_8.json
+│   │   │   ├── 1979_9.json
+│   │   │   ├── 1980_1.json
+│   │   │   ├── 1980_10.json
+│   │   │   ├── 1980_11.json
+│   │   │   ├── 1980_12.json
+│   │   │   ├── 1980_2.json
+│   │   │   ├── 1980_3.json
+│   │   │   ├── 1980_4.json
+│   │   │   ├── 1980_5.json
+│   │   │   ├── 1980_6.json
+│   │   │   ├── 1980_7.json
+│   │   │   ├── 1980_8.json
+│   │   │   ├── 1980_9.json
+│   │   │   ├── 1981_1.json
+│   │   │   ├── 1981_10.json
+│   │   │   ├── 1981_11.json
+│   │   │   ├── 1981_12.json
+│   │   │   ├── 1981_2.json
+│   │   │   ├── 1981_3.json
+│   │   │   ├── 1981_4.json
+│   │   │   ├── 1981_5.json
+│   │   │   ├── 1981_6.json
+│   │   │   ├── 1981_7.json
+│   │   │   ├── 1981_8.json
+│   │   │   ├── 1981_9.json
+│   │   │   ├── 1982_1.json
+│   │   │   ├── 1982_10.json
+│   │   │   ├── 1982_11.json
+│   │   │   ├── 1982_12.json
+│   │   │   ├── 1982_2.json
+│   │   │   ├── 1982_3.json
+│   │   │   ├── 1982_4.json
+│   │   │   ├── 1982_5.json
+│   │   │   ├── 1982_6.json
+│   │   │   ├── 1982_7.json
+│   │   │   ├── 1982_8.json
+│   │   │   ├── 1982_9.json
+│   │   │   ├── 1983_1.json
+│   │   │   ├── 1983_10.json
+│   │   │   ├── 1983_11.json
+│   │   │   ├── 1983_12.json
+│   │   │   ├── 1983_2.json
+│   │   │   ├── 1983_3.json
+│   │   │   ├── 1983_4.json
+│   │   │   ├── 1983_5.json
+│   │   │   ├── 1983_6.json
+│   │   │   ├── 1983_7.json
+│   │   │   ├── 1983_8.json
+│   │   │   ├── 1983_9.json
+│   │   │   ├── 1984_1.json
+│   │   │   ├── 1984_10.json
+│   │   │   ├── 1984_11.json
+│   │   │   ├── 1984_12.json
+│   │   │   ├── 1984_2.json
+│   │   │   ├── 1984_3.json
+│   │   │   ├── 1984_4.json
+│   │   │   ├── 1984_5.json
+│   │   │   ├── 1984_6.json
+│   │   │   ├── 1984_7.json
+│   │   │   ├── 1984_8.json
+│   │   │   ├── 1984_9.json
+│   │   │   ├── 1985_1.json
+│   │   │   ├── 1985_10.json
+│   │   │   ├── 1985_11.json
+│   │   │   ├── 1985_12.json
+│   │   │   ├── 1985_2.json
+│   │   │   ├── 1985_3.json
+│   │   │   ├── 1985_4.json
+│   │   │   ├── 1985_5.json
+│   │   │   ├── 1985_6.json
+│   │   │   ├── 1985_7.json
+│   │   │   ├── 1985_8.json
+│   │   │   ├── 1985_9.json
+│   │   │   ├── 1986_1.json
+│   │   │   ├── 1986_10.json
+│   │   │   ├── 1986_11.json
+│   │   │   ├── 1986_12.json
+│   │   │   ├── 1986_2.json
+│   │   │   ├── 1986_3.json
+│   │   │   ├── 1986_4.json
+│   │   │   ├── 1986_5.json
+│   │   │   ├── 1986_6.json
+│   │   │   ├── 1986_7.json
+│   │   │   ├── 1986_8.json
+│   │   │   ├── 1986_9.json
+│   │   │   ├── 1987_1.json
+│   │   │   ├── 1987_10.json
+│   │   │   ├── 1987_11.json
+│   │   │   ├── 1987_12.json
+│   │   │   ├── 1987_2.json
+│   │   │   ├── 1987_3.json
+│   │   │   ├── 1987_4.json
+│   │   │   ├── 1987_5.json
+│   │   │   ├── 1987_6.json
+│   │   │   ├── 1987_7.json
+│   │   │   ├── 1987_8.json
+│   │   │   ├── 1987_9.json
+│   │   │   ├── 1988_1.json
+│   │   │   ├── 1988_10.json
+│   │   │   ├── 1988_11.json
+│   │   │   ├── 1988_12.json
+│   │   │   ├── 1988_2.json
+│   │   │   ├── 1988_3.json
+│   │   │   ├── 1988_4.json
+│   │   │   ├── 1988_5.json
+│   │   │   ├── 1988_6.json
+│   │   │   ├── 1988_7.json
+│   │   │   ├── 1988_8.json
+│   │   │   ├── 1988_9.json
+│   │   │   ├── 1989_1.json
+│   │   │   ├── 1989_10.json
+│   │   │   ├── 1989_11.json
+│   │   │   ├── 1989_12.json
+│   │   │   ├── 1989_2.json
+│   │   │   ├── 1989_3.json
+│   │   │   ├── 1989_4.json
+│   │   │   ├── 1989_5.json
+│   │   │   ├── 1989_6.json
+│   │   │   ├── 1989_7.json
+│   │   │   ├── 1989_8.json
+│   │   │   ├── 1989_9.json
+│   │   │   ├── 1990_1.json
+│   │   │   ├── 1990_10.json
+│   │   │   ├── 1990_11.json
+│   │   │   ├── 1990_12.json
+│   │   │   ├── 1990_2.json
+│   │   │   ├── 1990_3.json
+│   │   │   ├── 1990_4.json
+│   │   │   ├── 1990_5.json
+│   │   │   ├── 1990_6.json
+│   │   │   ├── 1990_7.json
+│   │   │   ├── 1990_8.json
+│   │   │   ├── 1990_9.json
+│   │   │   ├── 1991_1.json
+│   │   │   ├── 1991_10.json
+│   │   │   ├── 1991_11.json
+│   │   │   ├── 1991_12.json
+│   │   │   ├── 1991_2.json
+│   │   │   ├── 1991_3.json
+│   │   │   ├── 1991_4.json
+│   │   │   ├── 1991_5.json
+│   │   │   ├── 1991_6.json
+│   │   │   ├── 1991_7.json
+│   │   │   ├── 1991_8.json
+│   │   │   ├── 1991_9.json
+│   │   │   ├── 1992_1.json
+│   │   │   ├── 1992_10.json
+│   │   │   ├── 1992_11.json
+│   │   │   ├── 1992_12.json
+│   │   │   ├── 1992_2.json
+│   │   │   ├── 1992_3.json
+│   │   │   ├── 1992_4.json
+│   │   │   ├── 1992_5.json
+│   │   │   ├── 1992_6.json
+│   │   │   ├── 1992_7.json
+│   │   │   ├── 1992_8.json
+│   │   │   ├── 1992_9.json
+│   │   │   ├── 1993_1.json
+│   │   │   ├── 1993_10.json
+│   │   │   ├── 1993_11.json
+│   │   │   ├── 1993_12.json
+│   │   │   ├── 1993_2.json
+│   │   │   ├── 1993_3.json
+│   │   │   ├── 1993_4.json
+│   │   │   ├── 1993_5.json
+│   │   │   ├── 1993_6.json
+│   │   │   ├── 1993_7.json
+│   │   │   ├── 1993_8.json
+│   │   │   ├── 1993_9.json
+│   │   │   ├── 1994_1.json
+│   │   │   ├── 1994_10.json
+│   │   │   ├── 1994_11.json
+│   │   │   ├── 1994_12.json
+│   │   │   ├── 1994_2.json
+│   │   │   ├── 1994_3.json
+│   │   │   ├── 1994_4.json
+│   │   │   ├── 1994_5.json
+│   │   │   ├── 1994_6.json
+│   │   │   ├── 1994_7.json
+│   │   │   ├── 1994_8.json
+│   │   │   ├── 1994_9.json
+│   │   │   ├── 1995_1.json
+│   │   │   ├── 1995_10.json
+│   │   │   ├── 1995_11.json
+│   │   │   ├── 1995_12.json
+│   │   │   ├── 1995_2.json
+│   │   │   ├── 1995_3.json
+│   │   │   ├── 1995_4.json
+│   │   │   ├── 1995_5.json
+│   │   │   ├── 1995_6.json
+│   │   │   ├── 1995_7.json
+│   │   │   ├── 1995_8.json
+│   │   │   ├── 1995_9.json
+│   │   │   ├── 1996_1.json
+│   │   │   ├── 1996_10.json
+│   │   │   ├── 1996_11.json
+│   │   │   ├── 1996_12.json
+│   │   │   ├── 1996_2.json
+│   │   │   ├── 1996_3.json
+│   │   │   ├── 1996_4.json
+│   │   │   ├── 1996_5.json
+│   │   │   ├── 1996_6.json
+│   │   │   ├── 1996_7.json
+│   │   │   ├── 1996_8.json
+│   │   │   ├── 1996_9.json
+│   │   │   ├── 1997_1.json
+│   │   │   ├── 1997_10.json
+│   │   │   ├── 1997_11.json
+│   │   │   ├── 1997_12.json
+│   │   │   ├── 1997_2.json
+│   │   │   ├── 1997_3.json
+│   │   │   ├── 1997_4.json
+│   │   │   ├── 1997_5.json
+│   │   │   ├── 1997_6.json
+│   │   │   ├── 1997_7.json
+│   │   │   ├── 1997_8.json
+│   │   │   ├── 1997_9.json
+│   │   │   ├── 1998_1.json
+│   │   │   ├── 1998_10.json
+│   │   │   ├── 1998_11.json
+│   │   │   ├── 1998_12.json
+│   │   │   ├── 1998_2.json
+│   │   │   ├── 1998_3.json
+│   │   │   ├── 1998_4.json
+│   │   │   ├── 1998_5.json
+│   │   │   ├── 1998_6.json
+│   │   │   ├── 1998_7.json
+│   │   │   ├── 1998_8.json
+│   │   │   ├── 1998_9.json
+│   │   │   ├── 1999_1.json
+│   │   │   ├── 1999_10.json
+│   │   │   ├── 1999_11.json
+│   │   │   ├── 1999_12.json
+│   │   │   ├── 1999_2.json
+│   │   │   ├── 1999_3.json
+│   │   │   ├── 1999_4.json
+│   │   │   ├── 1999_5.json
+│   │   │   ├── 1999_6.json
+│   │   │   ├── 1999_7.json
+│   │   │   ├── 1999_8.json
+│   │   │   ├── 1999_9.json
+│   │   │   ├── 2000_1.json
+│   │   │   ├── 2000_10.json
+│   │   │   ├── 2000_11.json
+│   │   │   ├── 2000_12.json
+│   │   │   ├── 2000_2.json
+│   │   │   ├── 2000_3.json
+│   │   │   ├── 2000_4.json
+│   │   │   ├── 2000_5.json
+│   │   │   ├── 2000_6.json
+│   │   │   ├── 2000_7.json
+│   │   │   ├── 2000_8.json
+│   │   │   ├── 2000_9.json
+│   │   │   ├── 2001_1.json
+│   │   │   ├── 2001_10.json
+│   │   │   ├── 2001_11.json
+│   │   │   ├── 2001_12.json
+│   │   │   ├── 2001_2.json
+│   │   │   ├── 2001_3.json
+│   │   │   ├── 2001_4.json
+│   │   │   ├── 2001_5.json
+│   │   │   ├── 2001_6.json
+│   │   │   ├── 2001_7.json
+│   │   │   ├── 2001_8.json
+│   │   │   ├── 2001_9.json
+│   │   │   ├── 2002_1.json
+│   │   │   ├── 2002_10.json
+│   │   │   ├── 2002_11.json
+│   │   │   ├── 2002_12.json
+│   │   │   ├── 2002_2.json
+│   │   │   ├── 2002_3.json
+│   │   │   ├── 2002_4.json
+│   │   │   ├── 2002_5.json
+│   │   │   ├── 2002_6.json
+│   │   │   ├── 2002_7.json
+│   │   │   ├── 2002_8.json
+│   │   │   ├── 2002_9.json
+│   │   │   ├── 2003_1.json
+│   │   │   ├── 2003_10.json
+│   │   │   ├── 2003_11.json
+│   │   │   ├── 2003_12.json
+│   │   │   ├── 2003_2.json
+│   │   │   ├── 2003_3.json
+│   │   │   ├── 2003_4.json
+│   │   │   ├── 2003_5.json
+│   │   │   ├── 2003_6.json
+│   │   │   ├── 2003_7.json
+│   │   │   ├── 2003_8.json
+│   │   │   ├── 2003_9.json
+│   │   │   ├── 2004_1.json
+│   │   │   ├── 2004_10.json
+│   │   │   ├── 2004_11.json
+│   │   │   ├── 2004_12.json
+│   │   │   ├── 2004_2.json
+│   │   │   ├── 2004_3.json
+│   │   │   ├── 2004_4.json
+│   │   │   ├── 2004_5.json
+│   │   │   ├── 2004_6.json
+│   │   │   ├── 2004_7.json
+│   │   │   ├── 2004_8.json
+│   │   │   ├── 2004_9.json
+│   │   │   ├── 2005_1.json
+│   │   │   ├── 2005_10.json
+│   │   │   ├── 2005_11.json
+│   │   │   ├── 2005_12.json
+│   │   │   ├── 2005_2.json
+│   │   │   ├── 2005_3.json
+│   │   │   ├── 2005_4.json
+│   │   │   ├── 2005_5.json
+│   │   │   ├── 2005_7.json
+│   │   │   ├── 2005_8.json
+│   │   │   ├── 2005_9.json
+│   │   │   ├── 2006_1.json
+│   │   │   ├── 2006_10.json
+│   │   │   ├── 2006_11.json
+│   │   │   ├── 2006_12.json
+│   │   │   ├── 2006_2.json
+│   │   │   ├── 2006_3.json
+│   │   │   ├── 2006_4.json
+│   │   │   ├── 2006_5.json
+│   │   │   ├── 2006_6.json
+│   │   │   ├── 2006_7.json
+│   │   │   ├── 2006_8.json
+│   │   │   ├── 2006_9.json
+│   │   │   ├── 2007_1.json
+│   │   │   ├── 2007_10.json
+│   │   │   ├── 2007_11.json
+│   │   │   ├── 2007_12.json
+│   │   │   ├── 2007_2.json
+│   │   │   ├── 2007_3.json
+│   │   │   ├── 2007_4.json
+│   │   │   ├── 2007_5.json
+│   │   │   ├── 2007_6.json
+│   │   │   ├── 2007_7.json
+│   │   │   ├── 2007_8.json
+│   │   │   ├── 2007_9.json
+│   │   │   ├── 2008_1.json
+│   │   │   ├── 2008_10.json
+│   │   │   ├── 2008_11.json
+│   │   │   ├── 2008_12.json
+│   │   │   ├── 2008_2.json
+│   │   │   ├── 2008_3.json
+│   │   │   ├── 2008_4.json
+│   │   │   ├── 2008_5.json
+│   │   │   ├── 2008_6.json
+│   │   │   ├── 2008_7.json
+│   │   │   ├── 2008_8.json
+│   │   │   ├── 2008_9.json
+│   │   │   ├── 2009_1.json
+│   │   │   ├── 2009_10.json
+│   │   │   ├── 2009_11.json
+│   │   │   ├── 2009_12.json
+│   │   │   ├── 2009_2.json
+│   │   │   ├── 2009_3.json
+│   │   │   ├── 2009_4.json
+│   │   │   ├── 2009_5.json
+│   │   │   ├── 2009_6.json
+│   │   │   ├── 2009_7.json
+│   │   │   ├── 2009_8.json
+│   │   │   ├── 2009_9.json
+│   │   │   ├── 2010_1.json
+│   │   │   ├── 2010_10.json
+│   │   │   ├── 2010_11.json
+│   │   │   ├── 2010_12.json
+│   │   │   ├── 2010_2.json
+│   │   │   ├── 2010_3.json
+│   │   │   ├── 2010_5.json
+│   │   │   ├── 2010_6.json
+│   │   │   ├── 2010_7.json
+│   │   │   ├── 2010_8.json
+│   │   │   ├── 2010_9.json
+│   │   │   ├── 2011_1.json
+│   │   │   ├── 2011_10.json
+│   │   │   ├── 2011_11.json
+│   │   │   ├── 2011_12.json
+│   │   │   ├── 2011_2.json
+│   │   │   ├── 2011_3.json
+│   │   │   ├── 2011_4.json
+│   │   │   ├── 2011_5.json
+│   │   │   ├── 2011_6.json
+│   │   │   ├── 2011_7.json
+│   │   │   ├── 2011_8.json
+│   │   │   ├── 2011_9.json
+│   │   │   ├── 2012_1.json
+│   │   │   ├── 2012_10.json
+│   │   │   ├── 2012_11.json
+│   │   │   ├── 2012_12.json
+│   │   │   ├── 2012_2.json
+│   │   │   ├── 2012_3.json
+│   │   │   ├── 2012_4.json
+│   │   │   ├── 2012_5.json
+│   │   │   ├── 2012_6.json
+│   │   │   ├── 2012_7.json
+│   │   │   ├── 2012_8.json
+│   │   │   ├── 2012_9.json
+│   │   │   ├── 2013_1.json
+│   │   │   ├── 2013_10.json
+│   │   │   ├── 2013_11.json
+│   │   │   ├── 2013_12.json
+│   │   │   ├── 2013_2.json
+│   │   │   ├── 2013_3.json
+│   │   │   ├── 2013_4.json
+│   │   │   ├── 2013_5.json
+│   │   │   ├── 2013_6.json
+│   │   │   ├── 2013_7.json
+│   │   │   ├── 2013_8.json
+│   │   │   ├── 2013_9.json
+│   │   │   ├── 2014_1.json
+│   │   │   ├── 2014_10.json
+│   │   │   ├── 2014_11.json
+│   │   │   ├── 2014_12.json
+│   │   │   ├── 2014_2.json
+│   │   │   ├── 2014_3.json
+│   │   │   ├── 2014_4.json
+│   │   │   ├── 2014_5.json
+│   │   │   ├── 2014_6.json
+│   │   │   ├── 2014_7.json
+│   │   │   ├── 2014_8.json
+│   │   │   ├── 2014_9.json
+│   │   │   ├── 2015_1.json
+│   │   │   ├── 2015_10.json
+│   │   │   ├── 2015_12.json
+│   │   │   ├── 2015_2.json
+│   │   │   ├── 2015_3.json
+│   │   │   ├── 2015_4.json
+│   │   │   ├── 2015_5.json
+│   │   │   ├── 2015_6.json
+│   │   │   ├── 2015_7.json
+│   │   │   ├── 2015_8.json
+│   │   │   ├── 2015_9.json
+│   │   │   ├── 2016_1.json
+│   │   │   ├── 2016_10.json
+│   │   │   ├── 2016_11.json
+│   │   │   ├── 2016_12.json
+│   │   │   ├── 2016_2.json
+│   │   │   ├── 2016_3.json
+│   │   │   ├── 2016_4.json
+│   │   │   ├── 2016_5.json
+│   │   │   ├── 2016_6.json
+│   │   │   ├── 2016_7.json
+│   │   │   ├── 2016_8.json
+│   │   │   ├── 2016_9.json
+│   │   │   ├── 2017_1.json
+│   │   │   ├── 2017_10.json
+│   │   │   ├── 2017_11.json
+│   │   │   ├── 2017_12.json
+│   │   │   ├── 2017_2.json
+│   │   │   ├── 2017_3.json
+│   │   │   ├── 2017_4.json
+│   │   │   ├── 2017_5.json
+│   │   │   ├── 2017_6.json
+│   │   │   ├── 2017_7.json
+│   │   │   ├── 2017_8.json
+│   │   │   ├── 2017_9.json
+│   │   │   ├── 2018_1.json
+│   │   │   ├── 2018_10.json
+│   │   │   ├── 2018_11.json
+│   │   │   ├── 2018_12.json
+│   │   │   ├── 2018_2.json
+│   │   │   ├── 2018_3.json
+│   │   │   ├── 2018_4.json
+│   │   │   ├── 2018_5.json
+│   │   │   ├── 2018_8.json
+│   │   │   ├── 2018_9.json
+│   │   │   ├── 2019_1.json
+│   │   │   ├── 2019_10.json
+│   │   │   ├── 2019_11.json
+│   │   │   ├── 2019_12.json
+│   │   │   ├── 2019_2.json
+│   │   │   ├── 2019_3.json
+│   │   │   ├── 2019_4.json
+│   │   │   ├── 2019_5.json
+│   │   │   ├── 2019_6.json
+│   │   │   ├── 2019_8.json
+│   │   │   ├── 2019_9.json
+│   │   │   ├── 2020_1.json
+│   │   │   ├── 2020_2.json
+│   │   │   ├── 2020_3.json
+│   │   │   ├── 2020_4.json
+│   │   │   ├── 2020_5.json
+│   │   │   ├── 2020_6.json
+│   │   │   └── 2020_7.json
+│   │   ├── geojson
+│   │   │   └── geojson_example.geojson
+│   │   ├── meteorites
+│   │   │   ├── convert_2_geojson.py
+│   │   │   ├── meteorites.geojson
+│   │   │   ├── meteorites_export.json
+│   │   │   ├── xaa
+│   │   │   ├── xab
+│   │   │   ├── xac
+│   │   │   ├── xad
+│   │   │   ├── xae
+│   │   │   ├── xaf
+│   │   │   ├── xag
+│   │   │   ├── xah
+│   │   │   ├── xai
+│   │   │   ├── xaj
+│   │   │   ├── xak
+│   │   │   └── xal
+│   │   ├── quotes
+│   │   │   ├── fix.py
+│   │   │   ├── quotes.1.json
+│   │   │   ├── quotes.2.json
+│   │   │   └── quotes_all.json
+│   │   ├── WordLists
+│   │   │   └── README.md
+│   │   ├── world_people
+│   │   │   ├── read_csv.cpp
+│   │   │   ├── world_people.csv
+│   │   │   └── world_people.json
+│   │   ├── armageddon_Mar_26.zip
+│   │   ├── candy_full.json
+│   │   ├── clan_names.txt
+│   │   ├── CleanGeorgia.json
+│   │   ├── counties.geojson
+│   │   ├── countries_export.json
+│   │   ├── country_capitals.geojson
+│   │   ├── dictionary_20mb.json
+│   │   ├── food.json
+│   │   ├── gz_2010_us_040_00_20m.json
+│   │   ├── gz_2010_us_040_00_500k.json
+│   │   ├── gz_2010_us_040_00_5m.json
+│   │   ├── gz_2010_us_outline_20m.json
+│   │   ├── gz_2010_us_outline_500k.json
+│   │   ├── gz_2010_us_outline_5m.json
+│   │   ├── latex_colors.json
+│   │   ├── Military_Bases.geojson
+│   │   ├── pokemon.csv
+│   │   ├── random_people.10000.json
+│   │   ├── read_world_cities.py
+│   │   ├── README.md
+│   │   ├── state_abbr.json
+│   │   ├── titanic.csv
+│   │   ├── tl_2019_us_rails.zip
+│   │   ├── ufo.csv
+│   │   ├── ufo_01.geojson
+│   │   ├── ufo_02.geojson
+│   │   ├── ufo_processing.py
+│   │   └── usa-state-capitals.geojson
+│   ├── Commenting_Guide
+│   │   ├── c++_comments.md
+│   │   ├── python_comments.md
+│   │   ├── README.md
+│   │   └── README.pdf
+│   ├── Data
+│   │   ├── Armageddon_Data
+│   │   │   ├── .shipping_lanes.geojson
+│   │   │   ├── .usa-border_crossings.geojson
+│   │   │   ├── .usa-country_outline.geojson
+│   │   │   ├── .usa-state_capitals.geojson
+│   │   │   ├── .usa-state_counties.geojson
+│   │   │   ├── .usa-us_military_bases.geojson
+│   │   │   ├── .usa-world_military_bases.geojson
+│   │   │   ├── .world-airports.geojson
+│   │   │   ├── .world-cities.geojson
+│   │   │   ├── .world-country_capitals.geojson
+│   │   │   ├── .world-country_codes.json
+│   │   │   ├── .world-country_indicators.json
+│   │   │   ├── .world-country_outline.geojson
+│   │   │   ├── .world-country_outline2.geojson
+│   │   │   ├── .world-earthquakes.geojson
+│   │   │   ├── .world-meteorites.geojson
+│   │   │   ├── .world-pirate_attacks.geojson
+│   │   │   ├── .world-railroads_10m.geojson
+│   │   │   ├── .world-shipping_lanes.geojson
+│   │   │   ├── .world-ufos.geojson
+│   │   │   ├── .world-volcanos.geojson
+│   │   │   ├── json_to_geojson.py
+│   │   │   ├── README.md
+│   │   │   ├── usa-border_crossings.zip
+│   │   │   ├── usa-country_outline.zip
+│   │   │   ├── usa-state_capitals.zip
+│   │   │   ├── usa-state_counties.zip
+│   │   │   ├── usa-us_military_bases.zip
+│   │   │   ├── usa-world_military_bases.zip
+│   │   │   ├── world-airports.zip
+│   │   │   ├── world-cities.zip
+│   │   │   ├── world-country_capitals.zip
+│   │   │   ├── world-country_codes.zip
+│   │   │   ├── world-country_indicators.zip
+│   │   │   ├── world-country_outline.zip
+│   │   │   ├── world-country_outline2.zip
+│   │   │   ├── world-earthquakes.zip
+│   │   │   ├── world-meteorites.zip
+│   │   │   ├── world-pirate_attacks.zip
+│   │   │   ├── world-railroads_10m.zip
+│   │   │   ├── world-shipping_lanes.zip
+│   │   │   ├── world-ufos.zip
+│   │   │   ├── world-volcanos.zip
+│   │   │   └── zip_manager.py
+│   │   ├── flag-icons
+│   │   │   ├── flags
+│   │   │   │   ├── 1x1
+│   │   │   │   │   ├── ad.svg
+│   │   │   │   │   ├── ae.svg
+│   │   │   │   │   ├── af.svg
+│   │   │   │   │   ├── ag.svg
+│   │   │   │   │   ├── ai.svg
+│   │   │   │   │   ├── al.svg
+│   │   │   │   │   ├── am.svg
+│   │   │   │   │   ├── ao.svg
+│   │   │   │   │   ├── aq.svg
+│   │   │   │   │   ├── ar.svg
+│   │   │   │   │   ├── arab.svg
+│   │   │   │   │   ├── as.svg
+│   │   │   │   │   ├── asean.svg
+│   │   │   │   │   ├── at.svg
+│   │   │   │   │   ├── au.svg
+│   │   │   │   │   ├── aw.svg
+│   │   │   │   │   ├── ax.svg
+│   │   │   │   │   ├── az.svg
+│   │   │   │   │   ├── ba.svg
+│   │   │   │   │   ├── bb.svg
+│   │   │   │   │   ├── bd.svg
+│   │   │   │   │   ├── be.svg
+│   │   │   │   │   ├── bf.svg
+│   │   │   │   │   ├── bg.svg
+│   │   │   │   │   ├── bh.svg
+│   │   │   │   │   ├── bi.svg
+│   │   │   │   │   ├── bj.svg
+│   │   │   │   │   ├── bl.svg
+│   │   │   │   │   ├── bm.svg
+│   │   │   │   │   ├── bn.svg
+│   │   │   │   │   ├── bo.svg
+│   │   │   │   │   ├── bq.svg
+│   │   │   │   │   ├── br.svg
+│   │   │   │   │   ├── bs.svg
+│   │   │   │   │   ├── bt.svg
+│   │   │   │   │   ├── bv.svg
+│   │   │   │   │   ├── bw.svg
+│   │   │   │   │   ├── by.svg
+│   │   │   │   │   ├── bz.svg
+│   │   │   │   │   ├── ca.svg
+│   │   │   │   │   ├── cc.svg
+│   │   │   │   │   ├── cd.svg
+│   │   │   │   │   ├── cefta.svg
+│   │   │   │   │   ├── cf.svg
+│   │   │   │   │   ├── cg.svg
+│   │   │   │   │   ├── ch.svg
+│   │   │   │   │   ├── ci.svg
+│   │   │   │   │   ├── ck.svg
+│   │   │   │   │   ├── cl.svg
+│   │   │   │   │   ├── cm.svg
+│   │   │   │   │   ├── cn.svg
+│   │   │   │   │   ├── co.svg
+│   │   │   │   │   ├── cp.svg
+│   │   │   │   │   ├── cr.svg
+│   │   │   │   │   ├── cu.svg
+│   │   │   │   │   ├── cv.svg
+│   │   │   │   │   ├── cw.svg
+│   │   │   │   │   ├── cx.svg
+│   │   │   │   │   ├── cy.svg
+│   │   │   │   │   ├── cz.svg
+│   │   │   │   │   ├── de.svg
+│   │   │   │   │   ├── dg.svg
+│   │   │   │   │   ├── dj.svg
+│   │   │   │   │   ├── dk.svg
+│   │   │   │   │   ├── dm.svg
+│   │   │   │   │   ├── do.svg
+│   │   │   │   │   ├── dz.svg
+│   │   │   │   │   ├── eac.svg
+│   │   │   │   │   ├── ec.svg
+│   │   │   │   │   ├── ee.svg
+│   │   │   │   │   ├── eg.svg
+│   │   │   │   │   ├── eh.svg
+│   │   │   │   │   ├── er.svg
+│   │   │   │   │   ├── es-ct.svg
+│   │   │   │   │   ├── es-ga.svg
+│   │   │   │   │   ├── es-pv.svg
+│   │   │   │   │   ├── es.svg
+│   │   │   │   │   ├── et.svg
+│   │   │   │   │   ├── eu.svg
+│   │   │   │   │   ├── fi.svg
+│   │   │   │   │   ├── fj.svg
+│   │   │   │   │   ├── fk.svg
+│   │   │   │   │   ├── fm.svg
+│   │   │   │   │   ├── fo.svg
+│   │   │   │   │   ├── fr.svg
+│   │   │   │   │   ├── ga.svg
+│   │   │   │   │   ├── gb-eng.svg
+│   │   │   │   │   ├── gb-nir.svg
+│   │   │   │   │   ├── gb-sct.svg
+│   │   │   │   │   ├── gb-wls.svg
+│   │   │   │   │   ├── gb.svg
+│   │   │   │   │   ├── gd.svg
+│   │   │   │   │   ├── ge.svg
+│   │   │   │   │   ├── gf.svg
+│   │   │   │   │   ├── gg.svg
+│   │   │   │   │   ├── gh.svg
+│   │   │   │   │   ├── gi.svg
+│   │   │   │   │   ├── gl.svg
+│   │   │   │   │   ├── gm.svg
+│   │   │   │   │   ├── gn.svg
+│   │   │   │   │   ├── gp.svg
+│   │   │   │   │   ├── gq.svg
+│   │   │   │   │   ├── gr.svg
+│   │   │   │   │   ├── gs.svg
+│   │   │   │   │   ├── gt.svg
+│   │   │   │   │   ├── gu.svg
+│   │   │   │   │   ├── gw.svg
+│   │   │   │   │   ├── gy.svg
+│   │   │   │   │   ├── hk.svg
+│   │   │   │   │   ├── hm.svg
+│   │   │   │   │   ├── hn.svg
+│   │   │   │   │   ├── hr.svg
+│   │   │   │   │   ├── ht.svg
+│   │   │   │   │   ├── hu.svg
+│   │   │   │   │   ├── ic.svg
+│   │   │   │   │   ├── id.svg
+│   │   │   │   │   ├── ie.svg
+│   │   │   │   │   ├── il.svg
+│   │   │   │   │   ├── im.svg
+│   │   │   │   │   ├── in.svg
+│   │   │   │   │   ├── io.svg
+│   │   │   │   │   ├── iq.svg
+│   │   │   │   │   ├── ir.svg
+│   │   │   │   │   ├── is.svg
+│   │   │   │   │   ├── it.svg
+│   │   │   │   │   ├── je.svg
+│   │   │   │   │   ├── jm.svg
+│   │   │   │   │   ├── jo.svg
+│   │   │   │   │   ├── jp.svg
+│   │   │   │   │   ├── ke.svg
+│   │   │   │   │   ├── kg.svg
+│   │   │   │   │   ├── kh.svg
+│   │   │   │   │   ├── ki.svg
+│   │   │   │   │   ├── km.svg
+│   │   │   │   │   ├── kn.svg
+│   │   │   │   │   ├── kp.svg
+│   │   │   │   │   ├── kr.svg
+│   │   │   │   │   ├── kw.svg
+│   │   │   │   │   ├── ky.svg
+│   │   │   │   │   ├── kz.svg
+│   │   │   │   │   ├── la.svg
+│   │   │   │   │   ├── lb.svg
+│   │   │   │   │   ├── lc.svg
+│   │   │   │   │   ├── li.svg
+│   │   │   │   │   ├── lk.svg
+│   │   │   │   │   ├── lr.svg
+│   │   │   │   │   ├── ls.svg
+│   │   │   │   │   ├── lt.svg
+│   │   │   │   │   ├── lu.svg
+│   │   │   │   │   ├── lv.svg
+│   │   │   │   │   ├── ly.svg
+│   │   │   │   │   ├── ma.svg
+│   │   │   │   │   ├── mc.svg
+│   │   │   │   │   ├── md.svg
+│   │   │   │   │   ├── me.svg
+│   │   │   │   │   ├── mf.svg
+│   │   │   │   │   ├── mg.svg
+│   │   │   │   │   ├── mh.svg
+│   │   │   │   │   ├── mk.svg
+│   │   │   │   │   ├── ml.svg
+│   │   │   │   │   ├── mm.svg
+│   │   │   │   │   ├── mn.svg
+│   │   │   │   │   ├── mo.svg
+│   │   │   │   │   ├── mp.svg
+│   │   │   │   │   ├── mq.svg
+│   │   │   │   │   ├── mr.svg
+│   │   │   │   │   ├── ms.svg
+│   │   │   │   │   ├── mt.svg
+│   │   │   │   │   ├── mu.svg
+│   │   │   │   │   ├── mv.svg
+│   │   │   │   │   ├── mw.svg
+│   │   │   │   │   ├── mx.svg
+│   │   │   │   │   ├── my.svg
+│   │   │   │   │   ├── mz.svg
+│   │   │   │   │   ├── na.svg
+│   │   │   │   │   ├── nc.svg
+│   │   │   │   │   ├── ne.svg
+│   │   │   │   │   ├── nf.svg
+│   │   │   │   │   ├── ng.svg
+│   │   │   │   │   ├── ni.svg
+│   │   │   │   │   ├── nl.svg
+│   │   │   │   │   ├── no.svg
+│   │   │   │   │   ├── np.svg
+│   │   │   │   │   ├── nr.svg
+│   │   │   │   │   ├── nu.svg
+│   │   │   │   │   ├── nz.svg
+│   │   │   │   │   ├── om.svg
+│   │   │   │   │   ├── pa.svg
+│   │   │   │   │   ├── pc.svg
+│   │   │   │   │   ├── pe.svg
+│   │   │   │   │   ├── pf.svg
+│   │   │   │   │   ├── pg.svg
+│   │   │   │   │   ├── ph.svg
+│   │   │   │   │   ├── pk.svg
+│   │   │   │   │   ├── pl.svg
+│   │   │   │   │   ├── pm.svg
+│   │   │   │   │   ├── pn.svg
+│   │   │   │   │   ├── pr.svg
+│   │   │   │   │   ├── ps.svg
+│   │   │   │   │   ├── pt.svg
+│   │   │   │   │   ├── pw.svg
+│   │   │   │   │   ├── py.svg
+│   │   │   │   │   ├── qa.svg
+│   │   │   │   │   ├── re.svg
+│   │   │   │   │   ├── ro.svg
+│   │   │   │   │   ├── rs.svg
+│   │   │   │   │   ├── ru.svg
+│   │   │   │   │   ├── rw.svg
+│   │   │   │   │   ├── sa.svg
+│   │   │   │   │   ├── sb.svg
+│   │   │   │   │   ├── sc.svg
+│   │   │   │   │   ├── sd.svg
+│   │   │   │   │   ├── se.svg
+│   │   │   │   │   ├── sg.svg
+│   │   │   │   │   ├── sh-ac.svg
+│   │   │   │   │   ├── sh-hl.svg
+│   │   │   │   │   ├── sh-ta.svg
+│   │   │   │   │   ├── sh.svg
+│   │   │   │   │   ├── si.svg
+│   │   │   │   │   ├── sj.svg
+│   │   │   │   │   ├── sk.svg
+│   │   │   │   │   ├── sl.svg
+│   │   │   │   │   ├── sm.svg
+│   │   │   │   │   ├── sn.svg
+│   │   │   │   │   ├── so.svg
+│   │   │   │   │   ├── sr.svg
+│   │   │   │   │   ├── ss.svg
+│   │   │   │   │   ├── st.svg
+│   │   │   │   │   ├── sv.svg
+│   │   │   │   │   ├── sx.svg
+│   │   │   │   │   ├── sy.svg
+│   │   │   │   │   ├── sz.svg
+│   │   │   │   │   ├── tc.svg
+│   │   │   │   │   ├── td.svg
+│   │   │   │   │   ├── tf.svg
+│   │   │   │   │   ├── tg.svg
+│   │   │   │   │   ├── th.svg
+│   │   │   │   │   ├── tj.svg
+│   │   │   │   │   ├── tk.svg
+│   │   │   │   │   ├── tl.svg
+│   │   │   │   │   ├── tm.svg
+│   │   │   │   │   ├── tn.svg
+│   │   │   │   │   ├── to.svg
+│   │   │   │   │   ├── tr.svg
+│   │   │   │   │   ├── tt.svg
+│   │   │   │   │   ├── tv.svg
+│   │   │   │   │   ├── tw.svg
+│   │   │   │   │   ├── tz.svg
+│   │   │   │   │   ├── ua.svg
+│   │   │   │   │   ├── ug.svg
+│   │   │   │   │   ├── um.svg
+│   │   │   │   │   ├── un.svg
+│   │   │   │   │   ├── us.svg
+│   │   │   │   │   ├── uy.svg
+│   │   │   │   │   ├── uz.svg
+│   │   │   │   │   ├── va.svg
+│   │   │   │   │   ├── vc.svg
+│   │   │   │   │   ├── ve.svg
+│   │   │   │   │   ├── vg.svg
+│   │   │   │   │   ├── vi.svg
+│   │   │   │   │   ├── vn.svg
+│   │   │   │   │   ├── vu.svg
+│   │   │   │   │   ├── wf.svg
+│   │   │   │   │   ├── ws.svg
+│   │   │   │   │   ├── xk.svg
+│   │   │   │   │   ├── xx.svg
+│   │   │   │   │   ├── ye.svg
+│   │   │   │   │   ├── yt.svg
+│   │   │   │   │   ├── za.svg
+│   │   │   │   │   ├── zm.svg
+│   │   │   │   │   └── zw.svg
+│   │   │   │   └── 4x3
+│   │   │   │       ├── ad.svg
+│   │   │   │       ├── ae.svg
+│   │   │   │       ├── af.svg
+│   │   │   │       ├── ag.svg
+│   │   │   │       ├── ai.svg
+│   │   │   │       ├── al.svg
+│   │   │   │       ├── am.svg
+│   │   │   │       ├── ao.svg
+│   │   │   │       ├── aq.svg
+│   │   │   │       ├── ar.svg
+│   │   │   │       ├── arab.svg
+│   │   │   │       ├── as.svg
+│   │   │   │       ├── asean.svg
+│   │   │   │       ├── at.svg
+│   │   │   │       ├── au.svg
+│   │   │   │       ├── aw.svg
+│   │   │   │       ├── ax.svg
+│   │   │   │       ├── az.svg
+│   │   │   │       ├── ba.svg
+│   │   │   │       ├── bb.svg
+│   │   │   │       ├── bd.svg
+│   │   │   │       ├── be.svg
+│   │   │   │       ├── bf.svg
+│   │   │   │       ├── bg.svg
+│   │   │   │       ├── bh.svg
+│   │   │   │       ├── bi.svg
+│   │   │   │       ├── bj.svg
+│   │   │   │       ├── bl.svg
+│   │   │   │       ├── bm.svg
+│   │   │   │       ├── bn.svg
+│   │   │   │       ├── bo.svg
+│   │   │   │       ├── bq.svg
+│   │   │   │       ├── br.svg
+│   │   │   │       ├── bs.svg
+│   │   │   │       ├── bt.svg
+│   │   │   │       ├── bv.svg
+│   │   │   │       ├── bw.svg
+│   │   │   │       ├── by.svg
+│   │   │   │       ├── bz.svg
+│   │   │   │       ├── ca.svg
+│   │   │   │       ├── cc.svg
+│   │   │   │       ├── cd.svg
+│   │   │   │       ├── cefta.svg
+│   │   │   │       ├── cf.svg
+│   │   │   │       ├── cg.svg
+│   │   │   │       ├── ch.svg
+│   │   │   │       ├── ci.svg
+│   │   │   │       ├── ck.svg
+│   │   │   │       ├── cl.svg
+│   │   │   │       ├── cm.svg
+│   │   │   │       ├── cn.svg
+│   │   │   │       ├── co.svg
+│   │   │   │       ├── cp.svg
+│   │   │   │       ├── cr.svg
+│   │   │   │       ├── cu.svg
+│   │   │   │       ├── cv.svg
+│   │   │   │       ├── cw.svg
+│   │   │   │       ├── cx.svg
+│   │   │   │       ├── cy.svg
+│   │   │   │       ├── cz.svg
+│   │   │   │       ├── de.svg
+│   │   │   │       ├── dg.svg
+│   │   │   │       ├── dj.svg
+│   │   │   │       ├── dk.svg
+│   │   │   │       ├── dm.svg
+│   │   │   │       ├── do.svg
+│   │   │   │       ├── dz.svg
+│   │   │   │       ├── eac.svg
+│   │   │   │       ├── ec.svg
+│   │   │   │       ├── ee.svg
+│   │   │   │       ├── eg.svg
+│   │   │   │       ├── eh.svg
+│   │   │   │       ├── er.svg
+│   │   │   │       ├── es-ct.svg
+│   │   │   │       ├── es-ga.svg
+│   │   │   │       ├── es-pv.svg
+│   │   │   │       ├── es.svg
+│   │   │   │       ├── et.svg
+│   │   │   │       ├── eu.svg
+│   │   │   │       ├── fi.svg
+│   │   │   │       ├── fj.svg
+│   │   │   │       ├── fk.svg
+│   │   │   │       ├── fm.svg
+│   │   │   │       ├── fo.svg
+│   │   │   │       ├── fr.svg
+│   │   │   │       ├── ga.svg
+│   │   │   │       ├── gb-eng.svg
+│   │   │   │       ├── gb-nir.svg
+│   │   │   │       ├── gb-sct.svg
+│   │   │   │       ├── gb-wls.svg
+│   │   │   │       ├── gb.svg
+│   │   │   │       ├── gd.svg
+│   │   │   │       ├── ge.svg
+│   │   │   │       ├── gf.svg
+│   │   │   │       ├── gg.svg
+│   │   │   │       ├── gh.svg
+│   │   │   │       ├── gi.svg
+│   │   │   │       ├── gl.svg
+│   │   │   │       ├── gm.svg
+│   │   │   │       ├── gn.svg
+│   │   │   │       ├── gp.svg
+│   │   │   │       ├── gq.svg
+│   │   │   │       ├── gr.svg
+│   │   │   │       ├── gs.svg
+│   │   │   │       ├── gt.svg
+│   │   │   │       ├── gu.svg
+│   │   │   │       ├── gw.svg
+│   │   │   │       ├── gy.svg
+│   │   │   │       ├── hk.svg
+│   │   │   │       ├── hm.svg
+│   │   │   │       ├── hn.svg
+│   │   │   │       ├── hr.svg
+│   │   │   │       ├── ht.svg
+│   │   │   │       ├── hu.svg
+│   │   │   │       ├── ic.svg
+│   │   │   │       ├── id.svg
+│   │   │   │       ├── ie.svg
+│   │   │   │       ├── il.svg
+│   │   │   │       ├── im.svg
+│   │   │   │       ├── in.svg
+│   │   │   │       ├── io.svg
+│   │   │   │       ├── iq.svg
+│   │   │   │       ├── ir.svg
+│   │   │   │       ├── is.svg
+│   │   │   │       ├── it.svg
+│   │   │   │       ├── je.svg
+│   │   │   │       ├── jm.svg
+│   │   │   │       ├── jo.svg
+│   │   │   │       ├── jp.svg
+│   │   │   │       ├── ke.svg
+│   │   │   │       ├── kg.svg
+│   │   │   │       ├── kh.svg
+│   │   │   │       ├── ki.svg
+│   │   │   │       ├── km.svg
+│   │   │   │       ├── kn.svg
+│   │   │   │       ├── kp.svg
+│   │   │   │       ├── kr.svg
+│   │   │   │       ├── kw.svg
+│   │   │   │       ├── ky.svg
+│   │   │   │       ├── kz.svg
+│   │   │   │       ├── la.svg
+│   │   │   │       ├── lb.svg
+│   │   │   │       ├── lc.svg
+│   │   │   │       ├── li.svg
+│   │   │   │       ├── lk.svg
+│   │   │   │       ├── lr.svg
+│   │   │   │       ├── ls.svg
+│   │   │   │       ├── lt.svg
+│   │   │   │       ├── lu.svg
+│   │   │   │       ├── lv.svg
+│   │   │   │       ├── ly.svg
+│   │   │   │       ├── ma.svg
+│   │   │   │       ├── mc.svg
+│   │   │   │       ├── md.svg
+│   │   │   │       ├── me.svg
+│   │   │   │       ├── mf.svg
+│   │   │   │       ├── mg.svg
+│   │   │   │       ├── mh.svg
+│   │   │   │       ├── mk.svg
+│   │   │   │       ├── ml.svg
+│   │   │   │       ├── mm.svg
+│   │   │   │       ├── mn.svg
+│   │   │   │       ├── mo.svg
+│   │   │   │       ├── mp.svg
+│   │   │   │       ├── mq.svg
+│   │   │   │       ├── mr.svg
+│   │   │   │       ├── ms.svg
+│   │   │   │       ├── mt.svg
+│   │   │   │       ├── mu.svg
+│   │   │   │       ├── mv.svg
+│   │   │   │       ├── mw.svg
+│   │   │   │       ├── mx.svg
+│   │   │   │       ├── my.svg
+│   │   │   │       ├── mz.svg
+│   │   │   │       ├── na.svg
+│   │   │   │       ├── nc.svg
+│   │   │   │       ├── ne.svg
+│   │   │   │       ├── nf.svg
+│   │   │   │       ├── ng.svg
+│   │   │   │       ├── ni.svg
+│   │   │   │       ├── nl.svg
+│   │   │   │       ├── no.svg
+│   │   │   │       ├── np.svg
+│   │   │   │       ├── nr.svg
+│   │   │   │       ├── nu.svg
+│   │   │   │       ├── nz.svg
+│   │   │   │       ├── om.svg
+│   │   │   │       ├── pa.svg
+│   │   │   │       ├── pc.svg
+│   │   │   │       ├── pe.svg
+│   │   │   │       ├── pf.svg
+│   │   │   │       ├── pg.svg
+│   │   │   │       ├── ph.svg
+│   │   │   │       ├── pk.svg
+│   │   │   │       ├── pl.svg
+│   │   │   │       ├── pm.svg
+│   │   │   │       ├── pn.svg
+│   │   │   │       ├── pr.svg
+│   │   │   │       ├── ps.svg
+│   │   │   │       ├── pt.svg
+│   │   │   │       ├── pw.svg
+│   │   │   │       ├── py.svg
+│   │   │   │       ├── qa.svg
+│   │   │   │       ├── re.svg
+│   │   │   │       ├── ro.svg
+│   │   │   │       ├── rs.svg
+│   │   │   │       ├── ru.svg
+│   │   │   │       ├── rw.svg
+│   │   │   │       ├── sa.svg
+│   │   │   │       ├── sb.svg
+│   │   │   │       ├── sc.svg
+│   │   │   │       ├── sd.svg
+│   │   │   │       ├── se.svg
+│   │   │   │       ├── sg.svg
+│   │   │   │       ├── sh-ac.svg
+│   │   │   │       ├── sh-hl.svg
+│   │   │   │       ├── sh-ta.svg
+│   │   │   │       ├── sh.svg
+│   │   │   │       ├── si.svg
+│   │   │   │       ├── sj.svg
+│   │   │   │       ├── sk.svg
+│   │   │   │       ├── sl.svg
+│   │   │   │       ├── sm.svg
+│   │   │   │       ├── sn.svg
+│   │   │   │       ├── so.svg
+│   │   │   │       ├── sr.svg
+│   │   │   │       ├── ss.svg
+│   │   │   │       ├── st.svg
+│   │   │   │       ├── sv.svg
+│   │   │   │       ├── sx.svg
+│   │   │   │       ├── sy.svg
+│   │   │   │       ├── sz.svg
+│   │   │   │       ├── tc.svg
+│   │   │   │       ├── td.svg
+│   │   │   │       ├── tf.svg
+│   │   │   │       ├── tg.svg
+│   │   │   │       ├── th.svg
+│   │   │   │       ├── tj.svg
+│   │   │   │       ├── tk.svg
+│   │   │   │       ├── tl.svg
+│   │   │   │       ├── tm.svg
+│   │   │   │       ├── tn.svg
+│   │   │   │       ├── to.svg
+│   │   │   │       ├── tr.svg
+│   │   │   │       ├── tt.svg
+│   │   │   │       ├── tv.svg
+│   │   │   │       ├── tw.svg
+│   │   │   │       ├── tz.svg
+│   │   │   │       ├── ua.svg
+│   │   │   │       ├── ug.svg
+│   │   │   │       ├── um.svg
+│   │   │   │       ├── un.svg
+│   │   │   │       ├── us.svg
+│   │   │   │       ├── uy.svg
+│   │   │   │       ├── uz.svg
+│   │   │   │       ├── va.svg
+│   │   │   │       ├── vc.svg
+│   │   │   │       ├── ve.svg
+│   │   │   │       ├── vg.svg
+│   │   │   │       ├── vi.svg
+│   │   │   │       ├── vn.svg
+│   │   │   │       ├── vu.svg
+│   │   │   │       ├── wf.svg
+│   │   │   │       ├── ws.svg
+│   │   │   │       ├── xk.svg
+│   │   │   │       ├── xx.svg
+│   │   │   │       ├── ye.svg
+│   │   │   │       ├── yt.svg
+│   │   │   │       ├── za.svg
+│   │   │   │       ├── zm.svg
+│   │   │   │       └── zw.svg
+│   │   │   └── country.json
+│   │   ├── world-geojson
+│   │   │   ├── areas
+│   │   │   │   ├── azerbaijan
+│   │   │   │   │   ├── mainland.json
+│   │   │   │   │   └── nakhchivan.json
+│   │   │   │   ├── denmark
+│   │   │   │   │   ├── faroe_islands.json
+│   │   │   │   │   ├── greenland.json
+│   │   │   │   │   └── mainland.json
+│   │   │   │   ├── ecuador
+│   │   │   │   │   ├── galapagos_islands.json
+│   │   │   │   │   └── mainland.json
+│   │   │   │   ├── france
+│   │   │   │   │   ├── clipperton_island.json
+│   │   │   │   │   ├── corsica.json
+│   │   │   │   │   ├── french_guiana.json
+│   │   │   │   │   ├── french_polynesia.json
+│   │   │   │   │   ├── french_southern_and_antarctic_lands.json
+│   │   │   │   │   ├── guadeloupe.json
+│   │   │   │   │   ├── mainland.json
+│   │   │   │   │   ├── martinique.json
+│   │   │   │   │   ├── mayotte.json
+│   │   │   │   │   ├── new_caledonia.json
+│   │   │   │   │   ├── reunion.json
+│   │   │   │   │   ├── saint_barthelemy.json
+│   │   │   │   │   ├── saint_martin.json
+│   │   │   │   │   ├── saint_pierre_and_miquelon.json
+│   │   │   │   │   └── wallis_and_futuna.json
+│   │   │   │   ├── italy
+│   │   │   │   │   ├── mainland.json
+│   │   │   │   │   ├── sardinia.json
+│   │   │   │   │   └── sicily.json
+│   │   │   │   ├── netherlands
+│   │   │   │   │   ├── aruba.json
+│   │   │   │   │   ├── bonaire.json
+│   │   │   │   │   ├── curacao.json
+│   │   │   │   │   ├── mainland.json
+│   │   │   │   │   ├── saba.json
+│   │   │   │   │   ├── sint_eustatius.json
+│   │   │   │   │   └── sint_maarten.json
+│   │   │   │   ├── new_zealand
+│   │   │   │   │   ├── antipodes_islands.json
+│   │   │   │   │   ├── auckland_islands.json
+│   │   │   │   │   ├── bounty_islands.json
+│   │   │   │   │   ├── campbell_island.json
+│   │   │   │   │   ├── chatham_island.json
+│   │   │   │   │   ├── kermadec_islands.json
+│   │   │   │   │   ├── mainland.json
+│   │   │   │   │   ├── north_island.json
+│   │   │   │   │   ├── snares_islands.json
+│   │   │   │   │   ├── south_island.json
+│   │   │   │   │   ├── three_kings_islands.json
+│   │   │   │   │   └── tokelau.json
+│   │   │   │   ├── norway
+│   │   │   │   │   ├── bouvet_island.json
+│   │   │   │   │   ├── jan_mayen.json
+│   │   │   │   │   ├── mainland.json
+│   │   │   │   │   └── svalbard.json
+│   │   │   │   ├── portugal
+│   │   │   │   │   ├── azores.json
+│   │   │   │   │   ├── madeira.json
+│   │   │   │   │   └── mainland.json
+│   │   │   │   ├── spain
+│   │   │   │   │   ├── balearic_islands.json
+│   │   │   │   │   ├── canary_islands.json
+│   │   │   │   │   └── mainland.json
+│   │   │   │   ├── united_kingdom
+│   │   │   │   │   ├── akrotiri_and_dhekelia.json
+│   │   │   │   │   ├── anguilla.json
+│   │   │   │   │   ├── bermuda.json
+│   │   │   │   │   ├── british_indian_ocean_territory.json
+│   │   │   │   │   ├── british_virgin_islands.json
+│   │   │   │   │   ├── cayman_islands.json
+│   │   │   │   │   ├── england.json
+│   │   │   │   │   ├── falkland_islands.json
+│   │   │   │   │   ├── gibraltar.json
+│   │   │   │   │   ├── guernsey.json
+│   │   │   │   │   ├── isle_of_man.json
+│   │   │   │   │   ├── jersey.json
+│   │   │   │   │   ├── montserrat.json
+│   │   │   │   │   ├── northern_ireland.json
+│   │   │   │   │   ├── pitcairn_islands.json
+│   │   │   │   │   ├── saint_helena_ascension_and_tristan_da_cunha.json
+│   │   │   │   │   ├── scotland.json
+│   │   │   │   │   ├── south_georgia_and_south_sandwich_islands.json
+│   │   │   │   │   ├── turks_and_caicos_islands.json
+│   │   │   │   │   ├── united_kingdom.json
+│   │   │   │   │   └── wales.json
+│   │   │   │   └── usa
+│   │   │   │       ├── american_samoa.json
+│   │   │   │       ├── bajo_nuevo_bank.json
+│   │   │   │       ├── baker_island.json
+│   │   │   │       ├── guam.json
+│   │   │   │       ├── howland_island.json
+│   │   │   │       ├── jarvis_island.json
+│   │   │   │       ├── johnston_atoll.json
+│   │   │   │       ├── kingman_reef.json
+│   │   │   │       ├── mainland.json
+│   │   │   │       ├── midway_atoll.json
+│   │   │   │       ├── navassa_island.json
+│   │   │   │       ├── northern_mariana_islands.json
+│   │   │   │       ├── palmyra_atoll.json
+│   │   │   │       ├── puerto_rico.json
+│   │   │   │       ├── seranilla_bank.json
+│   │   │   │       ├── us_virgin_islands.json
+│   │   │   │       └── wake_island.json
+│   │   │   ├── countries
+│   │   │   │   ├── afghanistan.json
+│   │   │   │   ├── albania.json
+│   │   │   │   ├── algeria.json
+│   │   │   │   ├── andorra.json
+│   │   │   │   ├── angola.json
+│   │   │   │   ├── antigua_and_barbuda.json
+│   │   │   │   ├── argentina.json
+│   │   │   │   ├── armenia.json
+│   │   │   │   ├── australia.json
+│   │   │   │   ├── austria.json
+│   │   │   │   ├── azerbaijan.json
+│   │   │   │   ├── bahamas.json
+│   │   │   │   ├── bahrain.json
+│   │   │   │   ├── bangladesh.json
+│   │   │   │   ├── barbados.json
+│   │   │   │   ├── belarus.json
+│   │   │   │   ├── belgium.json
+│   │   │   │   ├── belize.json
+│   │   │   │   ├── benin.json
+│   │   │   │   ├── bhutan.json
+│   │   │   │   ├── bolivia.json
+│   │   │   │   ├── bosnia_and_herzegovina.json
+│   │   │   │   ├── botswana.json
+│   │   │   │   ├── brazil.json
+│   │   │   │   ├── brunei.json
+│   │   │   │   ├── bulgaria.json
+│   │   │   │   ├── burkina_faso.json
+│   │   │   │   ├── burundi.json
+│   │   │   │   ├── cambodia.json
+│   │   │   │   ├── cameroon.json
+│   │   │   │   ├── canada.json
+│   │   │   │   ├── cape_verde.json
+│   │   │   │   ├── central_african_republic.json
+│   │   │   │   ├── chad.json
+│   │   │   │   ├── chile.json
+│   │   │   │   ├── china.json
+│   │   │   │   ├── colombia.json
+│   │   │   │   ├── comoros.json
+│   │   │   │   ├── congo.json
+│   │   │   │   ├── cook_islands.json
+│   │   │   │   ├── costa_rica.json
+│   │   │   │   ├── croatia.json
+│   │   │   │   ├── cuba.json
+│   │   │   │   ├── cyprus.json
+│   │   │   │   ├── czech.json
+│   │   │   │   ├── czechia.json
+│   │   │   │   ├── democratic_congo.json
+│   │   │   │   ├── denmark.json
+│   │   │   │   ├── djibouti.json
+│   │   │   │   ├── dominica.json
+│   │   │   │   ├── dominican_republic.json
+│   │   │   │   ├── east_timor.json
+│   │   │   │   ├── ecuador.json
+│   │   │   │   ├── egypt.json
+│   │   │   │   ├── el_salvador.json
+│   │   │   │   ├── equatorial_guinea.json
+│   │   │   │   ├── eritrea.json
+│   │   │   │   ├── estonia.json
+│   │   │   │   ├── eswatini.json
+│   │   │   │   ├── ethiopia.json
+│   │   │   │   ├── fiji.json
+│   │   │   │   ├── finland.json
+│   │   │   │   ├── france.json
+│   │   │   │   ├── gabon.json
+│   │   │   │   ├── gambia.json
+│   │   │   │   ├── georgia.json
+│   │   │   │   ├── germany.json
+│   │   │   │   ├── ghana.json
+│   │   │   │   ├── greece.json
+│   │   │   │   ├── grenada.json
+│   │   │   │   ├── guatemala.json
+│   │   │   │   ├── guinea.json
+│   │   │   │   ├── guinea_bissau.json
+│   │   │   │   ├── guyana.json
+│   │   │   │   ├── haiti.json
+│   │   │   │   ├── honduras.json
+│   │   │   │   ├── hungary.json
+│   │   │   │   ├── iceland.json
+│   │   │   │   ├── india.json
+│   │   │   │   ├── indonesia.json
+│   │   │   │   ├── iran.json
+│   │   │   │   ├── iraq.json
+│   │   │   │   ├── ireland.json
+│   │   │   │   ├── israel.json
+│   │   │   │   ├── italy.json
+│   │   │   │   ├── ivory_coast.json
+│   │   │   │   ├── jamaica.json
+│   │   │   │   ├── japan.json
+│   │   │   │   ├── jordan.json
+│   │   │   │   ├── kazakhstan.json
+│   │   │   │   ├── kenya.json
+│   │   │   │   ├── kiribati.json
+│   │   │   │   ├── kuwait.json
+│   │   │   │   ├── kyrgyzstan.json
+│   │   │   │   ├── laos.json
+│   │   │   │   ├── latvia.json
+│   │   │   │   ├── lebanon.json
+│   │   │   │   ├── lesotho.json
+│   │   │   │   ├── liberia.json
+│   │   │   │   ├── libya.json
+│   │   │   │   ├── liechtenstein.json
+│   │   │   │   ├── lithuania.json
+│   │   │   │   ├── luxembourg.json
+│   │   │   │   ├── madagascar.json
+│   │   │   │   ├── malawi.json
+│   │   │   │   ├── malaysia.json
+│   │   │   │   ├── maldives.json
+│   │   │   │   ├── mali.json
+│   │   │   │   ├── malta.json
+│   │   │   │   ├── marshall_islands.json
+│   │   │   │   ├── mauritania.json
+│   │   │   │   ├── mauritius.json
+│   │   │   │   ├── mexico.json
+│   │   │   │   ├── micronesia.json
+│   │   │   │   ├── moldova.json
+│   │   │   │   ├── monaco.json
+│   │   │   │   ├── mongolia.json
+│   │   │   │   ├── montenegro.json
+│   │   │   │   ├── morocco.json
+│   │   │   │   ├── mozambique.json
+│   │   │   │   ├── myanmar.json
+│   │   │   │   ├── namibia.json
+│   │   │   │   ├── nauru.json
+│   │   │   │   ├── nepal.json
+│   │   │   │   ├── netherlands.json
+│   │   │   │   ├── new_zealand.json
+│   │   │   │   ├── nicaragua.json
+│   │   │   │   ├── niger.json
+│   │   │   │   ├── nigeria.json
+│   │   │   │   ├── niue.json
+│   │   │   │   ├── north_korea.json
+│   │   │   │   ├── north_macedonia.json
+│   │   │   │   ├── norway.json
+│   │   │   │   ├── oman.json
+│   │   │   │   ├── pakistan.json
+│   │   │   │   ├── palau.json
+│   │   │   │   ├── palestine.json
+│   │   │   │   ├── panama.json
+│   │   │   │   ├── papua_new_guinea.json
+│   │   │   │   ├── paraguay.json
+│   │   │   │   ├── peru.json
+│   │   │   │   ├── philippines.json
+│   │   │   │   ├── poland.json
+│   │   │   │   ├── portugal.json
+│   │   │   │   ├── qatar.json
+│   │   │   │   ├── romania.json
+│   │   │   │   ├── russia.json
+│   │   │   │   ├── rwanda.json
+│   │   │   │   ├── saint_kitts_and_nevis.json
+│   │   │   │   ├── saint_lucia.json
+│   │   │   │   ├── saint_vincent_and_the_grenadines.json
+│   │   │   │   ├── samoa.json
+│   │   │   │   ├── san_marino.json
+│   │   │   │   ├── sao_tome_and_principe.json
+│   │   │   │   ├── saudi_arabia.json
+│   │   │   │   ├── senegal.json
+│   │   │   │   ├── serbia.json
+│   │   │   │   ├── seychelles.json
+│   │   │   │   ├── sierra_leone.json
+│   │   │   │   ├── singapore.json
+│   │   │   │   ├── slovakia.json
+│   │   │   │   ├── slovenia.json
+│   │   │   │   ├── solomon_islands.json
+│   │   │   │   ├── somalia.json
+│   │   │   │   ├── south_africa.json
+│   │   │   │   ├── south_korea.json
+│   │   │   │   ├── south_sudan.json
+│   │   │   │   ├── spain.json
+│   │   │   │   ├── sri_lanka.json
+│   │   │   │   ├── sudan.json
+│   │   │   │   ├── suriname.json
+│   │   │   │   ├── sweden.json
+│   │   │   │   ├── switzerland.json
+│   │   │   │   ├── syria.json
+│   │   │   │   ├── taiwan.json
+│   │   │   │   ├── tajikistan.json
+│   │   │   │   ├── tanzania.json
+│   │   │   │   ├── thailand.json
+│   │   │   │   ├── togo.json
+│   │   │   │   ├── tonga.json
+│   │   │   │   ├── trinidad_and_tobago.json
+│   │   │   │   ├── tunisia.json
+│   │   │   │   ├── turkey.json
+│   │   │   │   ├── turkmenistan.json
+│   │   │   │   ├── tuvalu.json
+│   │   │   │   ├── uganda.json
+│   │   │   │   ├── ukraine.json
+│   │   │   │   ├── united_arab_emirates.json
+│   │   │   │   ├── united_kingdom.json
+│   │   │   │   ├── uruguay.json
+│   │   │   │   ├── usa.json
+│   │   │   │   ├── uzbekistan.json
+│   │   │   │   ├── vanuatu.json
+│   │   │   │   ├── vatican.json
+│   │   │   │   ├── venezuela.json
+│   │   │   │   ├── vietnam.json
+│   │   │   │   ├── western_sahara.json
+│   │   │   │   ├── yemen.json
+│   │   │   │   ├── zambia.json
+│   │   │   │   └── zimbabwe.json
+│   │   │   ├── helper
+│   │   │   │   └── countryCode.json
+│   │   │   ├── states
+│   │   │   │   ├── australia
+│   │   │   │   │   ├── new_south_wales.json
+│   │   │   │   │   ├── northern_territory.json
+│   │   │   │   │   ├── queensland.json
+│   │   │   │   │   ├── south_australia.json
+│   │   │   │   │   ├── tasmania.json
+│   │   │   │   │   ├── victoria.json
+│   │   │   │   │   └── western_australia.json
+│   │   │   │   ├── canada
+│   │   │   │   │   ├── alberta.json
+│   │   │   │   │   ├── british_columbia.json
+│   │   │   │   │   ├── manitoba.json
+│   │   │   │   │   ├── new_brunswick.json
+│   │   │   │   │   ├── newfoundland_and_labrador.json
+│   │   │   │   │   ├── northwest_territories.json
+│   │   │   │   │   ├── nova_scotia.json
+│   │   │   │   │   ├── nunavut.json
+│   │   │   │   │   ├── ontario.json
+│   │   │   │   │   ├── prince_edward_island.json
+│   │   │   │   │   ├── quebec.json
+│   │   │   │   │   ├── saskatchewan.json
+│   │   │   │   │   └── yukon.json
+│   │   │   │   ├── india
+│   │   │   │   │   ├── andaman_nicobar_island.json
+│   │   │   │   │   ├── andhra_pradesh.json
+│   │   │   │   │   ├── arunachal_pradesh.json
+│   │   │   │   │   ├── assam.json
+│   │   │   │   │   ├── bihar.json
+│   │   │   │   │   ├── chandigarh.json
+│   │   │   │   │   ├── chhattisgarh.json
+│   │   │   │   │   ├── dadara_nagar_havelli.json
+│   │   │   │   │   ├── daman_diu.json
+│   │   │   │   │   ├── goa.json
+│   │   │   │   │   ├── gujarat.json
+│   │   │   │   │   ├── haryana.json
+│   │   │   │   │   ├── himachal_pradesh.json
+│   │   │   │   │   ├── jammu_kashmir.json
+│   │   │   │   │   ├── jharkhand.json
+│   │   │   │   │   ├── karnataka.json
+│   │   │   │   │   ├── kerala.json
+│   │   │   │   │   ├── ladakh.json
+│   │   │   │   │   ├── lakshadweep.json
+│   │   │   │   │   ├── madhya_pradesh.json
+│   │   │   │   │   ├── maharashtra.json
+│   │   │   │   │   ├── manipur.json
+│   │   │   │   │   ├── meghalaya.json
+│   │   │   │   │   ├── mizoram.json
+│   │   │   │   │   ├── nagaland.json
+│   │   │   │   │   ├── nct_of_delhi.json
+│   │   │   │   │   ├── odisha.json
+│   │   │   │   │   ├── puducherry.json
+│   │   │   │   │   ├── punjab.json
+│   │   │   │   │   ├── rajasthan.json
+│   │   │   │   │   ├── sikkim.json
+│   │   │   │   │   ├── tamil_nadu.json
+│   │   │   │   │   ├── telangana.json
+│   │   │   │   │   ├── tripura.json
+│   │   │   │   │   ├── uttar_pradesh.json
+│   │   │   │   │   ├── uttarakhand.json
+│   │   │   │   │   └── west_bengal.json
+│   │   │   │   ├── switzerland
+│   │   │   │   │   ├── aargau.geojson
+│   │   │   │   │   ├── appenzell-ausserrhoden.geojson
+│   │   │   │   │   ├── appenzell-innerrhoden.geojson
+│   │   │   │   │   ├── basel-landschaft.geojson
+│   │   │   │   │   ├── basel-stadt.geojson
+│   │   │   │   │   ├── berne.geojson
+│   │   │   │   │   ├── fribourg.geojson
+│   │   │   │   │   ├── geneva.geojson
+│   │   │   │   │   ├── glarus.geojson
+│   │   │   │   │   ├── grisons.geojson
+│   │   │   │   │   ├── jura.geojson
+│   │   │   │   │   ├── lucerne.geojson
+│   │   │   │   │   ├── neuchâtel.geojson
+│   │   │   │   │   ├── nidwalden.geojson
+│   │   │   │   │   ├── obwalden.geojson
+│   │   │   │   │   ├── schaffhausen.geojson
+│   │   │   │   │   ├── schwyz.geojson
+│   │   │   │   │   ├── solothurn.geojson
+│   │   │   │   │   ├── st-gallen.geojson
+│   │   │   │   │   ├── thurgau.geojson
+│   │   │   │   │   ├── ticino.geojson
+│   │   │   │   │   ├── uri.geojson
+│   │   │   │   │   ├── valais.geojson
+│   │   │   │   │   ├── vaud.geojson
+│   │   │   │   │   ├── zug.geojson
+│   │   │   │   │   └── zurich.geojson
+│   │   │   │   ├── thailand
+│   │   │   │   │   ├── amnatcharoen.json
+│   │   │   │   │   ├── angthong.json
+│   │   │   │   │   ├── bangkok.json
+│   │   │   │   │   ├── buengkan.json
+│   │   │   │   │   ├── buriram.json
+│   │   │   │   │   ├── chachoengsao.json
+│   │   │   │   │   ├── chainat.json
+│   │   │   │   │   ├── chaiyaphum.json
+│   │   │   │   │   ├── chanthaburi.json
+│   │   │   │   │   ├── chiangmai.json
+│   │   │   │   │   ├── chiangrai.json
+│   │   │   │   │   ├── chonburi.json
+│   │   │   │   │   ├── chumphon.json
+│   │   │   │   │   ├── kalasin.json
+│   │   │   │   │   ├── kamphaengphet.json
+│   │   │   │   │   ├── kanchanaburi.json
+│   │   │   │   │   ├── khonkean.json
+│   │   │   │   │   ├── krabi.json
+│   │   │   │   │   ├── lampang.json
+│   │   │   │   │   ├── lamphun.json
+│   │   │   │   │   ├── loei.json
+│   │   │   │   │   ├── lopburi.json
+│   │   │   │   │   ├── maehongson.json
+│   │   │   │   │   ├── mahasarakham.json
+│   │   │   │   │   ├── mukdahan.json
+│   │   │   │   │   ├── nakhonnayok.json
+│   │   │   │   │   ├── nakhonpathom.json
+│   │   │   │   │   ├── nakhonphanom.json
+│   │   │   │   │   ├── nakhonratchasima.json
+│   │   │   │   │   ├── nakhonsawan.json
+│   │   │   │   │   ├── nakhonsithammarat.json
+│   │   │   │   │   ├── nan.json
+│   │   │   │   │   ├── narathiwat.json
+│   │   │   │   │   ├── nongbualamphu.json
+│   │   │   │   │   ├── nongkhai.json
+│   │   │   │   │   ├── nonthaburi.json
+│   │   │   │   │   ├── pattani.json
+│   │   │   │   │   ├── phangnga.json
+│   │   │   │   │   ├── phatthalung.json
+│   │   │   │   │   ├── phayao.json
+│   │   │   │   │   ├── phetchabun.json
+│   │   │   │   │   ├── phetchaburi.json
+│   │   │   │   │   ├── phichit.json
+│   │   │   │   │   ├── phitsanulok.json
+│   │   │   │   │   ├── phrae.json
+│   │   │   │   │   ├── phuket.json
+│   │   │   │   │   ├── prachinburi.json
+│   │   │   │   │   ├── prachuapkhirikhan.json
+│   │   │   │   │   ├── pranakhonsriayutthaya.json
+│   │   │   │   │   ├── prathumthani.json
+│   │   │   │   │   ├── ranong.json
+│   │   │   │   │   ├── ratchaburi.json
+│   │   │   │   │   ├── rayong.json
+│   │   │   │   │   ├── roiet.json
+│   │   │   │   │   ├── sakaeo.json
+│   │   │   │   │   ├── sakonnakhon.json
+│   │   │   │   │   ├── samutprakan.json
+│   │   │   │   │   ├── samutsakhon.json
+│   │   │   │   │   ├── samutsongkhram.json
+│   │   │   │   │   ├── saraburi.json
+│   │   │   │   │   ├── satun.json
+│   │   │   │   │   ├── singburi.json
+│   │   │   │   │   ├── sisaket.json
+│   │   │   │   │   ├── songkhla.json
+│   │   │   │   │   ├── sukhothai.json
+│   │   │   │   │   ├── suphanburi.json
+│   │   │   │   │   ├── suratthani.json
+│   │   │   │   │   ├── surin.json
+│   │   │   │   │   ├── tak.json
+│   │   │   │   │   ├── trang.json
+│   │   │   │   │   ├── trat.json
+│   │   │   │   │   ├── ubonratchathani.json
+│   │   │   │   │   ├── udonthani.json
+│   │   │   │   │   ├── uthaithani.json
+│   │   │   │   │   ├── uttaradit.json
+│   │   │   │   │   ├── yala.json
+│   │   │   │   │   └── yasothon.json
+│   │   │   │   └── usa
+│   │   │   │       ├── alabama.json
+│   │   │   │       ├── alaska.json
+│   │   │   │       ├── arizona.json
+│   │   │   │       ├── arkansas.json
+│   │   │   │       ├── california.json
+│   │   │   │       ├── colorado.json
+│   │   │   │       ├── connecticut.json
+│   │   │   │       ├── delaware.json
+│   │   │   │       ├── district_of_columbia.json
+│   │   │   │       ├── florida.json
+│   │   │   │       ├── georgia.json
+│   │   │   │       ├── idaho.json
+│   │   │   │       ├── illinois.json
+│   │   │   │       ├── indiana.json
+│   │   │   │       ├── iowa.json
+│   │   │   │       ├── kansas.json
+│   │   │   │       ├── kentucky.json
+│   │   │   │       ├── louisiana.json
+│   │   │   │       ├── maine.json
+│   │   │   │       ├── maryland.json
+│   │   │   │       ├── massachusetts.json
+│   │   │   │       ├── michigan.json
+│   │   │   │       ├── minnesota.json
+│   │   │   │       ├── mississippi.json
+│   │   │   │       ├── missouri.json
+│   │   │   │       ├── montana.json
+│   │   │   │       ├── nebraska.json
+│   │   │   │       ├── nevada.json
+│   │   │   │       ├── new_hampshire.json
+│   │   │   │       ├── new_jersey.json
+│   │   │   │       ├── new_mexico.json
+│   │   │   │       ├── new_york.json
+│   │   │   │       ├── north_carolina.json
+│   │   │   │       ├── north_dakota.json
+│   │   │   │       ├── ohio.json
+│   │   │   │       ├── oklahoma.json
+│   │   │   │       ├── oregon.json
+│   │   │   │       ├── pennsylvania.json
+│   │   │   │       ├── rhode_island.json
+│   │   │   │       ├── south_carolina.json
+│   │   │   │       ├── south_dakota.json
+│   │   │   │       ├── tennessee.json
+│   │   │   │       ├── texas.json
+│   │   │   │       ├── utah.json
+│   │   │   │       ├── vermont.json
+│   │   │   │       ├── virginia.json
+│   │   │   │       ├── washington.json
+│   │   │   │       ├── west_virginia.json
+│   │   │   │       ├── wisconsin.json
+│   │   │   │       └── wyoming.json
+│   │   │   └── README.md
+│   │   ├── .world-pirate_attacks.csv
+│   │   ├── convert_2_geojson.py
+│   │   ├── countries.geojson
+│   │   ├── countries_older.json
+│   │   ├── csv2json.py
+│   │   ├── data_summary.py
+│   │   └── json_to_geojson.py
+│   ├── FoliumGuide
+│   │   └── README.md
+│   ├── IpyLeafletGuide
+│   │   ├── 01_Click_To_Place_Markers.ipynb
+│   │   ├── 02_Slider_Controlled_Threat_Rings.ipynb
+│   │   ├── 03_Click_Driven_Point_In_Polygon.ipynb
+│   │   └── README.md
+│   ├── Pathlib_Guide
+│   │   └── README.md
+│   ├── Readmees_Guide
+│   │   └── README.md
+│   ├── wdo
+│   │   ├── games
+│   │   │   ├── __init__.py
+│   │   │   ├── pursuit.py
+│   │   │   └── worldle.py
+│   │   ├── geometry
+│   │   │   ├── __init__.py
+│   │   │   ├── bbox.py
+│   │   │   ├── bearing.py
+│   │   │   ├── distance.py
+│   │   │   ├── interpolation.py
+│   │   │   ├── points.py
+│   │   │   └── simplify.py
+│   │   ├── graphs
+│   │   │   ├── __init__.py
+│   │   │   ├── connectivity.py
+│   │   │   ├── rail_graph.py
+│   │   │   └── routing.py
+│   │   ├── io
+│   │   │   ├── __init__.py
+│   │   │   ├── geojson_tools.py
+│   │   │   ├── json_tools.py
+│   │   │   └── paths.py
+│   │   ├── maps
+│   │   │   ├── __init__.py
+│   │   │   ├── interaction.py
+│   │   │   ├── leaflet_helpers.py
+│   │   │   └── style_tools.py
+│   │   ├── spatial
+│   │   │   ├── __init__.py
+│   │   │   ├── buffers.py
+│   │   │   ├── feature_queries.py
+│   │   │   ├── intersections.py
+│   │   │   └── pip.py
+│   │   ├── utils
+│   │   │   ├── __init__.py
+│   │   │   ├── formatting.py
+│   │   │   └── validation.py
+│   │   ├── __init__.py
+│   │   ├── build_scaffold.py
+│   │   └── README.md
+│   ├── GeoJsonRules.md
+│   ├── Helpful_Links.md
+│   ├── meta.yaml
+│   └── README.md
+├── .gitignore
+├── clauderequest.md
+├── COURSE_STRUCTURE.md
+├── ghostty.terminfo
+├── GLOBAL_CALENDAR.md
+├── justfile
+├── mytree.py
+├── mytree2.py
+├── mytree3.py
+├── notebook_checklist.csv
+├── notebook_checklist.md
+├── PYTHON_VERSION.txt
+├── README.md
+├── requirements.txt
+├── reset_env.sh
+├── SETUP.md
+├── test_env.ipynb
+├── tree.txt
+└── znotes.txt

@@ -1,0 +1,211 @@
+│   │   │   └── README.md
+│   │   │   └── README.md
+│   │   │   └── README.md
+│   │   │   └── README.md
+│   │       └── README.md
+│   │   ├── codespace_intro.ipynb
+│   └── README.md
+│   │   │   ├── 02a-mini_quiz.ipynb
+│   │   │   └── README.md
+│   │   │   │   ├── 01-Lists.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 02-Tuples.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 03-Data_Types_and_Arithmetic.ipynb
+│   │   │   │   └── README.md
+│   │   │       ├── 03-Dictionaries.ipynb
+│   │   │       └── README.md
+│   │   │   ├── 01-Scalar_Types.ipynb
+│   │   │   └── README.md
+│   │   │   ├── mini_quiz.ipynb
+│   │   │   ├── README.md
+│   │   │   │   ├── 02-Control_Flow.ipynb
+│   │   │   │   └── README.md
+│   │   └── README.md
+│   │   │   ├── mini_quiz.ipynb
+│   │   │   └── README.md
+│   │   │   │   ├── 01-For_Loops.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 02-While_Loops.ipynb
+│   │   │   │   └── README.md
+│   │   │       ├── 03-File_Loops_and_With.ipynb
+│   │   │       └── README.md
+│   │       ├── README.md
+│   │   │   ├── 01-Foundations_Quiz.ipynb
+│   │   │   ├── 02-mini_quiz.ipynb
+│   │   │   └── README.md
+│   │   │   │   ├── 01-magic_commands.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 02-Markdown_and_Formatting.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 03-Work_With_Files.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 04-Data_Input_Output.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 05-Plotting_Basics.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 06-Jupyter_Shortcuts_and_Productivity.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 07-Using_Help_and_Docs.ipynb
+│   │   │   │   └── README.md
+│   │   │       ├── 08-Timing_and_Performance.ipynb
+│   │   │       └── README.md
+│   │   └── README.md
+│   │   │   └── mini_quiz.ipynb
+│   │   │   │   ├── 01-Lists_Dicts_and_Tuples.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 02-Pandas_Series_and_Dataframes.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 03-Loading_and_Exploring_Eata.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 04-Indexing_and_Selection.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 05-Basic_Cleaning.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 06-Column_Operations.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 07-Sorting_and_Filtering.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 08-Pandas_Wrangle_Lab.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 09-Survey_Cleaning_Assignment.ipynb
+│   │   │   │   └── README.md
+│   │   │   └── README.md
+│   │       └── README.md
+│   │   │   └── mini_quiz.ipynb
+│   │   │   │   ├── 01-Types_of_Data.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 02-Summary_Statistics.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 03-Matplotlib_Basics.ipynb
+│   │   │   │   └── README.md
+│   │   │   │   ├── 04-Seaborn_Basics.ipynb
+│   │   │   │   └── README.md
+│   │   │       ├── 05-Visualization_MiniLab.ipynb
+│   │   │       └── README.md
+│   │   │   └── README.md
+│   │       └── README.md
+│   └── README.md
+│   │   ├── 00-Working_Directory.ipynb
+│   │   ├── 01-Data_Elsewhere.ipynb
+│   │   ├── 02-Viewing_Geojson.ipynb
+│   │   ├── 03-Style_W_Logic.ipynb
+│   │   ├── 04-Distance.ipynb
+│   │   ├── 05-Geo_and_Json_overview.ipynb
+│   │   ├── 06-Distances.ipynb
+│   │   ├── 07-InteractiveMaps.ipynb
+│   │   ├── 08-InstallingLocalLib.ipynb
+│   │   ├── 09-YourOwnLibrary.ipynb
+│   │   └── README.md
+│   │   ├── README.md
+│   ├── README.md
+│   ├── setup.ipynb
+│   │   │   ├── 00-Working_Directory.ipynb
+│   │   │   ├── 01-Relative_vs_Absolute.ipynb
+│   │   │   ├── 02-Data_Elsewhere.ipynb
+│   │   │   ├── 03-Find_Project_Root.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-Reading_JSON.ipynb
+│   │   │   ├── 01-GeoJSON_Structure.ipynb
+│   │   │   ├── 02-Feature_Collections.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-Geojson.io.ipynb
+│   │   │   ├── 01-iPyLeaflet_Intro.ipynb
+│   │   │   ├── 02-Add_GeoJSON.ipynb
+│   │   │   ├── 03-Map_Control.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-Properties.ipynb
+│   │   │   ├── 01-Style_Functions.ipynb
+│   │   │   ├── 02-Filtering.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-Map_Events.ipynb
+│   │   │   ├── 01-Click_Interactions.ipynb
+│   │   │   ├── 02-Dynamic_Layers.ipynb
+│   │   │   ├── 03-User_Feedback.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-Coordinate_Ranges.ipynb
+│   │   │   ├── 01-Compute_BBox.ipynb
+│   │   │   ├── 02-Draw_BBox.ipynb
+│   │   │   ├── 03-Why_LatLon_Is_Weird.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-Euclidean_Distance.ipynb
+│   │   │   ├── 01-Haversine_Distance.ipynb
+│   │   │   ├── 02-Compare_Methods.ipynb
+│   │   │   ├── 03-Distance_Applications.ipynb
+│   │   │   ├── 04-Performance_Batching.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-What_Is_Bearing.ipynb
+│   │   │   ├── 01-Compute_Bearing.ipynb
+│   │   │   ├── 02-Bearing_V_Direction.ipynb
+│   │   │   ├── 03-Bearing_Applications.ipynb
+│   │   │   ├── 04-Advanced_Bearing.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-Problem_Setup.ipynb
+│   │   │   ├── 01-Constant_Velocity_Intercept.ipynb
+│   │   │   ├── 02-Iterative_Pursuit.ipynb
+│   │   │   ├── 03-Visual_Simulation.ipynb
+│   │   │   ├── 04-Strategy_and_Limits.ipynb
+│   │   │   ├── 05-Advanced_Topics.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-Lines_as_Paths.ipynb
+│   │   │   ├── 01-Line_Segment_Intersection.ipynb
+│   │   │   ├── 02-Line_vs_Polygon_Basics.ipynb
+│   │   │   ├── 03-Detecting_Intersections.ipynb
+│   │   │   ├── 04-Highlighting_Intersected_Features.ipynb
+│   │   │   ├── 05-Applications_Missile_Paths.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00_Buffer_Concepts.ipynb
+│   │   │   ├── 01_Buffering_Points.ipynb
+│   │   │   ├── 02-Buffering_Lines.ipynb
+│   │   │   ├── 03-Comparing_Buffer_Sizes.ipynb
+│   │   │   ├── 04-Buffer_Visualization_Strategies.ipynb
+│   │   │   ├── 05-CRS_Limitations.ipynb
+│   │   │   ├── 06-Applications_Impact_Zones.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00_Click_Capture.ipynb
+│   │   │   ├── 01_Point_Representation.ipynb
+│   │   │   ├── 02_Point_In_Polygon_Basics.ipynb
+│   │   │   ├── 03_Ray_Casting_Algorithm.ipynb
+│   │   │   ├── 04_Testing_Against_Multiple_Features.ipynb
+│   │   │   ├── 05_Region_Classification.ipynb
+│   │   │   ├── 06_Interactive_Click_Applications.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 01-From-Notebook-to-Module.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 01-Installing-and-Using-WDO.ipynb
+│   │   │   └── README.md
+│   │   └── README.md
+│   └── README.md
+│   │   │   ├── 00-Loading_and_Inspecting.ipynb
+│   │   │   ├── 01-Measuring_the_Problem.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-The_Algorithm.ipynb
+│   │   │   ├── 01-Implementation.ipynb
+│   │   │   ├── 02-Epsilon_and_Tradeoffs.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-Designing_the_Pipeline.ipynb
+│   │   │   ├── 01-Writing_the_LOD_Files.ipynb
+│   │   │   ├── 02-Comparing_the_Levels.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-Bounding_Boxes.ipynb
+│   │   │   ├── 01-Intersection_Test.ipynb
+│   │   │   ├── 02-Viewport_Culling.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-The_Grid_Idea.ipynb
+│   │   │   ├── 01-Building_the_Index.ipynb
+│   │   │   ├── 02-Querying_and_Benchmarking.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-The_Decision_Function.ipynb
+│   │   │   ├── 01-Live_Layer_Switching.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-The_Viewer.ipynb
+│   │   │   ├── 01-What_We_Built.ipynb
+│   │   │   └── README.md
+│   │   │   ├── 00-What_Are_Vector_Tiles.ipynb
+│   │   │   ├── 01-Using_Tippecanoe.ipynb
+│   │   │   ├── 02-The_Comparison.ipynb
+│   │   │   └── README.md
+│   │   └── README.md
+│   └── README.md
+│   └── README.md
+└── README.md

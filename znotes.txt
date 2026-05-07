@@ -1,6 +1,0 @@
-Before I make any more assignments I need to get my data 
-files organized. I have a location on a server here: 
-"/var/www/cs2.msutexas.edu/public_html/data" that has 
-room, but I would like easy access for me and my students. 
-Before I move anything to a central location, I need to
-
